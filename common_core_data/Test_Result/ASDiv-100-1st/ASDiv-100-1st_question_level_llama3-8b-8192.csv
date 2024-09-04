@@ -1,0 +1,826 @@
+Question_ID,Step_ID,Source,Question,Solution,Step,KC applied,KC predicted,Grade,Full Reply
+1666,1,ASDiv,"A small school has 55 students. If 10 of the students are boys, what is the ratio of girls to boys?",<<9/2>>,55-10=45; 45:10=9:2,,"['4.NF.A.1', '4.OA.A.1', '4.OA.A.2', '4.NBT.A.1', '4.OA.A.3']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.NF.A.1: Explain why a fraction a/b is equivalent to a fraction (n × a)/(n × b) by using visual fraction models, with attention to how the number and size of the parts differ even though the two fractions themselves are the same size.
+2. 4.OA.A.1: Interpret a multiplication equation as a comparison, e.g., interpret 35 = 5 × 7 as a statement that 35 is 5 times as many as 7 and 7 times as many as 5. Represent verbal statements of multiplicative comparisons as multiplication equations.
+3. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+4. 4.NBT.A.1: Recognize that in a multi-digit whole number, a digit in one place represents ten times what it represents in the place to its right. For example, recognize that 700 ÷ 70 = 10 by applying concepts of place value and division.
+5. 4.OA.A.3: Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+These knowledge components are required to solve the problem, which involves interpreting a ratio, using multiplication and division to solve a word problem, and applying place value concepts."
+1284,1,ASDiv,"Tom used 2 batteries on his flashlights, 15 in his toys and 2 in his controllers. What's the difference between the number of Tom's batteries on flashlights and in toys?",13 (batteries),15-2=13,,"['1.OA.A.1', '1.NBT.B.3', '1.NBT.C.4']",2,"To answer this question, the following knowledge components are required:
+
+1. ""1.OA.A.1"": Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+2. ""1.NBT.B.3"": Compare two two-digit numbers based on meanings of the tens and ones digits, recording the results of comparisons with the symbols >, =, and <.
+3. ""1.NBT.C.4"": Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.
+
+These knowledge components are required to solve the problem by comparing the number of batteries Tom used on his flashlights (2) with the number of batteries he used in his toys (15), and finding the difference (13)."
+1145,1,ASDiv,Collin baked 9 brownies with nuts on top and 34 brownies without nuts. What is the ratio of the number of brownies with nuts on top to the total number of brownies?,<<9/43>>,9+34=43; 9:43,,"['5.NF.A.1', '5.NF.B.3', '5.OA.A.2']",6,"To answer this question, the following knowledge components are required:
+
+1. 5.NF.A.1: Add and subtract fractions with unlike denominators (including mixed numbers) by replacing given fractions with equivalent fractions in such a way as to produce an equivalent sum or difference of fractions with like denominators.
+2. 5.NF.B.3: Interpret a fraction as division of the numerator by the denominator (a/b = a ÷ b). Solve word problems involving division of whole numbers leading to answers in the form of fractions or mixed numbers, e.g., by using visual fraction models or equations to represent the problem.
+3. 5.OA.A.2: Write simple expressions that record calculations with numbers, and interpret numerical expressions without evaluating them. For example, express the calculation ""add 8 and 7, then multiply by 2"" as 2 × (8 + 7). Recognize that 3 × (18932 + 921) is three times as large as 18932 + 921, without having to calculate the indicated sum or product.
+
+These knowledge components are required to understand the concept of ratio, to add and subtract fractions, and to interpret the given information to find the ratio of the number of brownies with nuts on top to the total number of brownies."
+1592,1,ASDiv,"There are 396 students going to a trivia competition. If each school van can hold 9 students, how many vans will they need?",44 (vans),396/9=44,,['4.OA.A.3'],5,"To solve this problem, the following knowledge components are required:
+
+1. 4.OA.A.3: Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+This knowledge component is required because the problem involves a multistep calculation, using division to find the number of vans needed, and requires the student to represent the problem using an equation and assess the reasonableness of the answer."
+1366,1,ASDiv,Joan is baking a cake. The recipe calls for 7 cups of flour. She already put in 3 cups. How many more cups does she need to add ?,4 (cups),7-3=4,,"['1.NBT.C.4', '1.NBT.C.5', '1.OA.A.1']",2,"To answer this question, the following knowledge components are required:
+
+1. ""1.NBT.C.4"": Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.
+2. ""1.NBT.C.5"": Given a two-digit number, mentally find 10 more or 10 less than the number, without having to count; explain the reasoning used.
+3. ""1.OA.A.1"": Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+
+These knowledge components are required because the question involves adding a two-digit number (7) to a one-digit number (3) to find the total number of cups needed, which is a basic addition problem. The student needs to use strategies based on place value and properties of operations to solve the problem, and then explain the reasoning used."
+2217,1,ASDiv,"While shopping for music online, Zoe bought three country albums and five pop albums. Each album came with a lyric sheet and had three songs. How many songs did Zoe buy total?",24 (songs),(3+5)*3=24,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves multiplying the number of albums by the number of songs per album to find the total number of songs."
+1492,1,ASDiv,The area of square photo is 25 square inches. Angie decided to enlarge the photo by doubling the sides. What will the new area be?,100 (square inches),((25)^(1/2)*2)^2=100,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves multiplying the area of the original square by 2 to find the new area, which is a multiplication problem within 100."
+1158,1,ASDiv,"Abigail's mom said she will be home from work in 65 minutes. It is 4:27 p.m., and Abigail has dance practice at 6:00 p.m. How much time will Abigail have between the time that her mom gets home from work and the beginning of dance practice?",28 (minutes),4*60 (min/hour) + 27 (min) = 267 (min); 267 (min) + 65 (min) = 332 (min); 6*60 (min/hour) - 332 (min) = 28 (min),,"['3.MD.A.2', '3.MD.A.1', '3.OA.D.8']",4,"To answer this question, the following knowledge components are required:
+
+1. 3.MD.A.2: Use the four operations to solve word problems involving distances, intervals of time, liquid volumes, masses of objects, and money, including problems involving simple fractions or decimals, and problems that require expressing measurements given in a larger unit in terms of a smaller unit.
+
+This knowledge component is required because the question involves calculating the time difference between the mom's arrival and the start of dance practice, which requires the student to subtract the time of arrival from the start time of dance practice.
+
+2. 3.MD.A.1: Tell and write time to the nearest minute and measure time intervals in minutes. Solve word problems involving addition and subtraction of time intervals in minutes, e.g., by representing the problem on a number line diagram.
+
+This knowledge component is required because the question involves telling and writing time to the nearest minute, as well as calculating time intervals in minutes.
+
+3. 3.OA.D.8: Solve two-step word problems using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+This knowledge component is required because the question involves solving a two-step word problem that requires the student to subtract the time of arrival from the start time of dance practice, and then interpret the result in terms of minutes.
+
+Note that the solution to the problem is 28 minutes, which is the result of subtracting 65 minutes from 90 minutes (6:00 p.m. - 4:27 p.m.)."
+1087,1,ASDiv,"Willy has 5,092 crayons. Lucy has 3,971 crayons. How many more crayons does Willy have than Lucy?",1121 (crayons),5092-3971=1121,,"['4.NBT.A.4', '4.OA.A.3', '4.OA.A.2']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.NBT.A.4: Fluently add and subtract multi-digit whole numbers using the standard algorithm.
+2. 4.OA.A.3: Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted.
+3. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+
+These knowledge components are necessary to solve the problem by subtracting Lucy's number of crayons from Willy's number of crayons."
+2166,1,ASDiv,For Halloween Faye scored 47 pieces of candy. She ate 25 pieces the first night and then her sister gave her 40 more pieces. How many pieces of candy does Faye have now?,62 (pieces of candy),47-25+40=62,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the problem involves multiplication and division within 100 to solve a word problem."
+1746,1,ASDiv,Dave was making ice using ice trays. He originally had two ice cubes. But made seven more cubes. How many ice cubes did he have totaled?,9 (ice cubes),2+7=9,,"['1.OA.A.1', '1.NBT.C.4']",2,"To answer this question, the following knowledge components are required:
+
+1. ""1.OA.A.1"": Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+2. ""1.NBT.C.4"": Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.
+
+These knowledge components are required because the question involves adding two numbers (2 and 7) to find the total number of ice cubes, which is a basic addition problem within 20. The student needs to use addition strategies to solve the problem, which is covered by the first knowledge component. The second knowledge component is required because the problem involves adding a two-digit number (7) to a one-digit number (2), which is a common scenario in addition problems within 100."
+1900,1,ASDiv,When Amy got to the fair she had $15. When she left she had $11. How much money did she spend at the fair?,4 (dollars),15-11=4,,"['1.OA.A.1', '1.NBT.B.2', '1.NBT.C.4']",2,"To answer this question, the following knowledge components are required:
+
+1. ""1.OA.A.1"" - Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+2. ""1.NBT.B.2.a"" - Understand that the two digits of a two-digit number represent amounts of tens and ones. Understand the following as special cases: When Amy got to the fair, she had $15, which is a two-digit number. She spent some money and ended up with $11. To find out how much she spent, we need to subtract $11 from $15.
+3. ""1.NBT.C.4"" - Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used. In this case, we need to subtract $15 - $11 = $4.
+
+Note that the question is not explicitly stated as a subtraction problem, but the student needs to use subtraction to solve the problem."
+1058,1,ASDiv,"In Rina's desk drawer, there are 18 paper clips and 12 rubber bands. In Mia's office supply tray, there are 15 paper clips and 10 rubber bands. Who has a lower ratio of paper clips to rubber bands?",They are equal,18/12=1.5(Rina's desk drawer) equals 15/10=1.5(Mia's office supply tray),,"['4.OA.A.2', '4.NBT.A.2', '4.NF.A.1', '4.OA.A.1']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+2. 4.NBT.A.2: Read and write multi-digit whole numbers using base-ten numerals, number names, and expanded form. Compare two multi-digit numbers based on meanings of the digits in each place, using >, =, and < symbols to record the results of comparisons.
+3. 4.NF.A.1: Explain why a fraction a/b is equivalent to a fraction (n × a)/(n × b) by using visual fraction models, with attention to how the number and size of the parts differ even though the two fractions themselves are the same size. Use this principle to recognize and generate equivalent fractions.
+4. 4.OA.A.1: Interpret a multiplication equation as a comparison, e.g., interpret 35 = 5 × 7 as a statement that 35 is 5 times as many as 7 and 7 times as many as 5. Represent verbal statements of multiplicative comparisons as multiplication equations.
+
+These knowledge components are required to solve the problem by comparing the ratios of paper clips to rubber bands in Rina's desk drawer and Mia's office supply tray."
+213,1,ASDiv,"The friends then proceeded to the rest of the houses in their village. However, Sam had to go home earlier. She got her share of candies which are composed of 10 chewing gums, 15 chocolate bars, and 20 assorted fruit candies. How many candies did she get in total?",45 (candies),10+15+20=45,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves multiplication and division to find the total number of candies Sam got."
+1997,1,ASDiv,"While on vacation, Debby took 24 pictures at the zoo and 12 at the museum. If she later deleted 14 of the pictures, how many pictures from her vacation did she still have?",22 (pictures),24+12-14=22,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves multiplication and division to solve a word problem."
+1197,1,ASDiv,"Mike is serving vegetables at a soup kitchen. He has 15 carrot sticks and 10 baby potatoes that he wants to divide evenly, with no food left over. What is the greatest number of plates Mike can prepare?",5 (plates),"GCD(15,10)=5",,"['3.OA.A.1', '3.OA.A.4']",4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.1: Interpret products of whole numbers, e.g., interpret 5 × 7 as the total number of objects in 5 groups of 7 objects each.
+2. 3.OA.A.4: Determine the unknown whole number in a multiplication or division equation relating three whole numbers.
+
+These knowledge components are necessary to understand the problem, set up the equation, and solve for the greatest number of plates Mike can prepare."
+2053,1,ASDiv,"While performing a piece of music, Jacob strikes the cymbals every 7 beats and the triangle is every 2 beats. If he just struck both at the same time, how many beats will pass before he again strikes them at the same time?",14 (beats),"LCM[7,2]=14",,"['4.OA.A.2', '4.NBT.A.1', '4.NBT.B.5']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+2. 4.NBT.A.1: Recognize that in a multi-digit whole number, a digit in one place represents ten times what it represents in the place to its right. For example, recognize that 700 ÷ 70 = 10 by applying concepts of place value and division.
+3. 4.NBT.B.5: Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.
+
+These knowledge components are required to solve the problem, which involves multiplying and dividing numbers to find the number of beats that will pass before Jacob strikes the cymbals and triangle at the same time again."
+306,1,ASDiv,"Simon, Mark, Kevin, and Carl love collecting stamps. They meet up every month to compare and share their collections with each other. During the previous month, Kevin was able to collect 45 stamps while Simon was only able to collect 27. How many more stamps does Kevin have more than Simon?",18 (stamps),45-27=18,,['3.OA.A.3'],4,"The relevant knowledge components required to answer this question are:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves solving a word problem involving multiplication and division within 100 to find the difference in the number of stamps collected by Kevin and Simon."
+2144,1,ASDiv,Haley watched TV for six hours on Saturday and three hours on Sunday. How many hours did Haley watch TV total?,9 (hours),6+3=9,,"['1.OA.A.1', '1.NBT.C.4']",2,"To answer this question, the following knowledge components are required:
+
+1. ""1.OA.A.1"": Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+2. ""1.NBT.C.4"": Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.
+
+These knowledge components are required because the question involves adding two numbers (6 and 3) to find the total number of hours Haley watched TV. The student needs to use addition within 100 to solve the problem, and they need to be able to represent the problem using numbers and symbols."
+249,1,ASDiv,"After recess, Buddy changed clothes for gym class. Down at the gym, all the students were divided into two groups. If one group has 34 members and the other has 37, how many students are in Buddy's gym class?",71 (students),34+37=71,,"['3.OA.A.2', '3.OA.A.4', '3.OA.D.8', '3.NBT.A.1', '3.OA.C.7']",4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.2: Interpret whole-number quotients of whole numbers, e.g., interpret 56 ÷ 8 as the number of objects in each share when 56 objects are partitioned equally into 8 shares, or as a number of shares when 56 objects are partitioned into equal shares of 8 objects each.
+
+This knowledge component is required because the question involves dividing a whole number (34 or 37) by another whole number to find the number of students in each group.
+
+2. 3.OA.A.4: Determine the unknown whole number in a multiplication or division equation relating three whole numbers. For example, determine the unknown number that makes the equation true in each of the equations 8 × ? = 48, 5 = ? ÷ 3, 6 × 6 = ?.
+
+This knowledge component is required because the question involves finding the total number of students in the gym class by adding the number of students in each group.
+
+3. 3.OA.D.8: Solve two-step word problems using the four operations. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+This knowledge component is required because the question involves solving a two-step word problem that requires the use of multiplication and division operations.
+
+4. 3.NBT.A.1: Use place value understanding to round whole numbers to the nearest 10 or 100.
+
+This knowledge component is not directly required for this question, but it could be useful for estimating the total number of students in the gym class.
+
+5. 3.OA.C.7: Fluently multiply and divide within 100, using strategies such as the relationship between multiplication and division (e.g., knowing that 8 × 5 = 40, one knows 40 ÷ 5 = 8) or properties of operations. By the end of Grade 3, know from memory all products of two one-digit numbers.
+
+This knowledge component is not directly required for this question, but it could be useful for solving the multiplication and division operations involved in the question."
+1245,1,ASDiv,"Robin is making bead necklaces. She wants to use 31 beads to make 4 necklaces. If she wants each necklace to have the same number of beads, how many beads will she have left over?",3 (beads),31/4=7 r3,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required to solve the problem by dividing the total number of beads (31) by the number of necklaces (4) to find the number of beads per necklace, and then finding the remainder when dividing the total number of beads by the number of beads per necklace."
+1104,1,ASDiv,Cora sliced 18 kg of green apples for a party. She divided the apple slices equally between 5 large bowls. How many grams of apple slices did Cora put in each bowl?,3600 (grams of apple),(18 (kg) *1000 (g/kg))/5 = 3600 (g),,"['4.NBT.A.1', '4.OA.A.3', '4.MD.A.1', '4.OA.A.2']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.NBT.A.1: Recognize that in a multi-digit number, a digit in one place represents ten times what it represents in the place to its right and 1/10 of what it represents in the place to its left.
+2. 4.OA.A.3: Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted.
+3. 4.MD.A.1: Know relative sizes of measurement units within one system of units including kg, g; and use these conversions in solving multi-step, real-world problems.
+4. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+
+These knowledge components are required to solve the problem, which involves converting kilograms to grams, dividing the total weight of apples by the number of bowls, and interpreting the result."
+1880,1,ASDiv,Sally memorized eight poems. After some time she could only recite three of them. How many poems did she forget?,5 (poems),8-3=5,,"['2.OA.A.1', '2.OA.C.3', '2.NBT.A.1', '2.NBT.A.2', '2.OA.B.2', '2.OA.A.1', '2.OA.C.3', '2.NBT.A.1', '2.NBT.A.2', '2.OA.B.2']",3,"To answer this question, the following knowledge components are required:
+
+1. 2.OA.A.1: Use addition and subtraction within 100 to solve one- and two-step word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves subtracting the number of poems Sally can recite from the total number of poems she memorized to find the number of poems she forgot.
+
+2. 2.OA.C.3: Determine whether a group of objects (up to 20) has an odd or even number of members, e.g., by pairing objects or counting them by 2s; write an equation to express an even number as a sum of two equal addends.
+
+This knowledge component is not directly required, but it is related to the concept of counting and comparing numbers, which is necessary to solve the problem.
+
+3. 2.NBT.A.1.a: Understand that the three digits of a three-digit number represent amounts of hundreds, tens, and ones; e.g., 706 equals 7 hundreds, 0 tens, and 6 ones.
+
+This knowledge component is not directly required, but it is related to the concept of place value, which is necessary to understand the problem.
+
+4. 2.NBT.A.2: Count within 1000; skip-count by 5s, 10s, and 100s.
+
+This knowledge component is not directly required, but it is related to the concept of counting and comparing numbers, which is necessary to solve the problem.
+
+5. 2.OA.B.2: Fluently add and subtract within 20 using mental strategies. By end of Grade 2, know from memory all sums of two one-digit numbers.
+
+This knowledge component is not directly required, but it is related to the concept of mental math and fluency with addition and subtraction, which is necessary to solve the problem.
+
+Therefore, the required knowledge components are:
+
+1. 2.OA.A.1
+2. 2.OA.C.3
+3. 2.NBT.A.1.a
+4. 2.NBT.A.2
+5. 2.OA.B.2"
+1708,1,ASDiv,A fast food restaurant had 3 boxes of chicken nuggets for $19.53. A competing restaurant had 2 boxes of chicken fingers for $13.12. Which food has a higher unit price?,Chicken finger,19.53/3=6.51(Chicken nugget) < 13.12/2=6.56(Chicken finger),,"['4.OA.A.2', '4.NBT.A.2', '4.NF.A.1']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+2. 4.NBT.A.2: Read and write multi-digit whole numbers using base-ten numerals, number names, and expanded form. Compare two multi-digit numbers based on meanings of the digits in each place, using >, =, and < symbols to record the results of comparisons.
+3. 4.NF.A.1: Explain why a fraction a/b is equivalent to a fraction (n × a)/(n × b) by using visual fraction models, with attention to how the number and size of the parts differ even though the two fractions themselves are the same size. Use this principle to recognize and generate equivalent fractions.
+
+These knowledge components are required to solve the problem by comparing the unit prices of the two food items."
+2258,1,ASDiv,"At a restaurant each adult meal costs $8 and kids eat free. If a group of 11 people came in and 2 were kids, how much would it cost for the group to eat?",72 (dollars),(11-2)*8=72,,"['3.OA.A.3', '4.OA.A.1', '4.NBT.A.1', '4.OA.A.3', '4.OA.A.2', '3.OA.A.3', '4.OA.A.1', '4.NBT.A.1', '4.OA.A.3', '4.OA.A.2']",4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves multiplying the cost of an adult meal by the number of adults, and then subtracting the cost of the kids' meals (which is zero). The student needs to use multiplication and division to solve the problem.
+
+2. 4.OA.A.1: Interpret a multiplication equation as a comparison, e.g., interpret 35 = 5 × 7 as a statement that 35 is 5 times as many as 7 and 7 times as many as 5.
+
+This knowledge component is not directly required, but it is related to the multiplication and division operations involved in the problem. The student needs to understand that the multiplication equation represents a comparison between the cost of the meals and the number of people.
+
+3. 4.NBT.A.1: Recognize that in a multi-digit whole number, a digit in one place represents ten times what it represents in the place to its right.
+
+This knowledge component is not directly required, but it is related to the understanding of place value and the concept of tens and ones. The student needs to understand that the cost of the meals is represented in tens and ones, and that the multiplication operation involves multiplying the cost of an adult meal by the number of adults.
+
+4. 4.OA.A.3: Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+This knowledge component is required because the problem involves multiple steps, including multiplication, subtraction, and estimation. The student needs to use the four operations to solve the problem and represent it using an equation. The student also needs to assess the reasonableness of the answer using mental computation and estimation strategies.
+
+5. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+
+This knowledge component is not directly required, but it is related to the multiplication and division operations involved in the problem. The student needs to understand that the problem involves a multiplicative comparison between the cost of the meals and the number of people.
+
+In summary, the knowledge components required to answer this question are 3.OA.A.3, 4.OA.A.1, 4.NBT.A.1, 4.OA.A.3, and 4.OA.A.2."
+686,1,ASDiv,"There are 5 boys and 4 girls in a classroom. After 3 boys left the classroom, another 2 girls came in the classroom. How many children were there in the classroom in the end?",8 (children),5+4-3+2=8,,"['3.OA.A.3', '3.OA.D.8', '3.NBT.A.1', '3.OA.D.9', '3.OA.A.1', '3.OA.A.3', '3.OA.D.8', '3.NBT.A.1', '3.OA.D.9', '3.OA.A.1']",4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required to solve the problem by using multiplication and division to find the total number of children initially and then subtracting the number of boys who left and adding the number of girls who came in.
+
+2. 3.OA.D.8: Solve two-step word problems using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+This knowledge component is required to solve the problem by using the four operations (addition, subtraction, multiplication, and division) to find the total number of children initially and then subtracting the number of boys who left and adding the number of girls who came in.
+
+3. 3.NBT.A.1: Use place value understanding to round whole numbers to the nearest 10 or 100.
+
+This knowledge component is not directly required to solve the problem, but it may be useful in estimating the answer or checking the reasonableness of the solution.
+
+4. 3.OA.D.9: Identify arithmetic patterns (including patterns in the addition table or multiplication table), and explain them using properties of operations. For example, observe that 4 times a number is always even, and explain why 4 times a number can be decomposed into two equal addends.
+
+This knowledge component is not directly required to solve the problem, but it may be useful in recognizing patterns in the numbers involved in the problem.
+
+5. 3.OA.A.1: Interpret products of whole numbers, e.g., interpret 5 × 7 as the total number of objects in 5 groups of 7 objects each. For example, describe a context in which a total number of objects can be expressed as 5 × 7.
+
+This knowledge component is not directly required to solve the problem, but it may be useful in understanding the concept of multiplication and how it is used to solve the problem.
+
+Therefore, the required knowledge components to answer this question are:
+
+1. 3.OA.A.3
+2. 3.OA.D.8
+3. 3.NBT.A.1
+4. 3.OA.D.9
+5. 3.OA.A.1"
+276,1,ASDiv,"Sofia, president of the school student organization, held a meeting to talk about the food being served at the school cafeteria. The first order of business is to discuss whether the students like the food being served at the school. If 383 students said that they like the food and 431 students said they didn't, how many students participated in the discussion?",814 (students),383+431=814,,"['4.NBT.A.1', '4.OA.A.2', '4.OA.A.3']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.NBT.A.1: Recognize that in a multi-digit number, a digit in one place represents ten times what it represents in the place to its right and 1/10 of what it represents in the place to its left.
+2. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+3. 4.OA.A.3: Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+These knowledge components are required to solve the problem, which involves adding two numbers (383 and 431) to find the total number of students who participated in the discussion."
+1465,1,ASDiv,"If five is subtracted from three times a certain number, the result is 10. What is the number?",5,x:The certain number; 3x-5=10,,"['5.OA.A.2', '5.NBT.B.6', '5.NBT.B.7']",6,"To solve this problem, the following knowledge components are required:
+
+1. 5.OA.A.2: Write simple expressions that record calculations with numbers, and interpret numerical expressions without evaluating them.
+2. 5.NBT.B.6: Find whole-number quotients of whole numbers with up to four-digit dividends and two-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division.
+3. 5.NBT.B.7: Add, subtract, multiply, and divide decimals to hundredths, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction.
+
+These knowledge components are necessary to write and interpret the expression, and to solve the problem using multiplication and subtraction."
+1368,1,ASDiv,There were six roses in the vase. Jessica cut some more roses from her flower garden. There are now eighteen roses in the vase. How many roses did she cut ?,12 (roses),18-6=12,,"['3.OA.A.3', '3.OA.D.8', '3.NBT.A.1', '3.OA.A.1', '3.OA.A.2']",4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the problem involves using multiplication and division to solve a word problem, which is a key aspect of this knowledge component.
+
+2. 3.OA.D.8: Solve two-step word problems using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+This knowledge component is required because the problem involves solving a two-step word problem using the four operations, which is a key aspect of this knowledge component.
+
+3. 3.NBT.A.1: Use place value understanding to round whole numbers to the nearest 10 or 100.
+
+This knowledge component is not directly required, but it could be useful in estimating the answer or checking the reasonableness of the answer.
+
+4. 3.OA.A.1: Interpret products of whole numbers, e.g., interpret 5 × 7 as the total number of objects in 5 groups of 7 objects each. For example, describe a context in which a total number of objects can be expressed as 5 × 7.
+
+This knowledge component is not directly required, but it could be useful in understanding the concept of multiplication and how it is used in the problem.
+
+5. 3.OA.A.2: Interpret whole-number quotients of whole numbers, e.g., interpret 56 ÷ 8 as the number of objects in each share when 56 objects are partitioned equally into 8 shares, or as a number of shares when 56 objects are partitioned into equal shares of 8 objects each. For example, describe a context in which a number of shares or a number of groups can be expressed as 56 ÷ 8.
+
+This knowledge component is not directly required, but it could be useful in understanding the concept of division and how it is used in the problem.
+
+Note that these knowledge components are not mutually exclusive, and some of them may overlap or be used in combination to solve the problem."
+1742,1,ASDiv,An architect built a house with ten bedrooms total. If the second floor had two bedrooms. How many bedrooms does the first floor have?,8 (bedrooms),10-2=8,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves using multiplication and division to solve a word problem, which is a key aspect of this knowledge component."
+572,1,ASDiv,"My car gets 20 miles per gallon of gas. If Grandma's house is 100 miles away, how many gallons of gas would it take to get to her house?",5 (gallons of gas),100/20=5,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves multiplying the miles per gallon by the distance to find the number of gallons of gas needed to get to Grandma's house."
+514,1,ASDiv,"Lex read a 420 page book about music and instruments. If he can read exactly 30 pages a day, how many days will it take Lex to finish reading the book?",14 (days),420/30=14,,['4.OA.A.3'],5,"To answer this question, the following knowledge components are required:
+
+1. 4.OA.A.3: Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+This knowledge component is required because the problem involves solving a multistep word problem that requires the use of division to find the number of days it will take Lex to finish reading the book. The problem also requires the use of mental computation and estimation strategies to assess the reasonableness of the answer."
+115,1,ASDiv,Marcus has 210 baseball cards. He has 58 more than Carter. How many baseball cards does Carter have?,152 (baseball cards),210-58=152,,"['3.OA.A.4', '3.OA.A.3', '3.OA.D.8', '3.NBT.A.1', '3.OA.D.9']",4,"To solve this problem, the following knowledge components are required:
+
+1. 3.OA.A.4: Determine the unknown whole number in a multiplication or division equation relating three whole numbers. For example, determine the unknown number that makes the equation true in each of the equations 8 × ? = 48, 5 = ? ÷ 3, 6 × 6 = ?.
+
+This knowledge component is required to solve the problem because it involves determining the unknown number of baseball cards Carter has, which is represented by the equation 210 = 58 + x, where x is the number of baseball cards Carter has.
+
+2. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required to solve the problem because it involves using multiplication and division to solve a word problem involving equal groups (baseball cards).
+
+3. 3.OA.D.8: Solve two-step word problems using the four operations. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+This knowledge component is required to solve the problem because it involves solving a two-step word problem using the four operations (addition and subtraction) and representing the problem using an equation with a letter standing for the unknown quantity.
+
+4. 3.NBT.A.1: Use place value understanding to round whole numbers to the nearest 10 or 100.
+
+This knowledge component is not directly required to solve the problem, but it may be useful in estimating the answer or checking the reasonableness of the solution.
+
+5. 3.OA.D.9: Identify arithmetic patterns (including patterns in the addition table or multiplication table), and explain them using properties of operations. For example, observe that 4 times a number is always even, and explain why 4 times a number can be decomposed into two equal addends.
+
+This knowledge component is not directly required to solve the problem, but it may be useful in understanding the underlying structure of the problem and the relationships between the numbers involved."
+2154,1,ASDiv,Robin drank seven bottles of water in the morning and seven in the afternoon. How many bottles did Robin drink total?,14 (bottles),7+7=14,,"['1.OA.A.1', '1.OA.A.2']",2,"To answer this question, the following knowledge components are required:
+
+1. ""1.OA.A.1"": Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+2. ""1.OA.A.2"": Solve word problems that call for addition of three whole numbers whose sum is less than or equal to 20, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+
+These knowledge components are required because the question involves adding two numbers (7 and 7) to find the total number of bottles Robin drank."
+2104,1,ASDiv,A baker made 2 batches of chocolate chip cookies. Each batch had 3 cookies in it. Then he made an additional 4 oatmeal cookies just in case someone didn't want chocolate chip. How many cookies did he bake total?,10 (cookies),2*3+4=10,,"['1.OA.A.1', '1.OA.A.2', '1.NBT.C.4']",2,"To answer this question, the following knowledge components are required:
+
+1. ""1.OA.A.1"" - Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+2. ""1.OA.A.2"" - Solve word problems that call for addition of three whole numbers whose sum is less than or equal to 20, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+3. ""1.NBT.C.4"" - Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.
+
+These knowledge components are required to solve the problem by adding the number of chocolate chip cookies (2 batches x 3 cookies/batch = 6 cookies) to the number of oatmeal cookies (4 cookies), and then finding the total number of cookies."
+1987,1,ASDiv,"Nancy was counting the number of people on different toys on the playground. She counted: 6, 12, 1, 12, 7, 3 and 8. What is the mean of the people?",7 (people),(6+12+1+12+7+3+8)/7=7,,"['3.OA.D.8', '4.OA.A.1', '4.NBT.A.1', '4.MD.A.1', '4.OA.A.3']",4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.D.8: Solve two-step word problems using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+This knowledge component is required because the question involves solving a word problem that requires the use of multiplication and division operations to find the mean of the people. The problem also requires the student to interpret the remainders and use mental computation and estimation strategies to assess the reasonableness of the answer.
+
+2. 4.OA.A.1: Interpret a multiplication equation as a comparison, e.g., interpret 35 = 5 × 7 as a statement that 35 is 5 times as many as 7 and 7 times as many as 5. Represent verbal statements of multiplicative comparisons as multiplication equations.
+
+This knowledge component is required because the question involves finding the mean of the people, which requires the student to understand the concept of multiplication and division as comparisons. The student needs to be able to interpret the multiplication equation as a comparison and represent the verbal statement of the problem as a multiplication equation.
+
+3. 4.NBT.A.1: Recognize that in a multi-digit whole number, a digit in one place represents ten times what it represents in the place to its right. For example, recognize that 700 ÷ 70 = 10 by applying concepts of place value and division.
+
+This knowledge component is required because the question involves finding the mean of the people, which requires the student to understand the concept of place value and division. The student needs to be able to recognize that a digit in one place represents ten times what it represents in the place to its right and apply this concept to find the mean.
+
+4. 4.MD.A.1: Know relative sizes of measurement units within one system of units including km, m, cm; kg, g; lb, oz.; l, ml; hr, min, sec. Within a single system of measurement, express measurements in a larger unit in terms of a smaller unit. Record measurement equivalents in a two-column table. For example, know that 1 ft is 12 times as long as 1 in. Express the length of a 4 ft snake as 48 in. Generate a conversion table for feet and inches listing the number pairs (1, 12), (2, 24), (3, 36), ...
+
+This knowledge component is not directly required for this question, but it is related to the concept of measurement and conversion, which is relevant to the problem of finding the mean of the people.
+
+5. 4.OA.A.3: Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using"
+808,1,ASDiv,"Mr. Lee harvested 495 apples and he packed them evenly in some baskets. If there are 25 apples in each basket, how many baskets of apples are there?",19 (baskets),495/25=19 r20,,['4.NBT.B.6'],5,"To answer this question, the following knowledge components are required:
+
+1. 4.NBT.B.6: Find whole-number quotients and remainders with up to four-digit dividends and one-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.
+
+This knowledge component is required to divide the total number of apples (495) by the number of apples in each basket (25) to find the number of baskets."
+2250,1,ASDiv,"A chef needs to cook 12 potatoes. He has already cooked 6. If each potato takes 6 minutes to cook, how long will it take him to cook the rest?",36 (minutes),(12-6)*6=36,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves multiplication and division to solve a word problem. The chef needs to cook 12 potatoes, and he has already cooked 6, so he needs to cook 12 - 6 = 6 more potatoes. Each potato takes 6 minutes to cook, so the chef needs to cook 6 potatoes, which is equivalent to multiplying 6 by 6. This requires the application of multiplication and division within 100 to solve the word problem."
+278,1,ASDiv,"Since the result of the vote was close, it was decided that they will balance the menu with both meat and vegetables. This decision was agreed upon by 154 third grade students and 237 fourth grade students. How many students agreed with the decision?",391 (students),154+237=391,,"['4.OA.A.2', '4.NBT.A.2', '4.NBT.B.5']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+2. 4.NBT.A.2: Read and write multi-digit whole numbers using base-ten numerals, number names, and expanded form. Compare two multi-digit numbers based on meanings of the digits in each place, using >, =, and < symbols to record the results of comparisons.
+3. 4.NBT.B.5: Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.
+
+These knowledge components are required to solve the problem, which involves multiplying the number of students from each grade level and adding the results together."
+1392,1,ASDiv,Oceanside Bike Rental Shop charges a 17 dollar fixed fee plus 7 dollars an hour for renting a bike. Mary paid 80 dollars to rent a bike. How many hours did she pay to have the bike checked out ?,9 (hours),x:Dollars for renting an hour; 17+7x=80,,"['4.OA.A.2', '4.NBT.B.5', '4.OA.A.3']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+2. 4.NBT.B.5: Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.
+3. 4.OA.A.3: Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+These knowledge components are required to solve the problem, which involves multiplying the fixed fee by the number of hours, adding the result to the product of the hourly rate and the number of hours, and then solving for the number of hours."
+1617,1,ASDiv,"A rectangle flower bed had a total area of 35 square yards. If it was 5 yards wide, how long was it?",7 (yards),35/5=7,,"['3.OA.A.3', '3.NBT.A.1', '3.MD.C.5', '3.OA.D.8', '3.OA.C.7', '3.OA.A.3', '3.OA.C.7', '3.NBT.A.1']",4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the problem involves using multiplication and division to solve a word problem involving a rectangle and its area. The student needs to use the formula for the area of a rectangle (length x width) to solve the problem.
+
+2. 3.NBT.A.1: Use place value understanding to round whole numbers to the nearest 10 or 100.
+
+This knowledge component is not directly required for this problem, but it could be useful if the student needs to round the answer to the nearest 10 or 100.
+
+3. 3.MD.C.5.a: Tell and write time to the nearest minute and measure time intervals in minutes. Solve word problems involving addition and subtraction of time intervals in minutes, e.g., by representing the problem on a number line diagram.
+
+This knowledge component is not relevant to this problem, as it involves time intervals and not area or measurement.
+
+4. 3.OA.D.8: Solve two-step word problems using the four operations. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+This knowledge component is not directly required for this problem, but it could be useful if the student needs to solve a more complex word problem involving multiple steps.
+
+5. 3.OA.C.7: Fluently multiply and divide within 100, using strategies such as the relationship between multiplication and division (e.g., knowing that 8 x 5 = 40, one knows 40 ÷ 5 = 8) or properties of operations. By the end of Grade 3, know from memory all products of two one-digit numbers.
+
+This knowledge component is required because the problem involves multiplying and dividing within 100 to solve the problem. The student needs to use their knowledge of multiplication and division facts to solve the problem.
+
+Therefore, the required knowledge components are 3.OA.A.3, 3.OA.C.7, and possibly 3.NBT.A.1."
+722,1,ASDiv,"Lenny has $84. He spent $24 on video games, and $21 at the grocery store. How much does Lenny have left?",39 (dollars),84-24-21=39,,['3.OA.D.8'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.D.8: Solve two-step word problems using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+This knowledge component is required because the question involves solving a two-step word problem that requires the use of subtraction and the interpretation of remainders. The student needs to subtract the amounts spent on video games and groceries from the initial amount of money Lenny has, and then assess the reasonableness of the answer."
+443,1,ASDiv,He also had 8 aquariums for saltwater animals. Each aquarium has 64 animals in it. How many saltwater animals does Tyler have?,512 (saltwater animals),8*64=512,,"['3.OA.A.1', '3.OA.A.3', '3.OA.C.7']",4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.1: Interpret products of whole numbers, e.g., interpret 5 × 7 as the total number of objects in 5 groups of 7 objects each.
+2. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities.
+3. 3.OA.C.7: Fluently multiply and divide within 100, using strategies such as the relationship between multiplication and division.
+
+These knowledge components are necessary to solve the problem by multiplying the number of aquariums (8) by the number of animals in each aquarium (64), and then interpreting the result as the total number of saltwater animals."
+817,1,ASDiv,"Mrs. Dalloway made 85 tarts. If she wants to fill 10 boxes with the same number of tarts, how many more tarts should she make?",5 (tarts),85/10=8 r5; 10-5=5,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required to solve the problem by dividing the total number of tarts (85) by the number of boxes (10) to find the number of tarts per box, and then subtracting the number of tarts per box from the total number of tarts to find the number of tarts needed to fill the boxes."
+1917,1,ASDiv,John bought some cupcakes for a party. During the party eleven were eaten. Now he has twenty-one left. How many cupcakes did John get for the party?,32 (cupcakes),11+21=32,,"['1.OA.A.1', '1.NBT.B.3', '1.NBT.C.4']",2,"To answer this question, the following knowledge components are required:
+
+1. ""1.OA.A.1"" - Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+2. ""1.NBT.B.3"" - Compare two two-digit numbers based on meanings of the tens and ones digits, recording the results of comparisons with the symbols >, =, and <.
+3. ""1.NBT.C.4"" - Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.
+
+These knowledge components are required to solve the problem by subtracting 11 from 21 to find the original number of cupcakes John had, and then adding the unknown number to 11 to find the total number of cupcakes John got for the party."
+202,1,ASDiv,"While building the house, Charlie noticed that they were running out of nails so he told his father he's going to buy some. If they still have 9 nails left and Charlie bought 2 boxes of nails, the big one containing 55 nails and the small one containing 31, how many nails will they have?",95 (nails),9+31+55=95,,"['4.OA.A.2', '4.NBT.B.5', '4.NBT.B.6']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+2. 4.NBT.B.5: Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.
+3. 4.NBT.B.6: Find whole-number quotients and remainders with up to four-digit dividends and one-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.
+
+These knowledge components are required to solve the problem, which involves multiplying and dividing whole numbers to find the total number of nails."
+2003,1,ASDiv,"Paige had 43 math problems and 12 science problems for homework. If she finished 44 of the problems at school, how many problems did she have to do for homework?",11 (problems),(43+12)-44=11,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves multiplication and division to solve a word problem."
+237,1,ASDiv,"Mr. Fortree, a businessman also gave seedlings for the tree planting activity. If he gave 14 seedlings of cedar and 38 seedlings of pine, how many seedlings did he give in total?",52 (seedlings),14+38=52,,"['1.OA.A.1', '1.NBT.C.4', '1.OA.A.1', '1.NBT.C.4']",2,"To answer this question, the following knowledge components are required:
+
+1. ""1.OA.A.1"": Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+2. ""1.NBT.C.4"": Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.
+
+These knowledge components are required because the question involves adding two numbers (14 and 38) to find the total number of seedlings given by Mr. Fortree. The student needs to use addition within 100 to solve the problem, which requires the knowledge component ""1.OA.A.1"". Additionally, the student needs to use a concrete model or drawing to represent the addition, which requires the knowledge component ""1.NBT.C.4""."
+1354,1,ASDiv,"After paying $2.30 for a drink, Bryon has $17.15. How much money did he have before buying the drink?",19.45 (dollars),2.3+17.15=19.45,,"['4.NBT.A.2', '4.OA.A.3', '4.MD.A.2']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.NBT.A.2: Read and write multi-digit whole numbers using base-ten numerals, number names, and expanded form. Compare two multi-digit numbers based on meanings of the digits in each place, using >, =, and < symbols to record the results of comparisons.
+2. 4.OA.A.3: Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+3. 4.MD.A.2: Use the four operations to solve word problems involving distances, intervals of time, liquid volumes, masses of objects, and money, including problems involving simple fractions or decimals, and problems that require expressing measurements given in a larger unit in terms of a smaller unit.
+
+These knowledge components are required to solve the problem, which involves subtracting the cost of the drink from the total amount of money Bryon has, and then interpreting the result."
+680,1,ASDiv,"Mrs. Hilt saw an iPod for sale. The price tag said the iPod cost $128, but a sign announced that it was on sale for ""35% off."" How much would the iPod cost after the discount?",83.2 (dollars),128-(128*0.35)=83.2,,"['4.OA.A.2', '4.NBT.B.5', '4.NBT.B.6']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+2. 4.NBT.B.5: Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.
+3. 4.NBT.B.6: Find whole-number quotients and remainders with up to four-digit dividends and one-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.
+
+These knowledge components are required to solve the problem, which involves calculating the discount and finding the final price of the iPod."
+771,1,ASDiv,"Jack is reading a 285-page book. If he reads 23 pages per day, how many pages will he read on the last day?",9 (pages),285/23=12 r9,,['4.NBT.B.6'],5,"To answer this question, the following knowledge components are required:
+
+1. 4.NBT.B.6: Find whole-number quotients and remainders with up to four-digit dividends and one-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.
+
+This knowledge component is required to find the number of days Jack will take to read the book, which is 285 ÷ 23 = 12 with a remainder of 9. Then, to find the number of pages Jack will read on the last day, we subtract the total number of pages read so far (285 - 23 × 12 = 285 - 276 = 9) from the total number of pages in the book."
+390,1,ASDiv,"Their last stop before leaving the zoo is the bird museum. There, they went through 7 bird exhibits, spending 9 minutes going around each exhibit. How much time did they spend going through the museum?",63 (minutes),7*9=63,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves multiplication (7 x 9) and division (finding the total time spent going through the museum)."
+803,1,ASDiv,"Mr. Lee wants to load 134 tons of his fruits. A large truck can load 15 tons of fruits and small truck can load 7 tons. In order to use the least number of trucks and have every truck fully occupied, how many small trucks should be used?",2 (small trucks),134/15=8 r14; 14/7=2,,"['4.OA.A.2', '4.NBT.B.5', '4.OA.A.3']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+2. 4.NBT.B.5: Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.
+3. 4.OA.A.3: Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+These knowledge components are required to solve the problem, which involves multiplying and dividing whole numbers to find the least number of trucks needed to load the fruits."
+1650,1,ASDiv,"For homework, a student had to complete 15 problems total. If she finished 6 problems in class, what is the ratio of problems she still needs to complete to problems that she's already finished?",<<3/2>>,15-6=9; 9:6=3:2,,"['4.OA.A.2', '4.OA.A.1', '4.NBT.A.1', '4.OA.A.3']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+2. 4.OA.A.1: Interpret a multiplication equation as a comparison, e.g., interpret 35 = 5 × 7 as a statement that 35 is 5 times as many as 7 and 7 times as many as 5. Represent verbal statements of multiplicative comparisons as multiplication equations.
+3. 4.NBT.A.1: Recognize that in a multi-digit whole number, a digit in one place represents ten times what it represents in the place to its right. For example, recognize that 700 ÷ 70 = 10 by applying concepts of place value and division.
+4. 4.OA.A.3: Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+These knowledge components are required to solve the problem, which involves multiplying and dividing numbers, interpreting multiplication equations, and solving a multistep word problem."
+1501,1,ASDiv,A rectangle has an area of 360 square centimeters. It is 20 centimeters long. What is its perimeter?,76 (centimeters),(360/20)*2+20*2=76,,"['4.NBT.A.1', '4.NBT.B.5', '4.MD.A.2', '4.MD.C.5']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.NBT.A.1: Recognize that in a multi-digit number, a digit in one place represents ten times what it represents in the place to its right and 1/10 of what it represents in the place to its left.
+2. 4.NBT.B.5: Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations.
+3. 4.MD.A.2: Use the four operations to solve word problems involving distances, intervals of time, liquid volumes, masses of objects, and money, including problems involving simple fractions or decimals, and problems that require expressing measurements given in a larger unit in terms of a smaller unit.
+4. 4.MD.C.5.a: Relate volume to the operations of multiplication and addition and solve real world and mathematical problems involving volume.
+
+These knowledge components are required to solve the problem, as it involves multiplying the length of the rectangle by its width to find the area, and then using the area and length to find the perimeter."
+1419,1,ASDiv,"Five years ago, Nancy was thrice as old as Sam. Ten years later, Nancy will be twice as old as Sam. How old are Nancy and Sam?",50 (years old); 20 (years old),x:Sam's present age; y:Nancy's present age; y-5=3(x-5); y+10=2(x+10),,"['5.OA.A.2', '5.NF.B.3', '6.RP.A.1', '6.RP.A.2', '6.NS.A.1']",6,"To solve this problem, the following knowledge components are required:
+
+1. 5.OA.A.2: Write simple expressions that record calculations with numbers, and interpret numerical expressions without evaluating them. For example, express the calculation ""add 8 and 7, then multiply by 2"" as 2 × (8 + 7). Recognize that 3 × (18932 + 921) is three times as large as 18932 + 921, without having to calculate the indicated sum or product.
+2. 5.NF.B.3: Interpret a fraction as division of the numerator by the denominator (a/b = a ÷ b). Solve word problems involving division of whole numbers leading to answers in the form of fractions or mixed numbers, e.g., by using visual fraction models or equations to represent the problem.
+3. 6.RP.A.1: Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities. For example, ""The ratio of wings to beaks in the bird house at the zoo was 2:1, because for every 2 wings there was 1 beak.""
+4. 6.RP.A.2: Understand the concept of a unit rate a/b associated with a ratio a:b with b ≠ 0, and use rate language in the context of a ratio relationship. For example, ""This recipe has a ratio of 3 cups of flour to 4 cups of sugar, so there is 3/4 cup of flour for each cup of sugar.""
+5. 6.NS.A.1: Interpret and compute quotients of fractions, and solve word problems involving division of fractions by fractions, e.g., by using visual fraction models and equations to represent the problem. For example, create a story context for (2/3) ÷ (3/4) and use a visual fraction model to show the quotient; use the relationship between multiplication and division to explain that (2/3) ÷ (3/4) = 8/9 because 3/4 of 8/9 is 2/3."
+489,1,ASDiv,"Jane's dad brought home 24 marble potatoes. If Jane's mom made potato salad for lunch and served an equal amount of potatoes to Jane, herself and her husband, how many potatoes did each of them have?",8 (potatoes),24/3=8,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves dividing a total of 24 potatoes into equal parts for three people, which requires the application of multiplication and division within 100."
+2114,1,ASDiv,A pet store sold 2 kittens and 1 puppy over the weekend. The kittens sold for $6 each and the puppy sold for $5. How much money did they earn from selling the pets?,17 (dollars),(2*6)+(1*5)=17,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves multiplying the number of kittens and puppies by their respective prices to find the total amount of money earned."
+1044,1,ASDiv,The grasshopper and the frog had a jumping contest. The grasshopper jumped 25 inches. The frog jumped 15 inches farther than the grasshopper. How far did the frog jump?,40 (inches),25+15=40,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the problem involves multiplication and division to find the distance the frog jumped, which is 15 inches farther than the grasshopper's jump."
+1823,1,ASDiv,Adam was reading through his favorite book series. The first week he read 5 different books. The next week he read 8 books. How many books did he read total?,13 (books),5+8=13,,"['1.OA.A.1', '1.OA.A.2', '1.NBT.C.4']",2,"To answer this question, the following knowledge components are required:
+
+1. ""1.OA.A.1"": Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+2. ""1.OA.A.2"": Solve word problems that call for addition of three whole numbers whose sum is less than or equal to 20, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+3. ""1.NBT.C.4"": Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.
+
+These knowledge components are required because the question involves adding two numbers (5 and 8) to find the total number of books read, which is a basic addition problem. The student needs to use addition strategies to solve the problem, and the knowledge components listed above provide the necessary skills and concepts to do so."
+1690,1,ASDiv,"A restaurant offers diet soda and regular soda. In one day they sold 64 sodas. If 28 of the sodas they sold were diet, what is the ratio of regular sodas sold to diet sodas sold?",<<9/7>>,64-28=36; 36:28=9:7,,"['5.NF.B.3', '5.NF.B.4', '6.RP.A.1']",6,"To answer this question, the following knowledge components are required:
+
+1. 5.NF.B.3: Interpret a fraction as division of the numerator by the denominator (a/b = a ÷ b).
+2. 5.NF.B.4.a: Apply and extend previous understandings of multiplication to multiply a fraction or whole number by a fraction.
+3. 6.RP.A.1: Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities.
+
+These knowledge components are necessary to understand the concept of ratio, interpret the fraction 9/7, and apply it to the problem at hand."
+2243,1,ASDiv,"A new building needed 14 windows. The builder had already installed 5 of them. If it takes 4 hours to install each window, how long will it take him to install the rest?",36 (hours),(14-5)*4=36,,"['4.OA.A.2', '4.NBT.B.5', '4.OA.A.3']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+2. 4.NBT.B.5: Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.
+3. 4.OA.A.3: Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+These knowledge components are required to solve the problem, which involves multiplying the number of windows left to install (14 - 5 = 9) by the time it takes to install each window (4 hours), and then adding the time it takes to install the already installed windows (5 windows x 4 hours = 20 hours)."
+2275,1,ASDiv,"Virginia had 13 Sweettarts. If Virginia gave equal numbers of Sweettarts to her 4 friends and then she ate what was left, how many Sweettarts did each person eat?",3 (Sweettarts),13/4=3 r1,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the problem involves dividing a certain number of Sweettarts (13) into equal groups (4 friends) and then finding the remainder (what Virginia ate). The student needs to use multiplication and division to solve the problem."
+2271,1,ASDiv,"If Lillian split 20 Skittles between 8 people in her class and kept the left overs, how many Skittles did each classmate get?",2 (Skittles),20/8=2 r4,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the problem involves dividing a total number of Skittles (20) among a group of people (8), which requires the application of multiplication and division within 100 to find the number of Skittles each classmate gets."
+2240,1,ASDiv,"The cafeteria had fifty-one apples. For lunch they handed out forty-one to students and decided to use the rest to make pies. If each pie takes five apples, how many pies could they make?",2 (pies),(51-41)/5=2,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the problem involves using multiplication and division to solve a word problem, which is a key aspect of this standard."
+2130,1,ASDiv,Maria had fifty sheets of paper in her desk and forty-one more in her backpack. How many did she have total?,91 (sheets of paper),50+41=91,,"['1.OA.A.1', '1.NBT.B.2', '1.NBT.C.4']",2,"To answer this question, the following knowledge components are required:
+
+1. ""1.OA.A.1"": Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+2. ""1.NBT.B.2.a"": Understand that the two digits of a two-digit number represent amounts of tens and ones. Understand the following as special cases: When a digit is 0, the corresponding quantity is 0; when a digit is 1, the corresponding quantity is 1.
+3. ""1.NBT.C.4"": Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.
+
+These knowledge components are required to solve the problem by adding the number of sheets of paper Maria had in her desk (50) and her backpack (41) to find the total number of sheets (91)."
+1247,1,ASDiv,Sweettarts come in packages of 7. Stephen ate 64 Sweettarts. How many Sweettarts does he have left?,1 (Sweettart),64/7=9 r1,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required to solve the problem by multiplying the number of Sweettarts in a package (7) by the number of packages Stephen ate (64/7 = 9 with a remainder of 1)."
+1431,1,ASDiv,"Amy travelled 300 km by train and 200 km by taxi, it took him 5 hours 30 minutes. But if he travels 260 km by train and 240 km by taxi he takes 6 minutes longer. Find the speed of train and taxi.",100 (km/hour); 80 (km/hour),x:Speed of train; y:Speed of taxi; (300/x)+(200/y)=5.5; (260/x)+(240/y)=5.6,,"['5.NF.B.3', '6.RP.A.1', '6.RP.A.2', '6.NS.A.1', '6.EE.B.5']",6,"To answer this question, the following knowledge components are required:
+
+1. 5.NF.B.3: Interpret a fraction as division of the numerator by the denominator (a/b = a ÷ b). Solve word problems involving division of whole numbers leading to answers in the form of fractions or mixed numbers, e.g., by using visual fraction models or equations to represent the problem.
+2. 6.RP.A.1: Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities. For example, ""The ratio of wings to beaks in the bird house at the zoo was 2:1, because for every 2 wings there was 1 beak.""
+3. 6.RP.A.2: Understand the concept of a unit rate a/b associated with a ratio a:b with b ≠ 0, and use rate language in the context of a ratio relationship. For example, ""This recipe has a ratio of 3 cups of flour to 4 cups of sugar, so there is 3/4 cup of flour for each cup of sugar.""
+4. 6.NS.A.1: Interpret and compute quotients of fractions, and solve word problems involving division of fractions by fractions, e.g., by using visual fraction models and equations to represent the problem. For example, create a story context for (2/3) ÷ (3/4) and use a visual fraction model to show the quotient; use the relationship between multiplication and division to explain that (2/3) ÷ (3/4) = 8/9 because 3/4 of 8/9 is 2/3.
+5. 6.EE.B.5: Use variables to represent numbers and write expressions when solving a real-world or mathematical problem; understand that a variable can represent an unknown number, or, depending on the purpose at hand, any number in a specified set.
+
+These knowledge components are required to solve the problem, which involves understanding ratios, unit rates, and fractions, as well as using variables to represent unknown quantities and solving equations to find the speed of the train and taxi."
+522,1,ASDiv,"Paul got a box of 479 crayons for his birthday. At the end of the school year, he only had 134 left. How many crayons had been lost or given away?",345 (crayons),479-134=345,,"['4.OA.A.3', '4.NBT.A.1', '4.OA.A.1', '4.OA.A.3']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.OA.A.3: Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+This knowledge component is required because the problem involves solving a multistep word problem that requires the use of the four operations (addition, subtraction, multiplication, and division) to find the answer. The problem also requires the student to interpret the remainder and assess the reasonableness of the answer.
+
+Note that other knowledge components, such as 4.NBT.A.1 or 4.OA.A.1, may also be relevant to the problem, but 4.OA.A.3 is the primary knowledge component required to solve the problem."
+77,1,ASDiv,Julia played tag with 12 kids on Monday. She played tag with 7 kids on Tuesday. How many kids did she play with altogether?,19 (kids),12+7=19,,"['1.OA.A.1', '1.OA.A.2', '1.NBT.C.4']",2,"To answer this question, the following knowledge components are required:
+
+1. ""1.OA.A.1"": Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+2. ""1.OA.A.2"": Solve word problems that call for addition of three whole numbers whose sum is less than or equal to 20, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+3. ""1.NBT.C.4"": Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.
+
+These knowledge components are required because the question involves adding two numbers (12 and 7) to find the total number of kids Julia played with, which is a basic addition problem. The student needs to use addition strategies to solve the problem, and the knowledge components listed above provide the necessary skills and concepts to do so."
+571,1,ASDiv,It takes 7 minutes to bake one pan of cookies. How long will it take to bake 4 pans of cookies?,28 (minutes),7*4=28,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves multiplying the time it takes to bake one pan of cookies by the number of pans to be baked, which is a multiplication problem within 100."
+2256,1,ASDiv,"April's discount flowers was having a sale where each rose was 4 dollars. If April started with 13 roses and had 4 roses left, how much money did she earn?",36 (dollars),(13-4)*4=36,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves multiplication and division to solve a word problem."
+1785,1,ASDiv,Emily owned 6 songs by her favorite artists. Later on she bought 7 more songs. How many songs did she have totaled?,13 (songs),6+7=13,,"['1.OA.A.1', '1.OA.A.2', '1.NBT.C.4']",2,"To answer this question, the following knowledge components are required:
+
+1. ""1.OA.A.1"": Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+2. ""1.OA.A.2"": Solve word problems that call for addition of three whole numbers whose sum is less than or equal to 20, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+3. ""1.NBT.C.4"": Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.
+
+These knowledge components are required because the question involves adding two numbers (6 and 7) to find the total number of songs Emily has. The student needs to use addition and subtraction within 20 to solve the word problem, and then apply the strategy of adding within 100 to find the total number of songs."
+485,1,ASDiv,"Brenda's mother made cookies for five. If she prepared 35 cookies and each of them had the same number of cookies, how many did each of them have?",7 (cookies),35/5=7,,"['2.OA.B.2', '2.OA.C.3', '2.OA.C.4']",3,"To answer this question, the following knowledge components are required:
+
+1. 2.OA.B.2: Fluently add and subtract within 20 using mental strategies. By end of Grade 2, know from memory all sums of two one-digit numbers.
+2. 2.OA.C.3: Determine whether a group of objects (up to 20) has an odd or even number of members, e.g., by pairing objects or counting them by 2s; write an equation to express an even number as a sum of two equal addends.
+3. 2.OA.C.4: Use addition to find the total number of objects arranged in rectangular arrays with up to 5 rows and up to 5 columns; write an equation to express the total as a sum of equal addends.
+
+These knowledge components are required to solve the problem by dividing the total number of cookies (35) by the number of people (5) to find the number of cookies each person had (7)."
+10,1,ASDiv,Marin has nine apples and Donald has two apples. How many apples do Marin and Donald have together?,11 (apples),9+2=11,,"['1.OA.A.1', '1.NBT.C.4']",1,"The relevant knowledge components required to answer this question are:
+
+1. ""1.OA.A.1"": Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+2. ""1.NBT.C.4"": Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.
+
+These knowledge components are necessary to solve the problem by adding the number of apples Marin has (9) to the number of apples Donald has (2) and finding the total number of apples they have together (11)."
+2294,1,ASDiv,Rebecca wants to split a collection of eggs into groups of 2. Rebecca has 16 eggs and 3 marbles. How many groups will be created?,8 (groups),16/2=8,,"['1.OA.A.1', '1.NBT.A.1', '1.OA.A.2']",2,"To answer this question, the following knowledge components are required:
+
+1. ""1.OA.A.1"": Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+2. ""1.NBT.A.1"": Count to 120, starting at any number less than 120. In this range, read and write numerals and represent a number of objects with a written numeral.
+3. ""1.OA.A.2"": Solve word problems that call for addition of three whole numbers whose sum is less than or equal to 20, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+
+These knowledge components are required because the question involves counting, addition, and word problem-solving, which are all skills that are developed in Grade 1."
+1031,1,ASDiv,35 campers went rowing in the morning. 27 campers went rowing in the afternoon. How many campers went rowing in all?,62 (campers),35+27=62,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves solving a word problem that requires multiplication and division within 100 to find the total number of campers who went rowing."
+798,1,ASDiv,15 students split 122 portfolios of paintings. Each student should get the same number of portfolios. How many portfolios of paintings will each of them get?,8 (portfolios),122/15=8 r2,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the problem involves dividing a total number of portfolios (122) among a group of students (15) to find the number of portfolios each student should get. The problem can be represented as a division problem, and the student needs to use multiplication and division to solve it."
+580,1,ASDiv,58 children are taking a bus to the zoo. They sit 2 children in every seat. How many seats will the children need in all?,29 (seats),58/2=29,,['3.OA.A.1'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.1: Interpret products of whole numbers, e.g., interpret 5 × 7 as the total number of objects in 5 groups of 7 objects each.
+
+This knowledge component is necessary to understand the concept of multiplication and how it is used to find the total number of seats needed."
+1373,1,ASDiv,"Jason had 27 peaches and 17 pears left at his roadside fruit stand. He went to the orchard and picked more peaches to stock up the stand. There are now 90 peaches at the stand, how many did he pick ?",63 (peaches),90-27=63,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the problem involves using multiplication and division to solve a word problem, which is a key aspect of this standard."
+147,1,ASDiv,Mrs. Hilt wants to make a border around her garden. She needs 125 rocks to complete the border. She has 64 rocks. How many more rocks does she need to complete the border?,61 (rocks),125-64=61,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves multiplication and division to solve a word problem."
+2090,1,ASDiv,Two bicycle enthusiasts are leaving Cincinnati at the same time. One is biking 840 miles to Boston. The other is biking 440 miles to Atlanta. What is the greatest number of miles a day each can bike if they want to cover equal distances each day?,40 (miles),"GCD(840,440)=40",,"['4.OA.A.2', '4.NBT.B.5', '4.NBT.B.6']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+2. 4.NBT.B.5: Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.
+3. 4.NBT.B.6: Find whole-number quotients and remainders with up to four-digit dividends and one-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.
+
+These knowledge components are required to solve the problem, which involves multiplying and dividing whole numbers to find the greatest number of miles each can bike in a day."
+2301,1,ASDiv,"There are 3300 bananas in Janice's banana collection. Janice also has 5 crayons. If the bananas are organized into 75 groups, how big is each group?",44 (bananas),3300/75=44,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the problem involves dividing the total number of bananas (3300) into equal groups (75), which requires the application of multiplication and division within 100."
+287,1,ASDiv,"At the first day back in school, her parents bought her different colored pens. If her parents bought her 56 pens and she gave 22 of those to her friends, how many pens were left for her to use?",34 (pens),56-22=34,,"['3.OA.A.3', '3.OA.D.8', '3.NBT.A.1', '3.OA.A.3', '3.OA.D.8']",4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves multiplication (56 pens) and division (22 pens given to friends), which are both within the range of 100. The student needs to use multiplication and division to solve the problem.
+
+2. 3.OA.D.8: Solve two-step word problems using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+This knowledge component is required because the question involves a two-step problem: first, the student needs to subtract 22 from 56 to find the number of pens left, and then they need to interpret the remainder (34 pens). The student also needs to use mental computation and estimation strategies to assess the reasonableness of the answer.
+
+3. 3.NBT.A.1: Use place value understanding to round whole numbers to the nearest 10 or 100.
+
+This knowledge component is not directly required for this question, but it could be useful for the student to round the answer to the nearest 10 or 100 (e.g., 30 or 40) to make it more manageable.
+
+In summary, the required knowledge components for this question are 3.OA.A.3 and 3.OA.D.8."
+16,1,ASDiv,Some oranges were in the basket. Five oranges were taken from the basket. Now there are three oranges. How many oranges were in the basket before some of the oranges were taken?,8 (oranges),5+3=8,,"['3.OA.A.3', '3.OA.D.8', '3.NBT.A.1', '4.OA.A.1', '4.OA.A.3']",4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the problem involves using multiplication and division to solve a word problem, which is a key aspect of this knowledge component.
+
+2. 3.OA.D.8: Solve two-step word problems using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+This knowledge component is required because the problem involves solving a two-step word problem using the four operations, which is a key aspect of this knowledge component.
+
+3. 3.NBT.A.1: Use place value understanding to round whole numbers to the nearest 10 or 100.
+
+This knowledge component is not directly required, but it could be useful in solving the problem. For example, the student might use place value understanding to round the number of oranges in the basket to the nearest 10 or 100 to make the problem easier to solve.
+
+4. 4.OA.A.1: Interpret a multiplication equation as a comparison, e.g., interpret 35 = 5 × 7 as a statement that 35 is 5 times as many as 7 and 7 times as many as 5. Represent verbal statements of multiplicative comparisons as multiplication equations.
+
+This knowledge component is not directly required, but it could be useful in solving the problem. For example, the student might use this knowledge component to interpret the multiplication equation 5 × ? = 8 as a comparison between 5 and 8.
+
+5. 4.OA.A.3: Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+This knowledge component is required because the problem involves solving a multistep word problem using the four operations, which is a key aspect of this knowledge component.
+
+Note that the solution to the problem is 8, which is the result of subtracting 5 from 13 (3 + 5 + 5)."
+569,1,ASDiv,Lukas averages 12 points per game in basketball. How many points would he score in 5 games?,60 (points),12*5=60,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves multiplying Lukas' average points per game by the number of games he plays to find the total points he would score."
+1221,1,ASDiv,Kristen notices an identical number of two types of insects in her neighborhood: butterflies and fireflies. She always seems to observe butterflies in groups of 44 and fireflies in groups of 17. What is the smallest number of butterflies that she could have seen?,748 (butterflies),"LCM[44,17]=748",,"['4.OA.A.1', '4.OA.A.2', '4.NBT.B.5']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.OA.A.1: Interpret a multiplication equation as a comparison, e.g., interpret 35 = 5 × 7 as a statement that 35 is 5 times as many as 7 and 7 times as many as 5. Represent verbal statements of multiplicative comparisons as multiplication equations.
+2. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+3. 4.NBT.B.5: Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.
+
+These knowledge components are required to solve the problem, as it involves multiplying and dividing numbers to find the smallest number of butterflies Kristen could have seen."
+2161,1,ASDiv,"Lana had eleven DS games. If she bought two more games, how many would she have total?",13 (DS games),11+2=13,,"['1.OA.A.1', '1.NBT.C.4']",2,"To answer this question, the following knowledge components are required:
+
+1. ""1.OA.A.1"": Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+2. ""1.NBT.C.4"": Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.
+
+These knowledge components are required because the question involves adding 2 to 11 to find the total number of DS games Lana would have. The student needs to use addition within 20 to solve the problem, and also needs to understand the concept of adding a two-digit number and a one-digit number, which is a key concept in Grade 1."
+1822,1,ASDiv,"A vase can hold 5 flowers. If you had 25 flowers, how many vases would you need?",5 (vases),25/5=5,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves dividing a total number of flowers (25) by the number of flowers a vase can hold (5) to find the number of vases needed."
+1568,1,ASDiv,"An industrial machine can make three hundred twenty-one crayons a day. If each box of crayons has seven crayons in it, how many full boxes does the machine make a day?",45 (boxes),321/7=45 r6,,"['4.OA.A.2', '4.NBT.A.1', '4.OA.A.3']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+2. 4.NBT.A.1: Recognize that in a multi-digit whole number, a digit in one place represents ten times what it represents in the place to its right. For example, recognize that 700 ÷ 70 = 10 by applying concepts of place value and division.
+3. 4.OA.A.3: Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+These knowledge components are required to solve the problem because it involves multiplying the number of crayons the machine makes per day by the number of crayons in each box, and then dividing the result by the number of crayons in each box to find the number of full boxes."
+1546,1,ASDiv,"A container can hold four orange slices. If a company had three hundred twenty-nine orange slices to put into containers, how many more slices would they need to fill up the last container?",3 (slices),329/4=82 r1; 4-1=3,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required to solve the problem by dividing the total number of orange slices (329) by the number of slices each container can hold (4) to find the number of full containers, and then subtracting this from the total number of containers (329 / 4 = 82.25, 82 full containers, 1 container with 1 slice remaining, 1 slice left over) to find the number of slices needed to fill the last container."
+1574,1,ASDiv,"It takes eight grams of plastic to make a ruler. If a company had eight hundred twenty-eight grams of plastic, how many entire rulers could they make?",103 (rulers),828/8=103 r4,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves multiplication and division to solve a word problem involving measurement quantities."
+1657,1,ASDiv,"At summer camp the ratio of boys to girls was 10:1. If there were 30 boys, how many girls were there?",3 (girls),10:1=30:3,,"['3.OA.A.1', '3.OA.A.4', '3.OA.B.6', '3.NBT.A.1', '3.OA.D.8', '3.OA.A.1', '3.OA.A.4', '3.OA.B.6']",4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.1: Interpret products of whole numbers, e.g., interpret 5 × 7 as the total number of objects in 5 groups of 7 objects each.
+
+This knowledge component is necessary to understand the concept of ratio and to interpret the given information about the ratio of boys to girls at summer camp.
+
+2. 3.OA.A.4: Determine the unknown whole number in a multiplication or division equation relating three whole numbers.
+
+This knowledge component is necessary to solve the problem and find the number of girls. The problem can be represented as a multiplication equation: 10 × ? = 30, where ? is the unknown number of girls.
+
+3. 3.OA.B.6: Understand division as an unknown-factor problem. For example, find 32 ÷ 8 by finding the number that makes 32 when multiplied by 8.
+
+This knowledge component is not directly necessary to solve the problem, but it is related to the concept of division and multiplication, which is used in the problem.
+
+4. 3.NBT.A.1: Use place value understanding to round whole numbers to the nearest 10 or 100.
+
+This knowledge component is not necessary to solve the problem, but it is a general knowledge component that is relevant to the problem.
+
+5. 3.OA.D.8: Solve two-step word problems using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+This knowledge component is not necessary to solve the problem, but it is a general knowledge component that is relevant to the problem.
+
+Therefore, the required knowledge components are 3.OA.A.1, 3.OA.A.4, and possibly 3.OA.B.6."
+697,1,ASDiv,"There are some passengers on a bus. At a bus stop, 7 more passengers got on the bus and 9 passengers got off. If there are 26 passengers in the bus in the end, how many passengers were there at first?",28 (passengers),26+9-7=28,,"['3.OA.A.3', '3.OA.D.8', '3.NBT.A.1', '3.OA.A.1', '3.OA.A.2']",4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the problem involves using multiplication and division to solve a word problem, which is a key aspect of this standard.
+
+2. 3.OA.D.8: Solve two-step word problems using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.
+
+This knowledge component is required because the problem involves solving a two-step word problem using the four operations, which is a key aspect of this standard.
+
+3. 3.NBT.A.1: Use place value understanding to round whole numbers to the nearest 10 or 100.
+
+This knowledge component is not directly required, but it could be useful in estimating the answer or checking the reasonableness of the answer.
+
+4. 3.OA.A.1: Interpret products of whole numbers, e.g., interpret 5 × 7 as the total number of objects in 5 groups of 7 objects each. For example, describe a context in which a total number of objects can be expressed as 5 × 7.
+
+This knowledge component is not directly required, but it could be useful in understanding the concept of multiplication and how it is used in the problem.
+
+5. 3.OA.A.2: Interpret whole-number quotients of whole numbers, e.g., interpret 56 ÷ 8 as the number of objects in each share when 56 objects are partitioned equally into 8 shares, or as a number of shares when 56 objects are partitioned into equal shares of 8 objects each. For example, describe a context in which a number of shares or a number of groups can be expressed as 56 ÷ 8.
+
+This knowledge component is not directly required, but it could be useful in understanding the concept of division and how it is used in the problem.
+
+Note that these knowledge components are not mutually exclusive, and some of them may overlap or be used in combination to solve the problem."
+1711,1,ASDiv,"At a farming supply store 2 pounds of seed cost $44.68. If a farmer needed 6 pounds of seeds, how much would it cost him?",134.04 (dollars),(44.68/2)*6=134.04,,"['4.NBT.A.4', '4.OA.A.3', '4.NBT.B.5', '4.NBT.B.6', '4.OA.A.2']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.NBT.A.4: Use place value understanding to round multi-digit whole numbers to any place.
+2. 4.OA.A.3: Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted.
+3. 4.NBT.B.5: Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations.
+4. 4.NBT.B.6: Find whole-number quotients and remainders with up to four-digit dividends and one-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division.
+5. 4.OA.A.2: Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.
+
+These knowledge components are required to solve the problem, which involves multiplying the cost of 2 pounds of seed by 3 to find the cost of 6 pounds of seed, and then rounding the result to the nearest hundredth."
+159,1,ASDiv,Mrs. Hilt bought 3 pizzas for $8 each. What was the total amount she paid for the three pizzas?,24 (dollars),3*8=24,,"['1.NBT.C.4', '1.OA.A.1']",2,"To answer this question, the following knowledge components are required:
+
+1. ""1.NBT.C.4"": Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.
+2. ""1.OA.A.1"": Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+
+These knowledge components are required because the question involves adding a two-digit number (3 pizzas for $8 each) and requires the student to use addition and subtraction strategies to solve the problem."
+2101,1,ASDiv,A lawn care company bought 4 lawnmower blade for $8 each. They also bought a spool of weed eater string for $7. How much money did they spend on supplies?,39 (dollars),4*8+7=39,,"['3.OA.A.3', '3.OA.D.8', '4.OA.A.3', '3.OA.A.3']",4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves multiplying the cost of each lawnmower blade by 4 to find the total cost of the blades, and then adding the cost of the weed eater string to find the total amount spent on supplies.
+
+Note that other knowledge components, such as 3.OA.D.8 (Solve two-step word problems using the four operations, including problems in which remainders must be interpreted) or 4.OA.A.3 (Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted), could also be relevant to this question. However, 3.OA.A.3 is the most directly applicable knowledge component."
+2274,1,ASDiv,Skittles come in packages of 6. Juan ate 24 Skittles. How many Skittles does he have left?,0 (Skittle),24/6=4 r0,,"['1.OA.A.1', '1.NBT.C.4', '1.NBT.C.5', '1.NBT.C.6']",2,"To answer this question, the following knowledge components are required:
+
+1. ""1.OA.A.1"": Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.
+2. ""1.NBT.C.4"": Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.
+3. ""1.NBT.C.5"": Given a two-digit number, mentally find 10 more or 10 less than the number, without having to count; explain the reasoning used.
+4. ""1.NBT.C.6"": Subtract multiples of 10 in the range 10-90 from multiples of 10 in the range 10-90 (positive or zero differences), using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.
+
+These knowledge components are required to solve the problem by subtracting 24 from 36 (6 x 6) to find the number of Skittles left."
+376,1,ASDiv,"Mona is having a party at her house to celebrate her birthday. She invited some friends and family. Mona prepared rainbow colored cupcakes for dessert. If she made 7 sets for each of the 7 colors of the rainbow and each set has 6 cupcakes, how many cupcakes did Mona prepare in total?",42 (cupcakes),7*6=42,,['3.OA.A.3'],4,"To answer this question, the following knowledge components are required:
+
+1. 3.OA.A.3: Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.
+
+This knowledge component is required because the question involves multiplying the number of sets (7) by the number of cupcakes in each set (6) to find the total number of cupcakes."
+298,1,ASDiv,"Her friends are coming over the next day so she also bought some refreshments. If she has $50.00 left from the money she had after buying cookies, and she has $69.00 before, how much did she spend on juice?",19 (dollars),69-50=19,,"['4.NBT.A.4', '4.NBT.B.5', '4.OA.A.3', '4.OA.B.4', '5.NBT.B.6']",5,"To answer this question, the following knowledge components are required:
+
+1. 4.NBT.A.4: Use place value understanding to round multi-digit whole numbers to any place.
+2. 4.NBT.B.5: Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations.
+3. 4.OA.A.3: Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted.
+4. 4.OA.B.4: Find all factor pairs for a whole number in the range 1-100. Recognize that a whole number is a multiple of each of its factors.
+5. 5.NBT.B.6: Find whole-number quotients of whole numbers with up to four-digit dividends and two-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division.
+
+These knowledge components are required to solve the problem, which involves multiplying, dividing, and subtracting multi-digit numbers, as well as interpreting remainders and finding factor pairs."

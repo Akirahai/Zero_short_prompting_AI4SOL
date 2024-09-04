@@ -1,0 +1,1288 @@
+id,question,KC applied
+2015_Gr3_1,"1 text-plain The graph below shows the numbers of laps four children ran in gym class.
+2 image-chart Numbers of Laps Children Ran y2015_grade3_q1_img_1.png
+3 text-plain What is the total number of laps the four children ran in gym class?
+4 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '21'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '16'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '11'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '9'}]
+",3.MD.3
+2015_Gr3_2,"1 text-plain Ms. Garcia wrote the sentence shown in the box below.
+2 text-in_box There are 8 students, and each student has 4 books.
+3 text-plain Which of these can be used to find the total number of books?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$8 \\times 4$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$8 - 4$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$8 + 4$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$8 \\div 4$$'}]
+",3.OA.1
+2015_Gr3_3,"1 text-plain Ms. Shaw has a quilt that is in the shape of a rectangle. The quilt is 7 feet long and 6 feet wide, as shown below.
+2 image-2d_geometry y2015_grade3_q3_img_1.png
+3 sub_question a. [{'element_id': 'a_1', 'element_type': 'text-plain', 'element_value': 'What is the perimeter, in feet, of Ms. Shaw’s quilt? Show or explain how you got your answer.'}, {'element_id': 'a_2', 'element_type': 'text-answer_with_red_line', 'element_value': 'Perimeter:<<red_line>>feet'}]
+4 text-plain Ms. Garcia also has a quilt in the shape of a rectangle. Ms. Garcia’s quilt has the same perimeter as Ms. Shaw’s quilt but has a different area.
+5 sub_question b. [{'element_id': 'b_1', 'element_type': 'text-plain', 'element_value': 'What could be the length and the width, in feet, of Ms. Garcia’s quilt? Show or explain how you got your answer.'}, {'element_id': 'b_2', 'element_type': 'text-answer_with_red_line', 'element_value': 'Length:<<red_line>>feet'}, {'element_id': 'b_3', 'element_type': 'text-answer_with_red_line', 'element_value': 'Width:<<red_line>>feet'}]
+",3.MD.8
+2015_Gr3_4,"1 text-plain Which of these sentences matches the expression in the box below?
+2 math_expression_in_box $$30 \div 6$$
+3 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'There are 30 students in Ms. Hall’s class, and 6 students are not in class.'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'There are 30 students in Ms. Hall’s class, and 6 new students join the class.'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'There are 30 students in Ms. Hall’s class, and the students are in 6 equal groups.'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'There are 30 students in Ms. Hall’s class, and each student brings in 6 plastic bottles.'}]
+",3.OA.2
+2015_Gr3_5,"1 text-plain What is the missing number that makes the number sentence below true?
+2 math_expression $$165 + \boxed{?} = 214$$
+3 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '49'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '51'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '169'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '379'}]
+",3.NBT.2
+2015_Gr3_6,"1 text-plain The Walker family drove 362 miles.
+2 text-plain What is 362 rounded to the nearest hundred?
+3 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '300'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '360'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '370'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '400'}]
+",3.NBT.1
+2015_Gr3_7,"1 text-plain The chart below shows the number of minutes for each field day activity.
+2 image-table Numbers of Laps Children Ran y2015_grade3_q7_img_1.png
+3 text-plain Which two activities take a total of exactly one hour?
+4 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'Races and Egg Toss'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'Egg Toss and Kickball'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'Races and Tag'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'Tag and Kickball'}]
+",3.MD.1
+2015_Gr3_8,"1 text-pre_question-notes Use the 1-inch tiles from your tool kit to answer question 8.
+2 text-plain Hannah drew the shape shown below.
+3 image-2d_geometry y2015_grade3_q8_img_1.png
+4 text-plain What is the area of the shape Hannah drew?
+5 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '5 square inches'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '6 square inches'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '10 square inches'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '12 square inches'}]
+",3.MD.6
+2015_Gr3_9,"1 text-plain Which of these is equal to the expression below?
+2 math_expression $$8 \times 6$$
+3 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$(5 \\times 3) \\times 6$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$(5 \\times 3) + 6$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$(5 + 3) + 6$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$(5 + 3) \\times 6$$'}]
+",3.OA.5
+2015_Gr3_10,"1 text+math_expression Anton cut a large piece of cloth into small rectangles. Each small rectangle has the same area. The area of each small rectangle is $$\frac{1}{8}$$ the area of the large piece.
+2 text-plain How many small rectangles did Anton cut the large piece of cloth into?
+3 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '1'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '7'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '8'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '9'}]
+",3.G.2
+2015_Gr3_11,"1 text-plain Bonnie has a card with a picture that models a multiplication fact, as shown below.
+2 image-picture y2015_grade3_q11_img_1.png
+3 text-plain In the Answer Box below, write a division fact that matches Bonnie’s picture.
+4 image-answer_box Answer Box y2015_grade3_q11_img_2.png
+",3.OA.7
+2015_Gr3_12,"1 text-plain The heights of six roller coasters are shown in the table below.
+2 image-table Roller Coaster Heights y2015_grade3_q12_img_1.png
+3 text-plain Based on the table, the tallest roller coaster is how many feet taller than the shortest roller coaster?
+4 text-plain Write your answer in the Answer Box below.
+5 image-answer_box Answer Box y2015_grade3_q12_img_2.png
+",3.NBT.2
+2015_Gr3_13,"1 text-plain Abigail and Casey each ordered a pizza for lunch. Both pizzas were the same size. The pizzas could be cut into either 2, 4, 6, or 8 equal pieces.
+2 sub_question a. {'element_type': 'text-plain', 'element_value': 'Abigail ordered her pizza cut so that each piece had the smallest possible area. What fraction of Abigail’s whole pizza is one piece?'}
+3 sub_question b. {'element_type': 'text+math_expression', 'element_value': 'Casey ordered his pizza cut so that it had half as many pieces as Abigail’s pizza. Write a number sentence to compare a fraction that represents one piece of Casey’s pizza and a fraction that represents one piece of Abigail’s pizza. Use $$>$$, $$<$$, or $$=$$ in your number sentence.'}
+",3.NF.3
+2015_Gr3_14,"1 text-plain Which pair of equations are related facts?
+2 answer_options [{'element_id': 'A', 'element_type': 'text+math_expression', 'element_value': '$$54 \\div 6 = n and 6 \\times n = 54$$'}, {'element_id': 'B', 'element_type': 'text+math_expression', 'element_value': '$$54 \\div n = 6 and 54 + 6 = n$$'}, {'element_id': 'C', 'element_type': 'text+math_expression', 'element_value': '$$n \\div 2 = 12 and 12 - n = 2$$'}, {'element_id': 'D', 'element_type': 'text+math_expression', 'element_value': '$$2 \\div 12 = n and n \\times 2 = 12$$'}]
+",3.OA.6
+2015_Gr3_15,"1 text-plain The shape below has a total area of 1 square unit. The shape is divided into equal parts. One part of the shape is shaded.
+2 image-2d_geometry y2015_grade3_q15_img_1.png
+3 text-plain What is the area, in square units, of the shaded part of the shape? Write your answer as a fraction in the Answer Box below.
+4 image-answer_box Answer Box y2015_grade3_q15_img_2.png
+",3.G.2
+2015_Gr3_16,"1 text-plain Toni drew a diagram of the deck she is building, as shown below.
+2 image-2d_geometry Toni’s Deck y2015_grade3_q16_img_1.png
+3 text-plain What is the area of the deck Toni is building?
+4 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '24 square meters'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '40 square meters'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '64 square meters'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '80 square meters'}]
+",3.MD.7
+2015_Gr3_17,"1 text+math_expression Kane placed point H on a number line to show $$\frac{3}{4}$$. Which of these could be Kane’s number line?
+2 answer_options [{'element_id': 'A', 'element_type': 'image-line_graph', 'element_file_pathname': 'y2015_grade3_q17_img_1.png'}, {'element_id': 'B', 'element_type': 'image-line_graph', 'element_file_pathname': 'y2015_grade3_q17_img_2.png'}, {'element_id': 'C', 'element_type': 'image-line_graph', 'element_file_pathname': 'y2015_grade3_q17_img_3.png'}, {'element_id': 'D', 'element_type': 'image-line_graph', 'element_file_pathname': 'y2015_grade3_q17_img_4.png'}]
+",3.NF.2
+2015_Gr3_18,"1 text+math_expression Which of these equations is true when $$q = 8$$?
+2 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$2 \\times q = 4$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$2 \\times q = 16$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$6 \\div q = 2$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$12 \\div q = 4$$'}]
+",3.OA.4
+2015_Gr4_1,"1 text-plain A pet store needs to put 23 birds into birdcages. Each birdcage can hold 4 birds.
+2 text-plain What is the least number of cages the pet store needs to hold all the birds?
+3 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '7'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '6'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '5'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '4'}]
+",4.OA.3
+2015_Gr4_2,"1 text-plain The table below shows the number of lunches sold each day for three days.
+2 image-table Lunches Sold y2015_grade4_q2_img_1.png
+3 text-plain Which of these has a value that is closest to the total number of lunches sold for the three days?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$200 + 400 + 200$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$250 + 450 + 300$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$300 + 500 + 300$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$350 + 450 + 300$$'}]
+",4.NBT.3
+2015_Gr4_3,"1 text-plain Diane has the four number cards shown below.
+2 image-picture y2015_grade4_q3_img_1.png
+3 text-plain Diane used two of her cards to make a two-digit number that is a multiple of 4. What could be the number Diane made?
+",4.OA.4
+2015_Gr4_4,"1 text+math_expression The fraction $$\frac{1}{2}$$ is shaded on the fraction model below.
+2 image-picture y2015_grade4_q4_img_1.png
+3 text+math_expression Write two different fractions that are each equivalent to $$\frac{1}{2}$$.
+",4.NF.1
+2015_Gr4_5,"1 text-plain Which model shows a way to multiply 3 by 14?
+2 answer_options [{'element_id': 'A', 'element_type': 'image-picture', 'element_file_pathname': 'y2015_grade4_q5_img_1.png'}, {'element_id': 'B', 'element_type': 'image-picture', 'element_file_pathname': 'y2015_grade4_q5_img_2.png'}, {'element_id': 'C', 'element_type': 'image-picture', 'element_file_pathname': 'y2015_grade4_q5_img_3.png'}, {'element_id': 'D', 'element_type': 'image-picture', 'element_file_pathname': 'y2015_grade4_q5_img_4.png'}]
+",4.NBT.5
+2015_Gr4_6,"1 text-plain Which of these is true?
+2 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$\\frac{4}{5} = \\frac{5}{6}$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$\\frac{4}{5} \\gt \\frac{5}{6}$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$\\frac{7}{10} \\gt \\frac{5}{6}$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$\\frac{7}{10} \\lt \\frac{4}{5}$$'}]
+",4.NF.2
+2015_Gr4_7,"1 text-plain Jody read the clues below about a mystery number.
+2 text-in_box [{'element_id': '2_1', 'element_type': 'text-plain', 'element_value': 'It is a multiple of 2.'}, {'element_id': '2_2', 'element_type': 'text-plain', 'element_value': 'It is a factor of 18.'}, {'element_id': '2_3', 'element_type': 'text-plain', 'element_value': 'It is a composite number.'}]
+3 text-plain Which of these numbers could be the mystery number?
+4 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '2'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '6'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '9'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '12'}]
+",4.OA.4
+2015_Gr4_8,"1 text-plain Tameca scored 6 points in a basketball game. Leah scored 3 times as many points as Tameca in the basketball game.
+2 text-plain Which equation shows the number of points Leah scored?
+3 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$6 \\div 3 = 2$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$6 - 3 = 3$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$6 + 3 = 9$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$6 \\times 3 = 18$$'}]
+",4.OA.1
+2015_Gr4_9,"1 text-plain Ella collected 5 times as many bugs as Mari. Mari collected 15 bugs.
+2 text-plain What was the total number of bugs Ella collected?
+3 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '75'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '55'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '20'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '3'}]
+",4.OA.2
+2015_Gr4_10,"1 text-plain For this question, you will draw three shapes on the grid in your Student Answer Booklet.
+2 sub_question a. {'element_type': 'text-plain', 'element_value': 'On the grid in your Student Answer Booklet, draw a parallelogram. Label your parallelogram A.'}
+3 sub_question b. [{'element_id': 'b_1', 'element_type': 'text-plain', 'element_value': 'On the grid in your Student Answer Booklet, draw a triangle that has two sides that are perpendicular to each other.'}, {'element_id': 'b_2', 'element_type': 'text-plain', 'element_list': [{'element_id': 'b_2_1', 'element_type': 'text-plain', 'element_value': 'Label your triangle B.'}, {'element_id': 'b_2_2', 'element_type': 'text-plain', 'element_value': 'Put an X on each of the sides that are perpendicular.'}, {'element_id': 'b_2_3', 'element_type': 'text-plain', 'element_value': 'Explain how you know the sides you labeled X are perpendicular.'}]}, {'element_id': '4', 'element_type': 'sub_question', 'sub_question_id': 'c.', 'sub_question': {'element_type': 'text-plain', 'element_value': 'On the grid in your Student Answer Booklet, draw a shape that has at least one pair of parallel sides, at least one pair of perpendicular sides, and only two right angles. Label your shape C.'}}, {'element_id': '5', 'element_type': 'sub_question', 'sub_question_id': 'd.', 'sub_question': {'element_type': 'text-plain', 'element_value': 'What is the mathematical name of the shape you drew in part (c)?'}}]
+",4.G.2
+2015_Gr4_11,"1 text-plain A decimal number is missing from the number sentence below.
+2 math_expression $$0.24 \gt \boxed{?}$$
+3 text+math_expression Which of the following represents a decimal number that belongs in the to make the $$\boxed{?}$$ number sentence true?
+4 answer_options [{'element_id': 'A', 'element_type': 'image-picture', 'element_file_pathname': 'y2015_grade4_q11_img_1.png'}, {'element_id': 'B', 'element_type': 'image-picture', 'element_file_pathname': 'y2015_grade4_q11_img_2.png'}, {'element_id': 'C', 'element_type': 'image-picture', 'element_file_pathname': 'y2015_grade4_q11_img_3.png'}, {'element_id': 'D', 'element_type': 'image-picture', 'element_file_pathname': 'y2015_grade4_q11_img_4.png'}]
+",4.NF.7
+2015_Gr4_12,"1 text+math_expression The picture below shows the $$1\frac{1}{2} pans of cookies that Reggie baked.
+2 image-picture y2015_grade4_q12_img_1.png
+3 text+math_expression Which of the following is another way to write $$1\frac{1}{2}?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$\\frac{11}{2}$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$\\frac{18}{2}$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$1\\frac{6}{12}$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$1\\frac{6}{18}$$'}]
+",4.NF.1
+2015_Gr4_13,"1 text-plain Mr. Jones put 162 books on the library shelves. There are 6 shelves. He put the same number of books on each shelf. How many books did Mr. Jones put on each shelf?
+2 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '22'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '26'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '27'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '28'}]
+",4.NBT.6
+2015_Gr4_14,"1 text-plain Which equation is true?
+2 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$30,000 \\div 10 = 300,000$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$30,000 \\div 100 = 300,000$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$300,000 \\div 10 = 30,000$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$300,000 \\div 100 = 30,000$$'}]
+",4.NBT.1
+2015_Gr4_15,"1 text-plain Greta recorded the number of miles she walked each day last week on a line plot, as shown below.
+2 image-line_graph Number of Miles Walked y2015_grade4_q15_img_1.png
+3 text-plain How many miles in all did Greta walk last week?
+4 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '8 miles'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '10 miles'}, {'element_id': 'C', 'element_type': 'text+math_expression', 'element_value': '$$12\x0crac{1}{2}$$ miles'}, {'element_id': 'D', 'element_type': 'text+math_expression', 'element_value': '$$14\x0crac{1}{2}$$ miles'}]
+",4.MD.4
+2015_Gr4_16,"1 number+text What is the value of the 7 in 472,582?
+2 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '7 ten thousands'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '7 thousands'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '7 hundreds'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '7 tens'}]
+",4.NBT.1
+2015_Gr4_17,"1 text+math_expression In your Student Answer Booklet, draw an angle that measures 180°.
+",4.MD.6
+2015_Gr4_18,"1 text-plain Which of the following shapes has the greatest number of lines of symmetry?
+2 answer_options [{'element_id': 'A', 'element_type': 'image-picture', 'element_file_pathname': 'y2015_grade4_q18_img_1.png'}, {'element_id': 'B', 'element_type': 'image-picture', 'element_file_pathname': 'y2015_grade4_q18_img_2.png'}, {'element_id': 'C', 'element_type': 'image-picture', 'element_file_pathname': 'y2015_grade4_q18_img_3.png'}, {'element_id': 'D', 'element_type': 'image-picture', 'element_file_pathname': 'y2015_grade4_q18_img_4.png'}]
+",4.G.3
+2015_Gr4_19,"1 text+math_expression Lisa shaded $$\frac{5}{10}$$ of the square shown below.
+2 image-picture y2015_grade4_q19_img_1.png
+3 text+math_expression Lisa shaded $$\frac{5}{10}$$ of the square shown below.
+4 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '0.05'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '0.12'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '0.20'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '0.50'}]
+",4.NF.6
+2015_Gr4_20,"1 text-plain Conner wrote the equation shown below.
+2 math_expression $$6 \times 8 = n$$
+3 text-plain Which statement about Conner’s equation is true?
+4 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'The value of n is 6 less than 8.'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'The value of n is 6 divided by 8.'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'The value of n is 6 greater than 8.'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'The value of n is 6 times as many as 8.'}]
+",4.OA.1
+2015_Gr4_21,"1 text-plain The length and width of a field are shown in the diagram below.
+2 image-picture y2015_grade4_q21_img_1.png
+3 sub_question a. {'element_type': 'text-plain', 'element_value': 'What is the perimeter, in feet, of the field? Show or explain how you got your answer.'}
+4 sub_question b. {'element_type': 'text-plain', 'element_value': 'What is the area, in square feet, of the field? Show or explain how you got your answer.'}
+5 text-plain Both the length and the width of the field will be increased by 10 feet.
+6 sub_question c. {'element_type': 'text-plain', 'element_value': 'What will be the new area, in square feet, of the field? Show or explain how you got your answer.'}
+",4.MD.3
+2015_Gr5_1,"1 text-plain A box in the shape of a rectangular prism has the dimensions shown below.
+2 image-picture y2015_grade5_q1_img_1.png
+3 text-plain What is the volume of the box?
+4 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '36 cubic meters'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '60 cubic meters'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '72 cubic meters'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '84 cubic meters'}]
+",5.MD.5
+2015_Gr5_2,"1 text-plain Which of the following inequalities is true?
+ answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$0.37 \\lt 0.3$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$0.3 \\gt 0.298$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$0.298 \\lt 0.2$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$0.2 \\gt 0.37$$'}]
+",5.NBT.3
+2015_Gr5_3,"1 text-plain Cement is shipped in bags. Each bag weighs 80 pounds. A construction worker needs 1,250 pounds of cement to complete a job.
+2 text-plain What is the total number of bags of cement that should be shipped for the construction worker to complete the job?
+3 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '14'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '15'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '16'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '17'}]
+",5.NBT.6
+2015_Gr5_4,"1 text-plain Nathan is making two different number patterns: Pattern X and Pattern Y. The rules for the patterns are shown below.
+2 text-in_box Pattern X Add 5.
+3 text-in_box Pattern Y Multiply by 2.
+4 text-plain Which of the following tables shows the first four terms of Nathan’s Pattern X and Pattern Y?
+5 answer_options [{'element_id': 'A', 'element_type': 'image-table', 'image_filename': 'y2015_grade5_q4_img_1.png'}, {'element_id': 'B', 'element_type': 'image-table', 'image_filename': 'y2015_grade5_q4_img_2.png'}, {'element_id': 'C', 'element_type': 'image-table', 'image_filename': 'y2015_grade5_q4_img_3.png'}, {'element_id': 'D', 'element_type': 'image-table', 'image_filename': 'y2015_grade5_q4_img_4.png'}]
+",5.OA.3
+2015_Gr5_5,"1 text+math_expression Steve has 3 cups of peanuts. He splits the 3 cups of peanuts into $$\frac{1}{3}$$-cup servings. What is the total number of $$\frac{1}{3}$$-cup servings of peanuts Steve has?
+2 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '1'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '3'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '6'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '9'}]
+",5.NF.7
+2015_Gr5_6,"1 text-plain Which of the following statements about quadrilaterals is not true?
+2 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'Every square is also a rectangle.'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'Every trapezoid is also a rectangle.'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'Every rhombus is also a parallelogram.'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'Every rectangle is also a parallelogram.'}]
+",5.G.3
+2015_Gr5_7,"1 text-plain The value of the 7 in 27,459 is how many times the value of the 7 in 40,735?
+",5.NBT.1
+2015_Gr5_8,"1 text+math_expression Judy spent $$\frac{1}{2}$$ of her savings on a bicycle and $$\frac{2}{5}$$ of her savings on a helmet. What is the total fraction of her savings that Judy spent on a bicycle and a helmet?
+",5.NF.2
+2015_Gr5_9,"1 text-plain Carolina is twice as old as her brother Diego will be in 3 years. Diego is 4 years old now. The expression below shows how to find Carolina’s age, in years.
+2 math_expression $$2 \times \left( 4 + 3\right)$$
+3 sub_question a. {'element_type': 'text-plain', 'element_value': 'What is Carolina’s age, in years? Show or explain how you got your answer.'}
+4 text-plain Carolina’s sister, Marisol, is three times as old as Diego was 2 years ago.
+5 sub_question b. {'element_type': 'text-plain', 'element_value': 'Write an expression using numbers and operations to represent Marisol’s age, in years.'}
+6 sub_question c. {'element_type': 'text-plain', 'element_value': 'What is Marisol’s age, in years? Show or explain how you got your answer.'}
+7 text-plain The expression below represents the difference, in years, between the ages of Carolina’s father and her mother.
+8 math_expression $$\left(15 \times 3\right) - \left[\left(10 \times 4\right) - 2 \right]$$
+9 sub_question d. {'element_type': 'text-plain', 'element_value': 'What is the difference, in years, between the ages of Carolina’s father and her mother? Show or explain how you got your answer.'}
+",5.OA.1
+2015_Gr5_10,"1 text-plain A scale rounds the weights of objects to the nearest tenth of a pound. What is 53.864 pounds rounded to the nearest tenth of a pound?
+2 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '53.8 pounds'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '53.9 pounds'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '53.86 pounds'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '53.87 pounds'}]
+",5.NBT.4
+2015_Gr5_11,"1 text-plain Silvia filled a watering can with 3.48 liters of water. She used 40 milliliters to water her cactus plant and 150 milliliters to water her rose plant. What is the total amount of water remaining in the watering can?
+2 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '158 milliliters'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '329 milliliters'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '1,580 milliliters'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '3,290 milliliters'}]
+",5.MD.1
+2015_Gr5_12,"1 text+math_expression Kara is painting flowerpots. She uses $$\frac{1}{3}$$ cup of paint for each flowerpot.
+2 sub_question a. {'element_type': 'text-plain', 'element_value': 'How many cups of paint does Kara use for 2 flowerpots? Show or explain how you got your answer.'}
+3 sub_question b. {'element_type': 'text-plain', 'element_value': 'How many cups of paint does Kara use for 12 flowerpots? Show or explain how you got your answer.'}
+4 text+math_expression After the flowerpots dry, Kara plants seeds in them. She uses $$1\frac{3}{4}$$ cups of soil to fill each flowerpot.
+5 sub_question c. {'element_type': 'text-plain', 'element_value': 'How many cups of soil does Kara use to fill 12 flowerpots? Show or explain how you got your answer.'}
+",5.NF.4
+2015_Gr5_13,"1 text-plain Ms. Montano asked her students to solve the equation shown in the box below.
+2 math_expression-in_box $$\frac{6}{7} + \frac{5}{6} = n$$
+3 text-plain Which of the following is closest to the value of n ?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$\\frac{1}{4}$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$\\frac{3}{4}$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$1\\frac{1}{2}$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$5\\frac{1}{2}$$'}]
+",5.NF.2
+2015_Gr5_14,"1 text-plain A rectangular prism is shown below.
+2 number+text [{'element_id': '2_1', 'element_type': 'number+text', 'element_value': 'The volume is 96 cubic centimeters.'}, {'element_id': '2_2', 'element_type': 'number+text', 'element_value': 'The height is 6 centimeters.'}, {'element_id': '2_3', 'element_type': 'number+text', 'element_value': 'The width is 2 centimeters.'}]
+3 image-3d_geometry y2015_grade5_q14_img_1.png
+4 text-plain What is the length of the rectangular prism?
+5 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': '6 cm'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': '8 cm'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': '12 cm'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': '32 cm'}]
+",5.MD.5
+2015_Gr5_15,"1 text-plain The ordered pair (4, 7) gives the location of a point on the coordinate plane. What is the first step to take in locating the point?
+2 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'Starting at the origin, move 4 units to the right.'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'Starting at the origin, move 4 units to the left.'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'Starting at the origin, move 4 units up.'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'Starting at the origin, move 4 units down.'}]
+",5.G.1
+2015_Gr5_16,"1 text+math_expression The model below can be used to find the product of $$\frac{2}{3} \times \frac{1}{4}$$.
+2 image-3d_geometry y2015_grade5_q16_img_1.png
+3 text+math_expression What is the product of $$\frac{2}{3} \times \frac{1}{4}$$?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$\\frac{2}{9}$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$\\frac{3}{9}$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$\\frac{2}{12}$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$\\frac{9}{12}$$'}]
+",5.NF.4
+2015_Gr5_17,"1 text-plain Which of the following expressions has a product that contains 6 zeros?
+2 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$6 \\times 10^{4}$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$8.3 \\times 10^{5}$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$2.4 \\times 10^{6}$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$41 \\times 10^{6}$$'}]
+",5.NBT.2
+2015_Gr5_18,"1 text-plain Hunter is using different lengths of wire for a science project. The line plot below shows the length, in meters, of each wire he will use.
+2 image-line_graph Length of Wire (in meters) y2015_grade5_q18_img_1.png
+3 text-plain Which of the following is the total length, in meters, of wire Hunter is using for the project?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$\\frac{1}{2}$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$\\frac{5}{8}$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$1\\frac{3}{8}$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$1\\frac{7}{8}$$'}]
+",5.MD.2
+2015_Gr5_19,"1 text-plain Tom used 1-centimeter blocks to build a cube, as shown below.
+2 image-picture y2015_grade5_q19_img_1.png
+3 text-plain What is the volume, in cubic centimeters, of the cube Tom built?
+",5.MD.4
+2015_Gr5_20,"1 text-plain Verndale had a total of 40.5 inches of rain this year. This year’s total was 2.62 inches greater than last year’s total.
+2 text-plain What was the total amount of rain that Verndale had last year?
+3 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '1.43 inches'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '2.63 inches'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '37.88 inches'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '38.12 inches'}]
+",5.NBT.7
+2015_Gr5_21,"1 text-plain Matt drew an obtuse isosceles triangle. Which of the following could be Matt’s triangle?
+2 answer_options [{'element_id': 'A', 'element_type': 'image-2d_geometry', 'image_filename': 'y2015_grade5_q21_img_1.png'}, {'element_id': 'B', 'element_type': 'image-2d_geometry', 'image_filename': 'y2015_grade5_q21_img_2.png'}, {'element_id': 'C', 'element_type': 'image-2d_geometry', 'image_filename': 'y2015_grade5_q21_img_3.png'}, {'element_id': 'D', 'element_type': 'image-2d_geometry', 'image_filename': 'y2015_grade5_q21_img_4.png'}]
+",5.G.4
+2015_Gr6_1,"1 text-plain Justin divided 403 by a number and got a quotient of 26 with a remainder of 13. What was the number Justin divided by?
+2 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '13'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '14'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '15'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '16'}]
+",6.NS.2
+2015_Gr6_2,"1 text-plain Leigh wants to find the number of ounces of pretzels in a 4-pound container. She knows the ratio of ounces to pounds is 16 : 1.
+2 text-plain Which of the following equations can Leigh use to find x, the number of ounces of pretzels in the 4-pound container?
+3 answer_options [{'element_id': 'A', 'element_type': 'text+math_expression', 'element_value': '$$\\frac{x ounces}{4 pounds} = \\frac{16 ounces}{1 pound}$$'}, {'element_id': 'B', 'element_type': 'text+math_expression', 'element_value': '$$\\frac{x ounces}{4 pounds} = \\frac{1 pound}{16 ounces}$$'}, {'element_id': 'C', 'element_type': 'text+math_expression', 'element_value': '$$\\frac{4 ounces}{x ounces} = \\frac{16 pounds}{1 pound}$$'}, {'element_id': 'D', 'element_type': 'text+math_expression', 'element_value': '$$\\frac{4 pounds}{x ounces} = \\frac{16 pounds}{1 ounce}$$'}]
+",6.RP.3
+2015_Gr6_3,"1 text-plain Which of the following is equivalent to the expression below?
+2 math_expression $$7h + 1$$
+ answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$h + 7$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$7\\left(h + 1\\right)$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$\\left(5h + 2\\right) + 1$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$\\left(5 + 2\\right)h + 1$$'}]
+",6.EE.4
+2015_Gr6_4,"1 text-plain Which of the following is equivalent to the expression below?
+2 math_expression $$3 \times 3 \times 3 \times 3$$
+ answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$3^{3}$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$3^{4}$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$4^{3}$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$4 \\times 3$$'}]
+",6.EE.1
+2015_Gr6_5,"1 text-plain A right triangle and its dimensions are shown in the diagram below.
+2 image-2d_geometry y2015_grade6_q5_img_1.png
+3 text-plain What is the area, in square meters, of the triangle?
+",6.G.1
+2015_Gr6_6,"1 text-plain Lily wrote the expression shown in the box below.
+2 math_expression-in_box $$6x - 3$$
+3 sub_question a. {'element_type': 'text-plain', 'element_value': 'What is the coefficient of the variable in Lily’s expression?'}
+4 sub_question b. {'element_type': 'text+math_expression', 'element_value': 'What is the value of Lily’s expression when $$x = 5$$? Show or explain how you got your answer.'}
+5 text-plain Pedro wrote an expression that is equivalent to the statement shown in the box below.
+6 text-in_box 8 more than the difference of $$2x$$ and 1
+7 sub_question c. {'element_type': 'text-plain', 'element_value': 'What could be the expression that Pedro wrote?'}
+8 sub_question d. {'element_type': 'text+math_expression', 'element_value': 'What is the difference of the value of Lily’s expression when $$x = 5$$ and the value of Pedro’s expression when $$x = 5$$? Show or explain how you got your answer.'}
+",6.EE.2
+2015_Gr6_7,"1 text-plain Each meal at a school cafeteria is served with 2 portions of vegetables. What is the ratio of meals served to portions of vegetables served at the school cafeteria?
+2 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '1 : 2'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '1 : 3'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '2 : 1'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '3 : 1'}]
+",6.RP.1
+2015_Gr6_8,"1 text+math_expression Madison finished \frac{4}{5}$$ of her homework before dinner. What percent of Madison’s homework is left to finish?
+2 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '15%'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '20%'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '45%'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '80%'}]
+",6.RP.3
+2015_Gr6_9,"1 text-plain All of the benches in a park are red or blue. The ratio of red benches to blue benches in the park is 3 : 4.
+2 text-plain Based on this information, which of the following statements is true?
+3 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'For every 4 benches in the park, 3 are red.'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'For every 7 benches in the park, 4 are red.'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'For every 3 red benches in the park, there are 4 blue benches.'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'For every 3 red benches in the park, there are 7 blue benches.'}]
+",6.RP.1
+2015_Gr6_10,"1 text-plain A police officer recorded the speeds, in miles per hour, of 21 cars that passed by on a highway. The results are shown in the line plot below.
+2 image-line_graph Speeds of Cars on a Highway\n(miles per hour) y2015_grade6_q10_img_1.png
+3 text-plain What is the total number of cars that had a recorded speed greater than 55 miles per hour?
+ answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '6'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '9'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '12'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '21'}]
+",6.SP.4
+2015_Gr6_11,"1 text+math_expression Ms. Nelson needs $$5\frac{1}{2}$$ yards of fabric to make 2 identical dresses. How much fabric is needed to make each dress?
+2 answer_options [{'element_id': 'A', 'element_type': 'text+math_expression', 'element_value': '$$2\\frac{3}{4}$$ yards'}, {'element_id': 'B', 'element_type': 'text+math_expression', 'element_value': '$$2\\frac{7}{8}$$ yards'}, {'element_id': 'C', 'element_type': 'text+math_expression', 'element_value': '3 yards'}, {'element_id': 'D', 'element_type': 'text+math_expression', 'element_value': '11 yards'}]
+",6.NS.1
+2015_Gr6_12,"1 text-plain The net of a rectangular prism and some of its dimensions are shown in the diagram below.
+2 image-2d_geometry y2015_grade6_q12_img_1.png
+3 text-plain What is the total surface area, in square centimeters, of the rectangular prism?
+4 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '174'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '258'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '348'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '360'}]
+",6.G.4
+2015_Gr6_13,"1 text-plain Which of the following numbers best represents the location of point P on the number line below?
+2 image-line_graph y2015_grade6_q13_img_1.png
+3 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$-1\\frac{1}{3}$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$-1\\frac{2}{3}$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$-2\\frac{1}{3}$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$-2\\frac{2}{3}$$'}]
+",6.NS.6
+2015_Gr6_14,"1 number+text Sean’s height is 1.8 meters. What is Sean’s height in centimeters?
+2 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '0.018 centimeter'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '0.18 centimeter'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '18 centimeters'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '180 centimeters'}]
+",6.RP.3
+2015_Gr6_15,"1 text-plain Mason wrote the expression shown below.
+2 math_expression $$5\left(y + 2\right)$$
+3 text-plain Write an expression that is equivalent to Mason’s expression.
+",6.EE.3
+2015_Gr6_16,"1 text-plain The location of point T is shown on the coordinate grid below.
+2 image-line_graph y2015_grade6_q16_img_1.png
+3 text-plain Point S is located 5 units to the right of point T. What are the coordinates of point S?
+",6.NS.8
+2015_Gr6_17,"1 text-plain Zoe recorded the number of hours she worked each day for 5 days. Her data set is shown in the box below.
+2 text-in_box 4, 8, 2, 3, 8
+3 sub_question a. {'element_type': 'text-plain', 'element_value': 'What is the median number of hours Zoe worked for the 5 days? Show or explain how you got your answer.'}
+4 sub_question b. {'element_type': 'text-plain', 'element_value': 'What is the mean number of hours Zoe worked for the 5 days? Show or explain how you got your answer.'}
+5 text-plain Lance also recorded the number of hours he worked each day for 5 days. His data set is shown in the box below.
+6 text-in_box 2, 2, 3, 5, 8
+7 sub_question c. {'element_type': 'text-plain', 'element_value': 'Which measure is the same for both Zoe’s and Lance’s data sets: median, mean, or range? Show or explain how you got your answer.'}
+",6.SP.5
+2015_Gr6_18,"1 text-plain Which of the following graphs shows a constant rate of change between the variables x and y?
+2 answer_options [{'element_id': 'A', 'element_type': 'image-line_graph', 'image_filename': 'y2015_grade6_q18_img_1.png'}, {'element_id': 'B', 'element_type': 'image-line_graph', 'image_filename': 'y2015_grade6_q18_img_2.png'}, {'element_id': 'C', 'element_type': 'image-line_graph', 'image_filename': 'y2015_grade6_q18_img_3.png'}, {'element_id': 'D', 'element_type': 'image-line_graph', 'image_filename': 'y2015_grade6_q18_img_4.png'}]
+",6.EE.9
+2015_Gr6_19,"1 text-plain Two bands are marching in a parade.
+2 text-plain [{'element_id': '2_1', 'element_type': 'number+text', 'element_value': 'There are 32 people marching in the first band.'}, {'element_id': '2_2', 'element_type': 'number+text', 'element_value': 'There are 40 people marching in the second band.'}, {'element_id': '2_3', 'element_type': 'text-plain', 'element_value': 'The same number of people are marching in each row in both bands.'}]
+3 text-plain What is the greatest number of people that could be marching in each row?
+4 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '2'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '4'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '8'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '10'}]
+",6.NS.4
+2015_Gr6_20,"1 text-plain Mr. Walsh has a sign that is in the shape of a trapezoid. Some of the dimensions of Mr. Walsh’s sign are shown below.
+2 image-2d_geometry y2015_grade6_q20_img_1.png
+3 text-plain What is the area of Mr. Walsh’s sign?
+4 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '24 sq. ft.'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '36 sq. ft.'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '42 sq. ft.'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '48 sq. ft.'}]
+",6.G.1
+2015_Gr6_21,"1 text+math_expression Which of the following is closest to the circumference, in inches, of a circle with a diameter of 5 inches? (Use 3.14 for $$\pi$$.)
+2 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '15.7 inches'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '19.6 inches'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '31.4 inches'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '78.5 inches'}]
+",6.G.1
+2016_Gr3_1,"1 text-plain Ms. Hanson poured water into a jug, as shown below.
+2 image-picture y2016_grade3_q1_img_1.png
+3 text-plain Which of these is closest to the amount of water in the jug?
+4 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '2 liters'}, {'element_id': 'B', 'element_type': 'text+math_expression', 'element_value': '$$2\\frac{1}{2}$$ liters'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '3 liters'}, {'element_id': 'D', 'element_type': 'text+math_expression', 'element_value': '$$3\\frac{1}{2}$$ liters'}]
+",3.MD.2
+2016_Gr3_2,"1 text-plain Jody wrote the expression shown below.
+2 math_expression $$\left(2 \times 3\right) + \left(2 \times 5\right)$$
+3 text-plain Which of these is another way to write Jody’s expression?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$2 \\times 8$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$4 \\times 8$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$4 \\times 15$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$6 \\times 10$$'}]
+",3.OA.5
+2016_Gr3_3,"1 text-plain Chas drew a number line to show equal fractions, as shown below.
+2 image-line_graph y2016_grade3_q3_img_1.png
+3 text+math_expression Chas will write a fraction equal to $$\frac{1}{2}$$ to replace the $$\bigstar$$. Which of these fractions should he write to replace the $$\bigstar$$?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$\\frac{1}{6}$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$\\frac{2}{6}$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$\\frac{3}{6}$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$\\frac{4}{6}$$'}]
+",3.NF.3
+2016_Gr3_4,"1 text-plain Compute:
+2 math_expression $$42 \div 7$$
+3 text-plain Write your answer in the Answer Box below.
+4 image-answer_box Answer Box y2016_grade3_q4_img_1.png
+",3.OA.7
+2016_Gr3_5,"1 text-plain What is 946 rounded to the nearest hundred?
+2 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '800'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '900'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '950'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '1000'}]
+",3.NBT.1
+2016_Gr3_6,"1 text-plain April, June, September, and November each have 30 days. How many days are in the 4 months altogether?
+2 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '34'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '70'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '120'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '136'}]
+",3.NBT.3
+2016_Gr3_7,"1 text-pre_question-notes Use the shapes labeled T from your tool kit to answer question 7.
+2 text-plain Anjani used the shapes labeled T to cover the figure shown below without any gaps or overlaps.
+3 image-2d_geometry y2016_grade3_q7_img_1.png
+4 text-plain What fraction of the figure does one of the shapes labeled T cover?
+5 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$\\frac{1}{3}$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$\\frac{1}{2}$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$\\frac{2}{3}$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$\\frac{3}{1}$$'}]
+",3.G.2
+2016_Gr3_8,"1 text-pre_question-notes Use your MCAS ruler to answer question 8.
+1 text-plain A rectangle is shown below.
+3 image-2d_geometry y2016_grade3_q8_img_1.png
+4 text-plain What is the perimeter, in centimeters, of the rectangle?
+ answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '8 centimeters'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '10 centimeters'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '15 centimeters'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '16 centimeters'}]
+",3.MD.8
+2016_Gr3_9,"1 text-plain In which of these patterns is the next number an odd number?
+2 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': '2, 4, 6, 8, . . .'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': '7, 12, 17, 22, . . .'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': '18, 15, 12, 9, . . .'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': '24, 20, 16, 12, . . .'}]
+",3.OA.9
+2016_Gr3_10,"1 text-plain Amy’s house has a porch that is covered with 1-square-foot tiles. The porch is in the shape of a rectangle, as shown below.
+2 image-2d_geometry y2016_grade3_q10_img_1.png
+3 text-plain Amy counted the tiles to find the area of the porch.
+4 text-plain Which of these is another way Amy could find the area, in square feet, of the porch?
+5 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$\\left(4 + 3\\right) + \\left(4 + 3\\right)$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$\\left(4 \\times 3\\right) + \\left(4 \\times 3\\right)$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$4 + 3$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$4 \\times 3$$'}]
+",3.MD.7
+2016_Gr3_11,"1 text-plain There are 6 children on a bus. Each child is wearing a hat.
+2 text-plain What fraction of the children on the bus are wearing a hat? Write your answer in the Answer Box below.
+3 image-answer_box Answer Box y2016_grade3_q11_img_1.png
+",3.NF.3
+2016_Gr3_12,"1 text-plain Claire wrote a number that is greater than zero on her paper. When Claire’s number is multiplied by any whole number, the last digit of the product is always 0.
+2 text-plain In the Answer Box below, write a number that could be Claire’s number.
+3 image-answer_box Answer Box y2016_grade3_q12_img_1.png
+",3.NBT.3
+2016_Gr3_13,"1 text-pre_question-notes Use your MCAS ruler to answer question 13.
+2 text-plain A rectangle is shown below.
+3 image-2d_geometry y2016_grade3_q13_img_1.png
+4 sub_question a. {'element_type': 'text-plain', 'element_value': 'Draw line segments on the rectangle to divide the rectangle into 8 equal parts.'}
+5 sub_question b. {'element_type': 'text-plain', 'element_value': 'What fraction of the area of the whole rectangle is the area of each part?'}
+",3.G.2
+2016_Gr3_14,"1 text-plain Each student in a third-grade class made a paper snowflake and measured its length. The line plot below shows the length, in inches, of each paper snowflake.
+2 image-line_graph Length of Paper Snowflakes
+(in inches) y2016_grade3_q14_img_1.png
+3 text-plain What is the length, in inches, of the longest paper snowflake?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$3\\frac{1}{2}$$'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '4'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$4\\frac{1}{2}$$'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '5'}]
+",3.MD.4
+2016_Gr3_15,"1 text-plain Ryan put 24 books on shelves. He put 8 books on each shelf.
+2 text-plain Which equation can be used to find s, the number of shelves Ryan put books on?
+3 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$8 \\times 24 = s$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$8 \\div 24 = s$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$s \\times 8 = 24$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$s \\div 8 = 24$$'}]
+",3.OA.6
+2016_Gr3_16,"1 text-plain A pet store has 5 fish tanks with 10 fish in each tank. A shopper buys 8 fish and takes them home.
+2 text-plain After the shopper leaves the store, what is the total number of fish left in the pet store’s tanks?
+3 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '23'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '42'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '50'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '58'}]
+",3.OA.8
+2016_Gr3_17,"1 text-plain On Monday, the school store sold pencils, pens, erasers, and rulers.
+2 text-plain [{'element_id': '2_1', 'element_type': 'text-plain', 'element_value': 'The store sold 6 more pencils than pens.'}, {'element_id': '2_2', 'element_type': 'text-plain', 'element_value': 'The store sold 2 times as many erasers as rulers.'}]
+3 text-plain Which of these bar graphs could show the items that were sold on Monday?
+4 answer_options [{'element_id': 'A', 'element_type': 'image-chart', 'image_caption': 'School Store\nSales on Monday', 'image_filename': 'y2016_grade3_q17_img_1.png'}, {'element_id': 'B', 'element_type': 'image-chart', 'image_caption': 'School Store\nSales on Monday', 'image_filename': 'y2016_grade3_q17_img_2.png'}, {'element_id': 'C', 'element_type': 'image-chart', 'image_caption': 'School Store\nSales on Monday', 'image_filename': 'y2016_grade3_q17_img_3.png'}, {'element_id': 'D', 'element_type': 'image-chart', 'image_caption': 'School Store\nSales on Monday', 'image_filename': 'y2016_grade3_q17_img_4.png'}]
+",3.MD.3
+2016_Gr3_18,"1 text-plain Christopher planted 24 bean plants in his garden. He placed the bean plants in 4 rows. Each row had the same number of plants.
+2 sub_question a. {'element_type': 'text-plain', 'element_value': 'Draw an array to show how Christopher placed all the bean plants in his garden.'}
+3 sub_question b. {'element_type': 'text-plain', 'element_value': 'How many bean plants did Christopher place in each row?'}
+",3.OA.3
+2016_Gr4_1,"1 text-plain Jane, Frank, and Denise each cut a length of ribbon.
+2 text-plain [{'element_id': '2_1', 'element_type': 'text-plain', 'element_value': 'Jane’s ribbon is 0.5 meter long.'}, {'element_id': '2_2', 'element_type': 'text-plain', 'element_value': 'Frank’s ribbon is 0.39 meter long.'}, {'element_id': '2_3', 'element_type': 'text-plain', 'element_value': 'Denise’s ribbon is 0.4 meter long.'}]
+3 text-plain Which statement about the lengths of the ribbons is true?
+4 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'Jane’s ribbon is longer than Frank’s ribbon.'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'Denise’s ribbon is longer than Jane’s ribbon.'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'Frank’s ribbon is longest.'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'Denise’s ribbon is shortest.'}]
+",4.NF.7
+2016_Gr4_2,"1 text-plain Jessica is thinking of a number. She listed some of the factors of her number in the box shown below.
+2 text-in_box 2, 3, 4, 6
+3 text-plain Which of the following could be Jessica’s number?
+4 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '12'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '14'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '16'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '18'}]
+",4.OA.4
+2016_Gr4_3,"1 text-pre_question-notes Use your MCAS ruler to answer question 3.
+2 text-plain In your Student Answer Booklet, draw two lines that are perpendicular.
+",4.G.1
+2016_Gr4_4,"1 text-plain Devin wrote a number in expanded form, as shown below.
+2 math_expression 500,000 + 90,000 + 3,000 + 20 + 8
+3 text-plain Write Devin’s number in standard form.
+",4.NBT.2
+2016_Gr4_5,"1 text-plain Carl sold cookies and pies at a bake sale to earn money.
+2 text-plain [{'element_id': '2_1', 'element_type': 'number+text', 'element_value': 'A bag of cookies sells for $3.'}, {'element_id': '2_2', 'element_type': 'number+text', 'element_value': 'A pie sells for $8.'}]
+3 sub_question a. {'element_type': 'number+text', 'element_value': 'Carl sold 4 bags of cookies and 2 pies during the first hour of the bake sale. What is the total amount of money, in dollars, Carl earned during the first hour of the bake sale? Show or explain how you got your answer.'}
+4 sub_question b. {'element_type': 'number+text', 'element_value': 'Ms. O’Hara bought 2 bags of cookies and 1 pie from Carl. She paid with a $20 bill. What is the total amount of change, in dollars, Ms. O’Hara should receive? Show or explain how you got your answer.'}
+5 text-plain Vanessa sold cakes at the same bake sale.
+6 sub_question c. {'element_type': 'number+text', 'element_value': 'Mr. Stanley bought 1 bag of cookies and 2 pies from Carl. Mr. Stanley also spent $11 to buy a cake from Vanessa at the bake sale. Write an equation to show m, the total amount of money, in dollars, Mr. Stanley spent at the bake sale.'}
+7 sub_question d. {'element_type': 'text-plain', 'element_value': 'Solve the equation you wrote in part (c) to find the total amount of money, in dollars, Mr. Stanley spent at the bake sale. Show your work.'}
+",4.OA.3
+2016_Gr4_6,"1 text-plain Which of the following shapes has exactly two lines of symmetry?
+2 answer_options [{'element_id': 'A', 'element_type': 'image-2d_geometry', 'image_filename': 'y2016_grade4_q6_img_1.png'}, {'element_id': 'B', 'element_type': 'image-2d_geometry', 'image_filename': 'y2016_grade4_q6_img_2.png'}, {'element_id': 'C', 'element_type': 'image-2d_geometry', 'image_filename': 'y2016_grade4_q6_img_3.png'}, {'element_id': 'D', 'element_type': 'image-2d_geometry', 'image_filename': 'y2016_grade4_q6_img_4.png'}]
+",4.G.3
+2016_Gr4_7,"1 number+text When rounded to the nearest thousand, the number of people who attended a concert is 18,000.
+2 text-plain Which of the following could be the number of people who attended the concert?
+3 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '17,264'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '17,428'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '18,135'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '18,526'}]
+",4.NBT.3
+2016_Gr4_8,"1 text-plain Nathan is using the area model below to solve a problem.
+2 image-2d_geometry y2016_grade4_q8_img_1.png
+3 text-plain Which problem is represented by the whole area model?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$12 \\times 6 = \\square$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$16 \\times 13 = \\square$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$20 \\times 9 = \\square$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$60 \\times 90 = \\square$$'}]
+",4.NBT.5
+2016_Gr4_9,"1 number+text Kendall drew a 100° angle from the center of a circle, as shown below.
+2 image-2d_geometry y2016_grade4_q9_img_1.png
+3 text-plain What fraction of the circle does Kendall’s angle turn through?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$\\frac{100}{360}$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$\\frac{100}{260}$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$\\frac{100}{180}$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$\\frac{100}{90}$$'}]
+",4.MD.5
+2016_Gr4_10,"1 text+math_expression Erin uses $$\frac{2}{8}$$ yard of string to make 1 bracelet. Erin will make 6 bracelets.
+2 sub_question a. {'element_type': 'text-plain', 'element_value': 'How many yards of string will Erin use to make 6 bracelets? Show or explain how you got your answer.'}
+3 text+math_expression Erin uses $$\frac{3}{8}$$ yard of string to make 1 necklace. Erin will make 5 necklaces.
+4 sub_question b. {'element_type': 'text-plain', 'element_value': 'How many yards of string will Erin use to make 5 necklaces? Show or explain how you got your answer.'}
+5 sub_question c. {'element_type': 'text-plain', 'element_value': 'The total number of yards of string Erin will use for 6 bracelets and 5 necklaces is between what two whole numbers? Show or explain how you got your answer.'}
+",4.NF.4
+2016_Gr4_11,"1 number+text Which of these numbers has a 5 whose value is ten times the value of the 5 in 7359?
+2 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '5268'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '4652'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '3005'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '2511'}]
+",4.NBT.1
+2016_Gr4_12,"1 text-plain Darlene has 16 toy spiders. She has one-half as many toy beetles as she has toy spiders.
+2 text-plain Which of the following equations can be used to find b, the total number of toy beetles Darlene has?
+3 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$16 - 2 = b$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$16 \\div 2 = b$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$16 - \\frac{1}{2} = b$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$16 \\div \\frac{1}{2} = b$$'}]
+",4.OA.2
+2016_Gr4_13,"1 text-plain Gianna drew an X on two sides of a triangle, as shown below.
+2 image-2d_geometry y2016_grade4_q13_img_1.png
+3 text-plain Which statement is true about the sides that Gianna drew an X on?
+4 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'The sides are parallel.'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'The sides are perpendicular.'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'The sides form an acute angle.'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'The sides form an obtuse angle.'}]
+",4.G.1
+2016_Gr4_14,"1 number+text A class of 29 students is taking a field trip to the zoo. Each ticket to the zoo costs $15.
+2 text-plain Which of these expressions can be used to find the total cost, in dollars, of the tickets to the zoo?
+3 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$\\left(29 + 10\\right) + \\left(29 + 5\\right)$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$\\left(29 \\times 10\\right) + \\left(29 \\times 5\\right)$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$\\left(29 + 10\\right) \\times \\left(29 + 5\\right)$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$\\left(29 \\times 10\\right) \\times \\left(29 \\times 5\\right)$$'}]
+",4.NBT.5
+2016_Gr4_15,"1 text-plain Which of these is a right triangle?
+2 answer_options [{'element_id': 'A', 'element_type': 'image-2d_geometry', 'image_filename': 'y2016_grade4_q15_img_1.png'}, {'element_id': 'B', 'element_type': 'image-2d_geometry', 'image_filename': 'y2016_grade4_q15_img_2.png'}, {'element_id': 'C', 'element_type': 'image-2d_geometry', 'image_filename': 'y2016_grade4_q15_img_3.png'}, {'element_id': 'D', 'element_type': 'image-2d_geometry', 'image_filename': 'y2016_grade4_q15_img_4.png'}]
+",4.G.2
+2016_Gr4_16,"1 text-plain The recipe on a box of pancake mix tells how many cups of pancake mix are needed to make different numbers of pancakes, as shown in the table below.
+2 image-table Pancake Recipe y2016_grade4_q16_img_1.png
+3 number+text Based on the information in the table, how many pancakes can be made with 6 cups of pancake mix?
+4 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '39'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '40'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '46'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '48'}]
+",4.OA.5
+2016_Gr4_17,"1 text-plain Some angles are shown in the diagram below.
+2 image-2d_geometry y2016_grade4_q17_img_1.png
+3 text-plain Angle EFG has a measure of 50°, and angle GFH has a measure of 30°. The sum of the measures of angles EFG, GFH, and HFJ is 120°.
+4 text-plain What is the measure, in degrees, of angle HFJ ?
+",4.MD.7
+2016_Gr4_18,"1 text-plain Brendan made a line plot showing the weekly rainfall, in inches, for his town one summer. His line plot is shown below.
+2 image-line_graph Weekly Rainfall
+(in inches) y2016_grade4_q18_img_1.png
+3 text-plain Which of these expressions can Brendan use to find the difference, in inches, between the greatest weekly rainfall and the least weekly rainfall that he recorded for his town?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$1\\frac{1}{2} - \\frac{1}{2}$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$5\\frac{1}{2} - \\frac{1}{2}$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$5\\frac{1}{2} - 1\\frac{1}{2}$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$6 - \\frac{1}{2}$$'}]
+",4.MD.4
+2016_Gr4_19,"1 text-plain Jacob wrote the expression shown below.
+2 math_expression $$\frac{6}{10} + \frac{7}{100}$$
+3 text-plain Which of these is equivalent to the expression Jacob wrote?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$\\frac{6}{10} + \\frac{7}{10}$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$\\frac{60}{10} + \\frac{7}{100}$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$\\frac{60}{100} + \\frac{7}{100}$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$\\frac{60}{100} + \\frac{70}{100}$$'}]
+",4.NF.5
+2016_Gr4_20,"1 text-plain A diagram of Parvati’s garden and the lengths of all its sides are shown below.
+2 image-2d_geometry Parvati’s Garden y2016_grade4_q20_img_1.png
+3 text-plain Parvati wants to put a fence around her whole garden. What is the least number of yards of fence she will need?
+4 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '24 yards'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '28 yards'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '36 yards'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '48 yards'}]
+",4.MD.3
+2016_Gr4_21,"1 number+text Olivia’s height is 1.34 meters. What is Olivia’s height in centimeters?
+2 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '0.0134 centimeter'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '0.134 centimeter'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '13.4 centimeters'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '134.0 centimeters'}]
+",4.MD.1
+2016_Gr5_1,"1 text-plain Points A, B, C, and D are shown on the coordinate grid below.
+2 image-chart y2016_grade5_q1_img_1.png
+3 text-plain What point represents the ordered pair (3, 4)?
+4 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'point A'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'point B'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'point C'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'point D'}]
+",5.G.1
+2016_Gr5_2,"1 number+text A group of 5 campers used a total of 12 gallons of water on a camping trip. Each camper used the same amount of water.
+2 text-plain How many gallons of water did each camper use?
+3 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$\\frac{1}{12}$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$\\frac{5}{12}$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$2\\frac{2}{5}$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$2\\frac{1}{2}$$'}]
+",5.NF.3
+2016_Gr5_3,"1 text+math_expression The length of Eagle Trail is $$6\frac{3}{5}$$ miles.
+2 text+math_expression The length of Bear Trail is $$2\frac{7}{10} miles.
+3 text-plain What is the difference in length between Eagle Trail and Bear Trail?
+4 answer_options [{'element_id': 'A', 'element_type': 'text+math_expression', 'element_value': '$$3\\frac{1}{10} miles$$'}, {'element_id': 'B', 'element_type': 'text+math_expression', 'element_value': '$$3\\frac{9}{10} miles$$'}, {'element_id': 'C', 'element_type': 'text+math_expression', 'element_value': '$$4\\frac{1}{10} miles$$'}, {'element_id': 'D', 'element_type': 'text+math_expression', 'element_value': '$$4\\frac{4}{5} miles$$'}]
+",5.NF.1
+2016_Gr5_4,"1 text-plain The graph below shows y, the total cost in dollars, for x tickets to a movie.
+2 image-chart Movie Tickets y2016_grade5_q4_img_1.png
+3 number+text Based on the information in the graph, what would be the total cost for 6 movie tickets?
+4 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '$24'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '$40'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '$48'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '$64'}]
+",5.G.2
+2016_Gr5_5,"1 number+text A box is in the shape of a right rectangular prism. The base of the box has an area of 15 square inches. The height of the box is 12 inches.
+2 text-plain What is the volume, in cubic inches, of the box?
+",5.MD.5
+2016_Gr5_6,"1 text-plain Compute:
+1 math_expression $$\left(9 + 2\right) \times \left(8 - 5\right)$$
+",5.OA.1
+2016_Gr5_7,"1 text-plain Four students ran in a race. The table below shows the time it took each student to finish the race.
+2 image-table Race Finish Time y2016_grade5_q7_img_1.png
+3 text-plain Which student took the least amount of time to finish the race?
+4 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'Karla'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'Linda'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'Mary'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'Sofia'}]
+",5.NBT.3
+2016_Gr5_8,"1 number+text A farmer has 20 bins of apples. Each bin has 25 red apples and 30 green apples.
+2 text-plain Which of the following expressions can be used to find the total number of apples in all the bins?
+3 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$20 + \\left(25 \\times 30\\right)$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$20 \\times \\left(25 + 30\\right)$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$\\left(20 + 25\\right) \\times \\left(20 \\times 30\\right)$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$\\left(20 \\times 25\\right) \\times \\left(20 \\times 30\\right)$$'}]
+",5.OA.2
+2016_Gr5_9,"1 text+math_expression Aiesha made 4 quarts of applesauce. She will put the applesauce in jars that hold $$\frac{1}{3}$$ quart each. Aiesha solved the equation below to find n, the number of jars she needs to hold all the applesauce.
+2 math_expression $$4 \div \frac{1}{3} = n$$
+3 text-plain Which of the following models best represents this equation?
+4 image-picture y2016_grade5_q9_img_1.png
+5 answer_options [{'element_id': 'A', 'element_type': 'image-picture', 'image_filename': 'y2016_grade5_q9_img_2.png'}, {'element_id': 'B', 'element_type': 'image-picture', 'image_filename': 'y2016_grade5_q9_img_3.png'}, {'element_id': 'C', 'element_type': 'image-picture', 'image_filename': 'y2016_grade5_q9_img_4.png'}, {'element_id': 'D', 'element_type': 'image-picture', 'image_filename': 'y2016_grade5_q9_img_5.png'}]
+",5.NF.7
+2016_Gr5_10,"1 text-plain Amal wrote the expression shown below.
+2 math_expression $$5 \times \frac{4}{3}$$
+3 text-plain Which of the following statements about the value of Amal’s expression is true?
+4 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': 'The value is between 6 and 7.'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': 'The value is between 5 and 6.'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': 'The value is between 4 and 5.'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': 'The value is between 3 and 4.'}]
+",5.NF.5
+2016_Gr5_11,"1 text-plain Terry is making meatballs for a family dinner. He needs ground turkey and ground beef to make the meatballs.
+2 number+text Ground turkey costs $4.50 per pound. Terry buys 2.6 pounds of ground turkey.
+3 sub_question a. {'element_type': 'number+text', 'element_value': 'What is the total cost, in dollars, for 2.6 pounds of ground turkey? Show or explain how you got your answer.'}
+4 number+text Terry needs 5.5 pounds of ground beef to make the meatballs. He has 2.75 pounds of ground beef at home.
+5 sub_question b. {'element_type': 'text-plain', 'element_value': 'What is the total number of pounds of ground beef that Terry needs to buy? Show or explain how you got your answer.'}
+6 number+text Terry has a total of 8.1 pounds of meat to make meatballs. He will use 0.3 pound of meat to make each meatball.
+7 sub_question c. {'element_type': 'number+text', 'element_value': 'What is the total number of 0.3-pound meatballs Terry can make with 8.1 pounds of meat? Show or explain how you got your answer.'}
+",5.NBT.7
+2016_Gr5_12,"1 text+math_expression Jean needs $$2\frac{1}{2}$$ cups of flour to make sugar cookies and $$3\frac{1}{4}$$ cups of flour to make peanut butter cookies.
+2 text-plain What is the total number of cups of flour that Jean will need to make both kinds of cookies?
+3 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$5\\frac{2}{6}$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$5\\frac{3}{4}$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$6\\frac{2}{6}$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$6\\frac{3}{4}$$'}]
+",5.NF.2
+2016_Gr5_13,"1 number+text Eric divided the sum of 5 and 7 by 6. Which of the following is another way to express Eric’s calculations?
+2 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$\\left( 7 \\times 6 \\right) \\div 5$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$5 \\div \\left( 7 \\times 6 \\right)$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$\\left( 7 + 5 \\right) \\div 6$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$6 \\div \\left( 7 + 5 \\right)$$'}]
+",5.OA.2
+2016_Gr5_14,"1 number+text Jin had 60 stickers in her collection.
+2 text+math_expression She gave $$\frac{3}{5}$$ of the stickers to her friend.
+3 text-plain How many stickers did Jin give to her friend?
+4 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '12'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '20'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '36'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '40'}]
+",5.NF.6
+2016_Gr5_15,"1 number+text Julie uses 4 green beads and 6 blue beads in each bracelet she makes. What is the total number of green beads Julie will use when she uses 24 blue beads?
+2 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '6'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '10'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '12'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '16'}]
+",5.OA.3
+2016_Gr5_16,"1 number+text A construction team uses 184 sheets of plywood for each house it builds. The team will build 12 houses this year.
+2 number+text What is the total number of sheets of plywood the team will use to build all 12 houses?
+",5.NBT.5
+2016_Gr5_17,"1 text-plain Yolanda took a bus to visit her grandmother for a four-day visit.
+2 sub_question a. {'element_type': 'text+math_expression', 'element_value': 'At the bus station she waited for $$\\frac{3}{4}$$ of an hour until it was time to board the bus. How many minutes did Yolanda wait to board the bus? Show or explain how you got your answer.'}
+3 text-plain Yolanda brought a CD to listen to on the bus.
+4 text-plain [{'element_id': '4_1', 'element_type': 'number+text', 'element_value': 'The CD is 78 minutes long.'}, {'element_id': '4_2', 'element_type': 'text+math_expression', 'element_value': 'The bus ride was $$2\\frac{1}{2}$$ hours long.'}]
+5 sub_question b. {'element_type': 'text-plain', 'element_value': 'How many minutes longer was the bus ride than the CD? Show or explain how you got your answer.'}
+6 sub_question c. {'element_type': 'number+text', 'element_value': 'Yolanda wondered how many minutes are in 4 days. What is the total number of minutes in 4 days? Show or explain how you got your answer.'}
+",5.MD.1
+2016_Gr5_18,"1 text-plain A diagram of a car window is shown below.
+2 image-2d_geometry y2016_grade5_q18_img_1.png
+3 text-plain Which two words best describe the shape of the car window?
+4 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'rectangle, rhombus'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'trapezoid, rectangle'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'rhombus, quadrilateral'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'quadrilateral, trapezoid'}]
+",5.G.4
+2016_Gr5_19,"1 text-plain Josh measured the daily rainfall in his city for two weeks. He recorded the rainfall amounts to the nearest one-fourth inch on a line plot, as shown below.
+2 image-line_graph Amount of Rainfall (inches) y2016_grade5_q19_img_1.png
+3 text-plain What is the total amount of rainfall Josh recorded for the two weeks?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$2\\frac{1}{2} inches$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$4\\frac{1}{4} inches$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '8 inches'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '14 inches'}]
+",5.MD.2
+2016_Gr5_20,"1 text-plain Which of the following expressions represents the number one million?
+2 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$10^{8}$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$10^{7}$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$10^{6}$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$10^{5}$$'}]
+",5.NBT.2
+2016_Gr5_21,"1 text-plain The expressions in the table below show the amount of money, in dollars, that Natalie and Drew each earned babysitting last week.
+2 image-table Earnings from Babysitting y2016_grade5_q21_img_1.png
+3 text-plain Based on the expressions in the table, which of the following statements is true?
+4 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': 'Drew earned $4 less than Natalie.'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': 'Natalie earned $8 more than Drew.'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': 'Natalie earned 12 times as much as Drew.'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': 'Drew earned 4 times as much as Natalie.'}]
+",5.OA.2
+2016_Gr6_1,"1 text-plain The diagram below shows some model airplanes and some model ships.
+2 image-picture y2016_grade6_q1_img_1.png
+3 text-plain What is the ratio of the number of model airplanes to the number of model ships?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '8 : 3'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '5 : 3'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '3 : 8'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '3 : 5'}]
+",6.RP.1
+2016_Gr6_2,"1 text+math_expression Which of the following number lines best represents all the solutions of the inequality $$x < 4$$?
+2 answer_options [{'element_id': 'A', 'element_type': 'image-line_graph', 'image_filename': 'y2016_grade6_q2_img_1.png'}, {'element_id': 'B', 'element_type': 'image-line_graph', 'image_filename': 'y2016_grade6_q2_img_2.png'}, {'element_id': 'C', 'element_type': 'image-line_graph', 'image_filename': 'y2016_grade6_q2_img_3.png'}, {'element_id': 'D', 'element_type': 'image-line_graph', 'image_filename': 'y2016_grade6_q2_img_4.png'}]
+",6.EE.8
+2016_Gr6_3,"1 number+text Bianca read 5 books last month. The number of pages in each book that Bianca read is listed in the box below.
+2 text-in_box 120, 106, 94, 100, 180
+3 number+text What is the mean absolute deviation of the number of pages in the 5 books Bianca read?
+4 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '24'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '30'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '106'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '120'}]
+",6.SP.5
+2016_Gr6_4,"1 number+text Roya paid $48 for 12 cartons of orange juice. What is the unit rate per carton of orange juice that Roya paid?
+2 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '$3'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '$4'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '$6'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '$12'}]
+",6.RP.2
+2016_Gr6_5,"1 text-plain Which of the following graphs shows a constant rate of change between the variables x and y?
+2 answer_options [{'element_id': 'A', 'element_type': 'image-chart', 'image_filename': 'y2016_grade6_q5_img_1.png'}, {'element_id': 'B', 'element_type': 'image-chart', 'image_filename': 'y2016_grade6_q5_img_2.png'}, {'element_id': 'C', 'element_type': 'image-chart', 'image_filename': 'y2016_grade6_q5_img_3.png'}, {'element_id': 'D', 'element_type': 'image-chart', 'image_filename': 'y2016_grade6_q5_img_4.png'}]
+",6.EE.9
+2016_Gr6_6,"1 text-plain An expression is shown below.
+2 math_expression $$g + 3f + f + g + g$$
+3 text-plain Write an equivalent expression that uses each variable only once.
+",6.EE.4
+2016_Gr6_7,"1 text-plain Marvin surveyed his classmates to find out their favorite sports. Each classmate chose only one sport. The results of his survey are represented in the circle graph below.
+2 image-chart Classmates’ Favorite Sports y2016_grade6_q7_img_1.png
+3 number+text In all, Marvin surveyed 48 of his classmates. An equal number of Marvin’s classmates chose baseball and football. Based on the circle graph, what is the total number of classmates who chose baseball as their favorite sport?
+",6.SP.4
+2016_Gr6_8,"1 text-plain The table below shows the amount, in pounds, of snow that Andy can remove over time using a shovel.
+2 image-table Snow Removal Using a Shovel y2016_grade6_q8_img_1.png
+3 sub_question a. {'element_type': 'number+text', 'element_value': 'Based on the table, what is the amount, in pounds, of snow that Andy can remove in 5 minutes using a shovel? Show or explain how you got your answer.'}
+1 text-plain On the grid in your Student Answer Booklet, copy the x-axis, the y-axis, and the labels exactly as shown below.
+2 image-chart y2016_grade6_q8_img_2.png
+3 sub_question b. {'element_type': 'text-plain', 'element_value': 'On your grid, plot the data from the table to show the amount of snow that Andy can remove over time.'}
+3 sub_question c. {'element_type': 'number+text', 'element_value': 'Based on your graph, what is the amount, in pounds, of snow that Andy can remove in 10 minutes? Show or explain how you got your answer.'}
+",6.RP.3
+2016_Gr6_9,"1 text-plain The histogram below represents the number of minutes some students studied for a geography quiz.
+2 image-chart Minutes Spent Studying y2016_grade6_q9_img_1.png
+3 number+text Based on the histogram, what is the total number of students who studied between 11 and 25 minutes for the geography quiz?
+4 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '6'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '14'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '21'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '33'}]
+",6.SP.4
+2016_Gr6_10,"1 number+text Which of the following expressions represents “subtract 17 from x ” ?
+2 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$17 - x$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$x - 17$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$-17x$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$-x -17$$'}]
+",6.EE.2
+2016_Gr6_11,"1 number+text A radio station manager has $1000 in prize money to give away. She will give away $50 in prize money each hour.
+2 text-plain Which of the following expressions represents the amount of prize money the radio station manager will have left to give away after h hours, where h is any number of hours?
+3 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$1000 + 50h$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$1000h + 50$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$1000 - 50h$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$1000h - 50$$'}]
+",6.EE.6
+2016_Gr6_12,"1 text-plain A circular pool is located in the center of a square park. The park, the pool, and some of their dimensions are shown in the diagram below.
+2 image-picture Park y2016_grade6_q12_img_1.png
+3 sub_question a. {'element_type': 'text-plain', 'element_value': 'What is the radius, in yards, of the pool? Show or explain how you got your answer.'}
+4 sub_question b. {'element_type': 'text+math_expression', 'element_value': 'What is the circumference, in yards, of the pool? Show or explain how you got your answer. (Use 3.14 for $$\\pi$$.)'}
+5 sub_question c. {'element_type': 'text+math_expression', 'element_value': 'What is the area, in square yards, of the pool? Show or explain how you got your answer. (Use 3.14 for $$\\pi$$.)'}
+6 text-plain The ground in the park surrounding the pool is covered with grass.
+7 sub_question d. {'element_type': 'text-plain', 'element_value': 'What is the total area, in square yards, of the ground in the park that is covered with grass? Show or explain how you got your answer.'}
+",6.G.1
+2016_Gr6_13,"1 text-plain Points A, B, C, and D are shown on the number line below.
+2 image-line_graph y2016_grade6_q13_img_1.png
+3 number+text Which point is located at -7?
+4 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'point A'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'point B'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'point C'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'point D'}]
+",6.NS.6
+2016_Gr6_14,"1 text+math_expression What is the value of the expression below when $$n = 6$$?
+2 math_expression $$2n + 3n$$
+3 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '12'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '18'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '30'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '62'}]
+",6.EE.2
+2016_Gr6_15,"1 text-plain Guthrie made the input-output table shown below.
+2 image-table y2016_grade6_q15_img_1.png
+3 text-plain Which of the following equations is true for all values in Guthrie’s input-output table?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$x + 3 = y$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$x + 7 = y$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$3x + 1 = y$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$4x - 1 = y$$'}]
+",6.EE.9
+2016_Gr6_16,"1 number+text At the beginning of the day, a water tank contained 526.8 gallons of water. During the day, some of the water was used to water a garden. At the end of the day, the water tank contained 318.05 gallons of water.
+2 text-plain What was the total amount of water used that day?
+3 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '202.75 gallons'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '208.75 gallons'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '208.85 gallons'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '210.80 gallons'}]
+",6.NS.3
+2016_Gr6_17,"1 number+text Luke recorded the number of days it rained each month for 12 months. He made a box plot to represent the data, as shown below.
+2 image-line_graph Number of Days of Rain Per Month y2016_grade6_q17_img_1.png
+3 text-plain What is the interquartile range of the data in Luke’s box plot?
+4 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '11'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '9'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '8'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '5'}]
+",6.SP.5
+2016_Gr6_18,"1 text-plain Elijah wrote two numbers that follow the rules in the box below.
+2 text-in_box [{'element_id': '2_1', 'element_type': 'number+text', 'element_value': 'Both numbers are less than 10.'}, {'element_id': '2_2', 'element_type': 'text-plain', 'element_value': 'Both numbers are whole numbers.'}, {'element_id': '2_3', 'element_type': 'number+text', 'element_value': 'The least common multiple of the numbers is 18.'}, {'element_id': '2_4', 'element_type': 'number+text', 'element_value': 'The greatest common factor of the numbers is 3.'}]
+3 text-plain What two numbers did Elijah write?
+",6.NS.4
+2016_Gr6_19,"1 number+text A theater has a total of 750 seats.
+2 text-plain [{'element_id': '2_1', 'element_type': 'number+text', 'element_value': 'There are 30 rows of seats in the theater.'}, {'element_id': '2_2', 'element_type': 'text-plain', 'element_value': 'Each row has the same number of seats.'}]
+3 text-plain What is the total number of seats in each row of the theater?
+4 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '21'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '23'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '25'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '27'}]
+",6.NS.2
+2016_Gr6_20,"1 text-plain Which of the following expressions has the greatest value?
+2 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$2^{3} + 2^{3}$$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$2^{3} + 7^{1}$$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$3^{2} + 3^{2}$$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$3^{2} + 7^{1}$$'}]
+",6.EE.1
+2016_Gr6_21,"1 text-plain Ethan is hiking in a canyon.
+2 text-in_box [{'element_id': '2_1', 'element_type': 'text-plain', 'element_value': 'He is at an elevation that is below sea level.'}, {'element_id': '2_2', 'element_type': 'number+text', 'element_value': 'His elevation is within 200 feet of sea level.'}]
+3 text-plain Which of the following could be Ethan’s elevation in feet?
+4 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '-300'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '-150'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '150'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '300'}]
+",6.NS.5
+2017_Gr3_1,"1 text-plain A shape and its side lengths are shown.
+2 image-2d_geometry y2017_grade3_q1_img_1.png
+3 text-plain Which statement about the shape is true?
+4 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'The shape is a rhombus and a square.'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'The shape is a rectangle and a square.'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'The shape is a rhombus and a parallelogram.'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'The shape is a rectangle and a parallelogram.'}]
+",3.G.1
+2017_Gr3_2,"1 text-plain This table shows the number of people who went to the school play on three different days.
+2 image-table School Play y2017_grade3_q2_img_1.png
+3 text-plain Part A
+4 text-plain Round to the nearest ten the number of people who went to the school play on each of the three days. Show or explain how you got each of your answers.
+5 text-plain Enter your answers and your work or explanation in the space provided.
+6 text-plain Part B
+7 text-plain Isaac is rounding the three numbers in the table to the nearest hundred. He thinks two of the numbers will be the same after they are rounded. Show or explain why Isaac’s reasoning is correct.
+8 text-plain Enter your work or explanation in the space provided.
+",3.NBT.1
+2017_Gr3_3,"1 text-plain The bar graph shows the numbers of birds that four children saw one day.
+2 image-chart Numbers of Birds Seen y2017_grade3_q3_img_1.png
+3 text-plain How many more birds did Jesse see than Andy saw on that day?
+4 text-plain Enter your answer in the box.
+5 image-answer_box y2017_grade3_q3_img_2.png
+",3.MD.3
+2017_Gr3_4,"1 text-plain Laroy wrote the number sentence shown.
+2 math_expression $$ 8 \times \left( 3 + 2 \right) = \boxed{?} $$
+3 text-plain 
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ \\left( 8 \\times 3 \\right) + 2 = \\boxed{?} $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ \\left( 8 \\times 3 \\right) \\times \\left( 8 \\times 2 \\right) = \\boxed{?} $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ \\left( 8 \\times 3 \\right) + \\left( 8 \\times 2 \\right) = \\boxed{?} $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ \\left( 8 + 3 \\right) \\times \\left( 8 + 2 \\right) = \\boxed{?} $$'}]
+",3.OA.5
+2017_Gr3_5,"1 text-plain Four friends used chocolate to make candy.
+2 text-plain [{'element_id': '2_1', 'element_type': 'text+math_expression', 'element_value': 'Mari used $$ \\frac{1}{2} $$ pound of chocolate.'}, {'element_id': '2_2', 'element_type': 'text+math_expression', 'element_value': 'Lois used $$ \\frac{1}{6} $$ pound of chocolate.'}, {'element_id': '2_3', 'element_type': 'text+math_expression', 'element_value': 'Carolina used $$ \\frac{1}{3} $$ pound of chocolate.'}, {'element_id': '2_4', 'element_type': 'text+math_expression', 'element_value': 'Evelyn used $$ \\frac{1}{4} $$ pound of chocolate.'}]
+3 text-plain Who used the greatest amount of chocolate?
+4 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'Mari'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'Lois'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'Carolina'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'Evelyn'}]
+",3.NF.3
+2017_Gr4_1,"1 number+text Mr. Felton will use exactly 42 feet of fencing to surround a garden that is in the shape of a rectangle. His garden has a length of 12 feet. The equation below represents the perimeter of Mr. Felton’s garden.
+2 math_expression $$ w + w + 12 + 12 = 42 $$
+3 text+math_expression What is $$w$$, the width, in feet, of Mr. Felton’s garden?
+4 text-plain Enter your answer in the box.
+",4.MD.3
+2017_Gr4_2,"1 number+text Ayanna lives 0.67 mile from a school. Kellen lives farther from the school than Ayanna does.
+2 text-plain Which of these could be the distance Kellen lives from the school?
+3 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '0.59 mile'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '0.74 mile'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '0.48 mile'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '0.61 mile'}]
+",4.NF.7
+2017_Gr4_3,"1 text-plain Which of the following rectangles is shown with all of its lines of symmetry?
+2 answer_options [{'element_id': 'A', 'element_type': 'image-2d_geometry', 'image_filename': 'y2017_grade4_q3_img_1.png'}, {'element_id': 'B', 'element_type': 'image-2d_geometry', 'image_filename': 'y2017_grade4_q3_img_2.png'}, {'element_id': 'C', 'element_type': 'image-2d_geometry', 'image_filename': 'y2017_grade4_q3_img_3.png'}, {'element_id': 'D', 'element_type': 'image-2d_geometry', 'image_filename': 'y2017_grade4_q3_img_4.png'}]
+",4.G.3
+2017_Gr4_4,"1 text-plain This picture shows some of the streets in Nathan’s neighborhood.
+2 image-picture y2017_grade4_q4_img_1.png
+3 text-plain Which of the following best represents two streets that are perpendicular?
+4 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'Elm St. and Oak St.'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'Elm St. and Aspen St.'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'Oak St. and Pine St.'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'Pine St. and Aspen St.'}]
+",4.G.1
+2017_Gr4_5,"1 number+text During art class last week, Carmen put crayons into cups for her art teacher. She put exactly 9 crayons into each cup.
+2 number+text Altogether, Carmen put more than 20 crayons, but fewer than 30 crayons, into the cups.
+3 text-plain Part A
+4 text-plain What is the total number of crayons that Carmen put into the cups? Explain your reasoning.
+5 text-plain Enter your answer and your explanation in the space provided.
+6 text-plain Part B
+7 text-plain Is your answer to Part A a prime number or a composite number? Explain your reasoning.
+8 text-plain Enter your answer and your explanation in the space provided.
+9 text-plain Part C
+10 number+text This week, Carmen’s art teacher has a total of 28 crayons to put into cups. She wants Carmen to put the same number of crayons into each cup.
+11 number+text Write all the factor pairs of 28 that show possible ways Carmen can divide 28 crayons equally to put into cups.
+12 text-plain Enter your answer in the space provided.
+",4.OA.4
+2017_Gr5_1,"1 number+text There are 720 students at a school. All the students at the school are going on a field trip to a science museum. The students will ride school buses to the museum. Each bus holds 60 students when completely full.
+2 text-plain Part A
+3 text-plain What is the least number of buses needed to take all the students from the school to the science museum? Show or explain how you got your answer.
+4 text-plain Enter your answer and your work or explanation in the space provided.
+5 text-plain Part B
+6 text-plain Write an equation to represent the problem you solved in Part A.
+7 text-plain Enter your equation in the space provided. Enter only your equation.
+8 text-plain Part C
+9 number+text The school can also use smaller buses to take the students to the museum. Each smaller bus holds 50 students when completely full.
+10 text-plain What is the least number of smaller buses needed to take all the students from the school to the science museum? Show or explain how you got your answer.
+11 text-plain Enter your answer and your work or explanation in the space provided.
+",5.NBT.6
+2017_Gr5_2,"1 number+text At a café, the cost of a turkey sandwich is $1 less than twice the cost of a side salad. A side salad costs $3.50.
+2 text-plain Which of the following expressions can be used to find the cost, in dollars, of a turkey sandwich at the café?
+3 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ 3.50 \\times 2 - 1 $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ 3.50 \\times 2 + 1 $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ \\left( 3.50 - 1 \\right) \\times 2 $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ \\left( 3.50 + 1 \\right) \\times 2 $$'}]
+",5.OA.2
+2017_Gr5_3,"1 text-plain Raul plotted point A, point B, point C, and point D on a grid, as shown.
+2 image-2d_geometry y2017_grade5_q3_img_1.png
+3 text+math_expression Which of Raul’s points is best represented by the ordered pair $$ \left( 3, 0 \right) $$ ?
+4 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'point A'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'point B'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'point C'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'point D'}]
+",5.G.1
+2017_Gr5_4,"1 text-plain A soccer coach bought eight soccer balls. This line plot shows the weight of each ball the coach bought.
+2 image-picture Weight of Soccer Balls
+(in pounds) y2017_grade5_q4_img_1.png
+3 text-plain What is the total weight, in pounds, of all the soccer balls the coach bought?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ 2\\frac{5}{8} $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ 4\\frac{1}{2} $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ 6\\frac{7}{8} $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ 7\\frac{5}{8} $$'}]
+",5.MD.2
+2017_Gr5_5,"1 number+text Ashley’s ladder is 1.85 meters high. What is the height, in centimeters, of Ashley’s ladder?
+2 text-plain Enter your answer in the box.
+",5.MD.1
+2017_Gr6_1,"1 text-plain Rasheed conducted a survey at his school. He asked each student to name one favorite season of the year. The results of Rasheed’s survey are shown in this chart.
+2 image-table Students’ Favorite
+Season of the Year y2017_grade6_q1_img_1.png
+3 text-plain Which of the following circle graphs appears to correctly represent the results of Rasheed’s survey?
+4 answer_options [{'element_id': 'A', 'element_type': 'image-chart', 'image_caption': 'Students’ Favorite\nSeason of the Year', 'image_filename': 'y2017_grade6_q1_img_2.png'}, {'element_id': 'B', 'element_type': 'image-chart', 'image_caption': 'Students’ Favorite\nSeason of the Year', 'image_filename': 'y2017_grade6_q1_img_3.png'}, {'element_id': 'C', 'element_type': 'image-chart', 'image_caption': 'Students’ Favorite\nSeason of the Year', 'image_filename': 'y2017_grade6_q1_img_4.png'}, {'element_id': 'D', 'element_type': 'image-chart', 'image_caption': 'Students’ Favorite\nSeason of the Year', 'image_filename': 'y2017_grade6_q1_img_5.png'}]
+",6.SP.4
+2017_Gr6_2,"1 text-plain The net of a triangular prism and some of its dimensions are shown in the diagram.
+2 image-2d_geometry y2017_grade6_q2_img_1.png
+3 text-plain What is the total surface area, in square inches, of the triangular prism?
+4 text-plain Enter your answer in the box.
+",6.G.4
+2017_Gr6_3,"1 text-plain Jasmine is solving this equation.
+2 math_expression $$ \frac{x}{4} = 9 $$
+3 text+math_expression What value of $$x$$ makes Jasmine’s equation true?
+4 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '5'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '9'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '13'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '36'}]
+",6.EE.7
+2017_Gr6_4,"1 number+text Mr. Johnson’s class has 24 students.
+2 text-plain [{'element_id': '2_1', 'element_type': 'number+text', 'element_value': 'There are 18 students in the class who study Spanish.'}, {'element_id': '2_2', 'element_type': 'text-plain', 'element_value': 'The other students in the class study French.'}]
+3 text-plain In Mr. Johnson’s class, which of the following is the ratio of students who study French to students who study Spanish?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ 1:3 $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ 1:4 $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ 2:3 $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ 3:4 $$'}]
+",6.RP.1
+2017_Gr6_5,"1 text-plain This table shows the relationship between the number of pies sold at a farm and the total profit made, in dollars, from the pies sold at the farm.
+2 image-table Profit Made from Pies Sold y2017_grade6_q5_img_1.png
+3 text-plain Part A
+4 text-plain Based on the table, what is the profit made, in dollars, from each pie sold at the farm? Show or explain how you got your answer.
+5 text-plain Enter your answer and your work or explanation in the space provided.
+6 text-plain Part B
+7 text+math_expression Write an equation that can be used to find $$p$$, the total profit made, in dollars, when $$n$$ pies are sold at the farm.
+8 text-plain Enter your equation in the space provided.
+9 text-plain Part C
+10 number+text Use the equation you wrote in Part B to calculate the profit made, in dollars, when 15 pies are sold at the farm. Show or explain how you got your answer.
+11 text-plain Enter your answer and your work or explanation in the space provided.
+12 text-plain Part D
+13 number+text One day, the farm made a profit of $144 from the pies sold. How many pies were sold at the farm on that day? Show or explain how you got your answer.
+14 text-plain Enter your answer and your work or explanation in the space provided.
+",6.EE.9
+2018_Gr3_1,"1 text-plain Point Q is shown on this number line.
+2 image-line_graph y2018_grade3_q1_img_1.png
+3 text-plain Which fraction best names point Q on the number line?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ \\frac{1}{4} $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ \\frac{1}{3} $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ \\frac{3}{4} $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ \\frac{4}{4} $$'}]
+",3.NF.2
+2018_Gr3_3,"1 number+text Ms. Manning has 138 markers.
+2 number+text What is 138 rounded to the nearest ten?
+3 text-plain Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles.
+4 image-answer_box y2018_grade3_q3_img_1.png
+",3.NBT.1
+2018_Gr3_7,"1 number+text Deron bought some packs of baseball cards. Each pack had 5 baseball cards. He bought 30 baseball cards in all.
+2 text-plain What is the total number of packs of baseball cards Deron bought?
+3 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '8'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '7'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '6'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '5'}]
+",3.OA.7
+2018_Gr3_8,"1 text-plain The bar graph shows the number of children who brought lunch from home each day for four days.
+2 image-chart Lunch from Home y2018_grade3_q8_img_1.png
+3 text-plain How many more children brought lunch from home on Monday than brought lunch from home on Thursday?
+4 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '12'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '18'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '22'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '34'}]
+",3.MD.3
+2018_Gr3_10,"1 number+text Which of these figures has the same area as a rectangle that has a length of 6 inches and a width of 5 inches?
+2 answer_options [{'element_id': 'A', 'element_type': 'image-2d_geometry', 'image_filename': 'y2018_grade3_q10_img_1.png'}, {'element_id': 'B', 'element_type': 'image-2d_geometry', 'image_filename': 'y2018_grade3_q10_img_2.png'}, {'element_id': 'C', 'element_type': 'image-2d_geometry', 'image_filename': 'y2018_grade3_q10_img_3.png'}, {'element_id': 'D', 'element_type': 'image-2d_geometry', 'image_filename': 'y2018_grade3_q10_img_4.png'}]
+",3.MD.7
+2018_Gr3_11,"1 text+math_expression This model shows that $$ \frac{4}{6} $$ of the figure is shaded.
+2 image-2d_geometry y2017_grade3_q11_img_1.png
+1 text+math_expression Which of these fractions is equal to $$ \frac{4}{6} $$ ?
+ answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ \\frac{2}{3} $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ \\frac{3}{4} $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ \\frac{6}{4} $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ \\frac{2}{6} $$'}]
+",3.NF.3
+2018_Gr3_12,"1 text-plain Which of these shapes is both a rhombus and a rectangle?
+2 answer_options [{'element_id': 'A', 'element_type': 'image-2d_geometry', 'image_filename': 'y2018_grade3_q12_img_1.png'}, {'element_id': 'B', 'element_type': 'image-2d_geometry', 'image_filename': 'y2018_grade3_q12_img_2.png'}, {'element_id': 'C', 'element_type': 'image-2d_geometry', 'image_filename': 'y2018_grade3_q12_img_3.png'}, {'element_id': 'D', 'element_type': 'image-2d_geometry', 'image_filename': 'y2018_grade3_q12_img_4.png'}]
+",3.G.1
+2018_Gr3_15,"1 text-pre_question-notes This question has three parts.
+2 text-plain Kevin is cutting oranges and apples into smaller pieces.
+3 text-plain Part A
+4 number+text Kevin cuts each orange into fourths. He has already cut 12 fourths.
+5 text-plain How many oranges has Kevin cut so far? Show or explain how you got your answer.
+6 text-plain Enter your answer and your work or explanation in the space provided.
+7 text-plain Part B
+8 number+text Altogether, Kevin will have cut 8 oranges into fourths.
+9 text-plain How many fourths will Kevin have cut in all? Show or explain how you got your answer.
+10 text-plain Enter your answer and your work or explanation in the space provided.
+11 text-plain Part C
+12 number+text Kevin has 8 apples. He will cut each apple into sixths.
+13 text-plain Will Kevin have more orange pieces or apple pieces? Show or explain how you got your answer.
+14 text-plain Enter your answer and your work or explanation in the space provided.
+",3.NF.1
+2018_Gr3_18,"1 text-pre_question-notes Use your ruler to answer question 18.
+2 text-plain Kyle traced his toy car, as shown.
+3 image-picture y2018_grade3_q18_img_1.png
+4 text-plain What is the length, to the nearest fourth of an inch, of Kyle’s toy car?
+5 answer_options [{'element_id': 'A', 'element_type': 'text+math_expression', 'element_value': '$$ 3 \\frac{1}{4} $$ inches'}, {'element_id': 'B', 'element_type': 'text+math_expression', 'element_value': '$$ 3 \\frac{2}{4} $$ inches'}, {'element_id': 'C', 'element_type': 'text+math_expression', 'element_value': '$$ 4 \\frac{1}{4} $$ inches'}, {'element_id': 'D', 'element_type': 'text+math_expression', 'element_value': '$$ 4 \\frac{2}{4} $$ inches'}]
+",3.MD.4
+2018_Gr3_21,"1 text-plain Jackie’s piano lesson starts at the time shown on this clock.
+2 image-picture y2018_grade3_q21_img_1.png
+3 text-plain Which clock also shows the time Jackie’s piano lesson starts?
+4 answer_options [{'element_id': 'A', 'element_type': 'image-picture', 'image_filename': 'y2018_grade3_q21_img_2.png'}, {'element_id': 'B', 'element_type': 'image-picture', 'image_filename': 'y2018_grade3_q21_img_3.png'}, {'element_id': 'C', 'element_type': 'image-picture', 'image_filename': 'y2018_grade3_q21_img_4.png'}, {'element_id': 'D', 'element_type': 'image-picture', 'image_filename': 'y2018_grade3_q21_img_5.png'}]
+",3.MD.1
+2018_Gr3_22,"1 number+text Camila counted by 8s starting at 0.
+2 text-plain Which of these statements is true?
+3 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'All of the numbers Camila counted were odd.'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'All of the numbers Camila counted were even.'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': 'All of the numbers Camila counted ended in 2, 4, or 8.'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'Some of the numbers Camila counted were even, and some were odd.'}]
+",3.OA.9
+2018_Gr3_27,"1 text-plain Alyssa is solving this equation.
+2 math_expression $$ 56 \div 7 = n $$
+3 text-plain Which of these could Alyssa use to find the value of n?
+ answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ 7 \\div 56 = n $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ 7 \\times 56 = n $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ n \\div 7 = 56 $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ n \\times 7 = 56 $$'}]
+",3.OA.6
+2018_Gr3_29,"1 text-plain A student used the expression shown to solve a problem.
+2 math_expression $$ 45 \div 9 $$
+3 text-plain Which of these could be the problem the student solved?
+4 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': 'Owen had 45 seeds. He gave 9 seeds to Beth. How many seeds does Owen have now?'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'Owen had 45 seeds. Beth gave him 9 more seeds. How many seeds does Owen have now?'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'Owen put 45 seeds into each pot. He had 9 pots. How many seeds in all did Owen put into pots?'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'Owen had 45 seeds to put into pots. He put 9 seeds into each pot. How many pots did Owen put seeds into?'}]
+",3.OA.2
+2018_Gr3_30,"1 number+text Nathan had 24 balloons. He gave some of his balloons to 3 friends. He gave each friend 5 balloons.
+2 text-plain How many balloons does Nathan have now?
+3 text-plain Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles.
+4 image-answer_box y2018_grade3_q30_img_1.png
+",3.OA.8
+2018_Gr3_31,"1 number+text Ms. Jeffers has 6 boxes of pencils. Each box contains 30 pencils.
+2 text-plain How many pencils does Ms. Jeffers have altogether?
+3 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '36'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '90'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '126'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '180'}]
+",3.NBT.3
+2018_Gr3_32,"1 number+text This scale shows the mass, in grams, of 100 paper clips.
+2 image-picture y2018_grade3_q32_img_1.png
+1 number+text Based on the mass of 100 paper clips, which of these is closest to the mass of 10 paper clips?
+ answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '1 gram'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '10 grams'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '100 grams'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '1000 grams'}]
+",3.MD.2
+2018_Gr3_35,"1 text-pre_question-notes This question has three parts.
+2 number+text Caleb planted a pear tree that was 227 centimeters tall and an apple tree that was 186 centimeters tall.
+3 text-plain Part A
+4 text-plain How much taller, in centimeters, was the pear tree than the apple tree when the trees were planted? Show or explain how you got your answer.
+5 text-plain Enter your answer and your work or explanation in the space provided.
+6 text-plain Part B
+7 text-plain Write an addition equation to model the problem in Part A.
+8 text-plain Enter your equation in the space provided.
+9 text-plain Part C
+10 number+text The apple tree was 186 centimeters tall when it was planted. During the first year, it grew 19 centimeters.
+11 text-plain What was the height, in centimeters, of the apple tree at the end of the first year? Show or explain how you got your answer.
+12 text-plain Enter your answer and your work or explanation in the space provided.
+",3.NBT.2
+2018_Gr3_37,"1 text-plain How many sides does a parallelogram have in all?
+2 text-plain Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles.
+3 image-answer_box y2018_grade3_q37_img_1.png
+",3.G.1
+2018_Gr3_38,"1 text-plain Which of these is equal to this expression?
+2 math_expression $$ 9 \times 8 $$
+3 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ \\left( 5 \\times 8 \\right) + \\left( 4 \\times 8 \\right) $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ \\left( 5 + 8 \\right) \\times \\left( 4 + 8 \\right) $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ \\left( 5 \\times 8 \\right) \\times \\left( 4 \\times 8 \\right) $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ \\left( 5 + 8 \\right) + \\left( 4 + 8 \\right) $$'}]
+",3.OA.5
+2018_Gr3_39,"1 number+text Taylor used 1-square-inch pieces to complete a puzzle, as shown.
+3 image-picture y2018_grade3_q39_img_1.png
+1 text-plain What is the area, in square inches, of Taylor’s puzzle?
+1 text-plain Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles.
+3 image-answer_box y2018_grade3_q39_img_2.png
+",3.MD.6
+2018_Gr4_1,"1 text-plain Anjali has the shape shown.
+2 image-2d_geometry y2018_grade4_q1_img_1.png
+3 text-plain What is the total number of right angles Anjali’s shape appears to have?
+4 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '0'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '1'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '2'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '3'}]
+",4.G.1
+2018_Gr4_4,"1 text+math_expression Which fraction is less than $$ \frac{1}{2} $$ ?
+2 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ \\frac{6}{12} $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ \\frac{5}{8} $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ \\frac{4}{6} $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ \\frac{2}{5} $$'}]
+",4.NF.2
+2018_Gr4_5,"1 text+math_expression A student mixes $$ \frac{7}{100} $$ liter of red food dye with $$ \frac{4}{10} $$ liter of water. How many liters in all are in the student’s mixture?
+2 answer_options [{'element_id': 'A', 'element_type': 'text+math_expression', 'element_value': '$$ \\frac{11}{100} $$ liter'}, {'element_id': 'B', 'element_type': 'text+math_expression', 'element_value': '$$ \\frac{28}{100} $$ liter'}, {'element_id': 'C', 'element_type': 'text+math_expression', 'element_value': '$$ \\frac{47}{100} $$ liter'}, {'element_id': 'D', 'element_type': 'text+math_expression', 'element_value': '$$ \\frac{74}{100} $$ liter'}]
+",4.NF.5
+2018_Gr4_7,"1 text-pre_question-notes This question has three parts.
+2 text-plain A group of friends played a computer game.
+3 text-plain [{'element_id': '3_1', 'element_type': 'text-plain', 'element_value': 'Jordan scored two hundred sixteen thousand, forty-five points.'}, {'element_id': '3_2', 'element_type': 'number+text', 'element_value': 'Madison scored 210,634 points.'}]
+4 text-plain Part A
+5 text-plain Write the number of points Jordan scored in standard form.
+6 text-plain Enter your answer in the space provided.
+7 text-plain Part B
+8 text-plain Write the number of points Madison scored in expanded form.
+9 text-plain Enter your answer in the space provided.
+10 text-plain Part C
+11 text-plain Hannah also played the computer game.
+12 text-plain [{'element_id': '12_1', 'element_type': 'number+text', 'element_value': 'She scored more than 215,000 points.'}, {'element_id': '12_2', 'element_type': 'text-plain', 'element_value': 'She scored fewer points than Jordan.'}, {'element_id': '12_3', 'element_type': 'number+text', 'element_value': 'Her score has the same six digits as Madison’s score, but she did not have the same score as Madison.'}]
+13 text-plain Write a number sentence using <, >, or = to compare the number of points Madison scored to the number of points Hannah could have scored. Show or explain how you got your answer.
+14 text-plain Enter your answer and your work or explanation in the space provided.
+",4.NBT.2
+2018_Gr4_14,"1 number+text Nick ran a race in 14.56 seconds. Casey ran the race in 14.58 seconds.
+2 text-plain At which place value are Nick’s and Casey’s race times different?
+3 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'tens'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'ones'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'tenths'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'hundredths'}]
+",4.NF.7
+2018_Gr4_16,"1 text-plain What value of p makes this equation true?
+2 math_expression $$ 3,032 \div p = 8 $$
+3 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '354'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '375'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '379'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '382'}]
+",4.NBT.6
+2018_Gr4_20,"1 text+math_expression Which expression is equal to $$ \frac{8}{2} $$ ?
+ answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ 2 + \\frac{1}{8} $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ 2 \\times \\frac{1}{8} $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ 8 + \\frac{1}{2} $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ 8 \\times \\frac{1}{2} $$'}]
+",4.NF.4
+2018_Gr4_21,"1 number+text The decimal 0.30 is represented by the shaded part of this grid.
+2 image-table School Play y2018_grade4_q21_img_1.png
+3 number+text Which of these is equivalent to the decimal 0.30?
+4 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '0.003'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '0.03'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '0.3'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '3.0'}]
+",4.NF.7
+2018_Gr4_22,"1 number+text Which of these shows only multiples of the number 7?
+2 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '1, 7, 14, 21'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '7, 17, 27, 37'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '7, 14, 21, 28'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '14, 21, 28, 36'}]
+",4.OA.4
+2018_Gr4_26,"1 number+text Ryan put 3 liters of water in a bucket. How much water, in milliliters, did Ryan put in the bucket?
+2 text-plain Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles.
+",4.MD.1
+2018_Gr4_28,"1 number+text The measure of each angle in this shape is 108°.
+2 image-2d_geometry y2018_grade4_q28_img_1.png
+3 text-plain Olivia drew two lines inside the shape and found the measures of two angles, as shown.
+4 image-2d_geometry y2018_grade4_q28_img_2.png
+5 text-plain What is the value of x ?
+6 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '30'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '48'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '60'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '68'}]
+",4.MD.7
+2018_Gr4_29,"1 text-pre_question-notes This question has four parts.
+2 text-plain Juan and Lily each wrote a pattern.
+3 number+text Lily wrote a pattern using a rule with two operations. The rule is “subtract 2, add 8.” The first five numbers in her pattern are shown.
+4 number+text 114, 112, 120, 118, 126, ...
+5 text-plain Part A
+6 text-plain Continue Lily’s pattern to show the next four numbers in her pattern.
+7 text-plain Enter your answer in the space provided.
+8 text-plain Part B
+9 number+text Explain why the numbers in Lily’s pattern increased overall, although part of her rule is “subtract 2.”
+10 text-plain Enter your explanation in the space provided.
+11 text-plain Part C
+12 text-plain Juan also wrote a pattern using a rule with two operations. The first two numbers in his pattern are shown.
+13 number+text 150, 160, ...
+14 text-plain The seventh number in Juan’s pattern is less than the first number in his pattern. Write a rule with two operations that could be Juan’s rule.
+15 text-plain Enter your answer in the space provided.
+16 text-plain Part D
+17 text-plain Continue Juan’s pattern to show the next five numbers in his pattern using the rule you wrote in Part C.
+18 text-plain Enter your answer in the space provided.
+",4.OA.5
+2018_Gr4_30,"1 text-plain Which of these is true?
+2 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ \\frac{1}{12} \\times 7 = \\frac{7}{12} $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ \\frac{1}{12} \\times 7 = \\frac{12}{7} $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ \\frac{1}{12} \\times 7 = \\frac{7}{84} $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ \\frac{1}{12} \\times 7 = \\frac{84}{7} $$'}]
+",4.NF.4
+2018_Gr4_31,"1 text-plain The shopkeeper at a seafood store measured the weight, in pounds, of each fish sold to each customer. The shopkeeper recorded the data on this line plot.
+2 image-line_graph Weight of Fish
+(pounds) y2018_grade4_q31_img_1.png
+3 text-plain Based on the line plot, what was the difference between the weight of the heaviest fish sold and the weight of the lightest fish sold?
+4 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': '$$ \\frac{3}{4} $$ pound'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': '$$ 2 \\frac{1}{4} $$ pounds'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': '$$ 2 \\frac{3}{4} $$ pounds'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': '$$ 3 \\frac{1}{4} $$ pounds'}]
+",4.MD.4
+2018_Gr4_32,"1 text+math_expression Paloma shaded a circle to model a fraction that is equivalent to $$ \frac{6}{10} $$ . Which of these could be the circle Paloma shaded?
+2 answer_options [{'element_id': 'A', 'element_type': 'image-chart', 'image_filename': 'y2018_grade4_q32_img_1.png'}, {'element_id': 'B', 'element_type': 'image-chart', 'image_filename': 'y2018_grade4_q32_img_2.png'}, {'element_id': 'C', 'element_type': 'image-chart', 'image_filename': 'y2018_grade4_q32_img_3.png'}, {'element_id': 'D', 'element_type': 'image-chart', 'image_filename': 'y2018_grade4_q32_img_4.png'}]
+",4.NF.1
+2018_Gr4_33,"1 text-plain Which of these shapes has exactly one line of symmetry?
+2 answer_options [{'element_id': 'A', 'element_type': 'image-picture', 'image_filename': 'y2018_grade4_q33_img_1.png'}, {'element_id': 'B', 'element_type': 'image-picture', 'image_filename': 'y2018_grade4_q33_img_2.png'}, {'element_id': 'C', 'element_type': 'image-picture', 'image_filename': 'y2018_grade4_q33_img_3.png'}, {'element_id': 'D', 'element_type': 'image-picture', 'image_filename': 'y2018_grade4_q33_img_4.png'}]
+",4.G.3
+2018_Gr4_34,"1 text+math_expression Which of these is equivalent to $$ \frac{38]{100} $$ ?
+2 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '0.038'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '0.38'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '38.0'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '380'}]
+",4.NF.6
+2018_Gr4_37,"1 number+text The value of the 6 in 56,273 is how many times the value of the 6 in 48,624?
+2 text-plain Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles.
+",4.NBT.1
+2018_Gr4_38,"1 text+math_expression An angle turns through $$ \frac{1}{4} $$ of a circle. What is the measure, in degrees, of the angle?
+2 text-plain Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles.
+",4.MD.5
+2018_Gr4_39,"1 text-plain Ms. Curran wrote three clues about a shape, as shown in this box.
+2 text-in_box Clues [{'element_id': '2_1', 'element_type': 'text-plain', 'element_value': 'It is a quadrilateral.'}, {'element_id': '2_2', 'element_type': 'text-plain', 'element_value': 'It has two right angles.'}, {'element_id': '2_3', 'element_type': 'number+text', 'element_value': 'Two of its sides are parallel.'}]
+3 text-plain Which of the following shapes matches all three clues?
+4 answer_options [{'element_id': 'A', 'element_type': 'image-2d_geometry', 'image_filename': 'y2018_grade4_q39_img_1.png'}, {'element_id': 'B', 'element_type': 'image-2d_geometry', 'image_filename': 'y2018_grade4_q39_img_2.png'}, {'element_id': 'C', 'element_type': 'image-2d_geometry', 'image_filename': 'y2018_grade4_q39_img_3.png'}, {'element_id': 'D', 'element_type': 'image-2d_geometry', 'image_filename': 'y2018_grade4_q39_img_4.png'}]
+",4.G.2
+2018_Gr4_40,"1 number+text Kenji has 7 times as many baseball cards as Logan. Logan has 360 baseball cards.
+2 text-plain Which equation can be used to find n, the number of baseball cards Kenji has?
+3 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ 7 \\times n = 360 $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ 7 + n = 360 $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ 360 \\times 7 = n $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ 360 + 7 = n $$'}]
+",4.OA.2
+2018_Gr5_1,"1 text-plain What is the value of this expression?
+2 math_expression $$ 4 \times \left(10 − 2 \right) $$
+3 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '32'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '38'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '40'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '48'}]
+",5.OA.1
+2018_Gr5_4,"1 text-plain Which of the following expressions is equivalent to this number?
+2 number 3,620,075
+3 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ \\left( 3 \\times 100,000 \\right) + \\left( 6 \\times 1,000 \\right) + \\left( 2 \\times 100 \\right) + \\left( 7 \\times 10 \\right) + \\left( 5 \\times 1 \\right) $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ \\left( 3 \\times 100,000 \\right) + \\left( 6 \\times 10,000 \\right) + \\left( 2 \\times 1,000 \\right) + \\left( 7 \\times 100 \\right) + \\left( 5 \\times 10 \\right) $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ \\left( 3 \\times 1,000,000 \\right) + \\left( 6 \\times 100,000 \\right) + \\left( 2 \\times 10,000 \\right) + \\left( 7 \\times 10 \\right) + \\left( 5 \\times 1 \\right) $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ \\left( 3 \\times 1,000,000 \\right) + \\left( 6 \\times 10,000 \\right) + \\left( 2 \\times 1,000 \\right) + \\left( 7 \\times 100 \\right) + \\left( 5 \\times 10 \\right) $$'}]
+",5.NBT.3
+2018_Gr5_5,"1 text-plain Eberto wrote this expression in his notebook.
+2 math_expression $$ 10 \times 10 \times 10 \times 10 $$
+3 text-plain Which of the following is equivalent to Eberto’s expression?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ 3^10 $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ 4^10 $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ 10^3 $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ 10^4 $$'}]
+",5.NBT.2
+2018_Gr5_6,"1 number+text The owner of a new store is printing 7,520 coupons. The coupons will be sent to 32 locations. Each location will receive the same number of coupons. What is the total number of coupons each location will receive?
+2 text-plain Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles.
+",5.NBT.6
+2018_Gr5_7,"1 text-pre_question-notes This question has three parts.
+2 number+text Ben walked a distance of 1.2 kilometers. Alice walked a distance of 0.85 kilometer. Walter walked a distance of 50 meters.
+3 text-plain Part A
+4 text-plain What is the distance, in meters, that Ben walked? Show or explain how you got your answer.
+5 text-plain Enter your answer and your work or explanation in the space provided.
+6 text-plain Part B
+7 text-plain How many more meters did Ben walk than Alice walked? Show or explain how you got your answer.
+8 text-plain Enter your answer and your work or explanation in the space provided.
+9 text-plain Part C
+10 text-plain What is the total distance, in kilometers, that Ben, Alice, and Walter walked? Show or explain how you got your answer.
+11 text-plain Enter your answer and your work or explanation in the space provided.
+",5.MD.1
+2018_Gr5_9,"1 text-plain This figure is made up of two right rectangular prisms.
+2 image-2d_geometry y2018_grade5_q9_img_1.png
+3 text-plain What is the total volume, in cubic feet, of the figure?
+4 text-plain Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles.
+",5.MD.5
+2018_Gr5_11,"1 text+math_expression Vegetables were planted in $$ \frac{1}{2} $$ of a garden. The section of the garden where vegetables were planted was divided into 3 equal parts: one for carrots, one for lettuce, and one for tomatoes.
+2 text-plain Which of the following models is shaded to represent the fraction of the garden where carrots were planted?
+3 image-picture y2018_grade5_q11_img_1.png
+4 answer_options [{'element_id': 'A', 'element_type': 'image-picture', 'image_filename': 'y2018_grade5_q11_img_2.png'}, {'element_id': 'B', 'element_type': 'image-picture', 'image_filename': 'y2018_grade5_q11_img_3.png'}, {'element_id': 'C', 'element_type': 'image-picture', 'image_filename': 'y2018_grade5_q11_img_4.png'}, {'element_id': 'D', 'element_type': 'image-picture', 'image_filename': 'y2018_grade5_q11_img_5.png'}]
+",5.NF.7
+2018_Gr5_13,"1 text-plain Victor wants to estimate the sum of this expression.
+2 math_expression $$ 24.8 + 26.82 + 24.3 + 25.7 $$
+3 text-plain Which of the following is closest in value to the sum?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ 4 \\times 20 $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ 4 \\times 25 $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ 4 \\times 30 $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ 3 \\times 25 $$'}]
+",5.NBT.4
+2018_Gr5_14,"1 text-plain The owners of a melon farm recorded the weights of nine melons in a line plot, as shown.
+2 image-line_graph Melons y2018_grade5_q14_img_1.png
+3 text+math_expression When the owners record the weight of a tenth melon, the difference in weight between the heaviest and the lightest melons is $$ 2 \frac{3}{4} $$ pounds. Which of the following could be the weight of the tenth melon?
+4 answer_options [{'element_id': 'A', 'element_type': 'text+math_expression', 'element_value': '$$ 2 \\frac{1}{2} $$ pounds'}, {'element_id': 'B', 'element_type': 'text+math_expression', 'element_value': '$$ 2 \\frac{3}{4} $$ pounds'}, {'element_id': 'C', 'element_type': 'text+math_expression', 'element_value': '$$ 7 \\frac{1}{2} $$ pounds'}, {'element_id': 'D', 'element_type': 'text+math_expression', 'element_value': '$$ 7 \\frac{3}{4} $$ pounds'}]
+",5.MD.2
+2018_Gr5_18,"1 number+text Amanda bought 4 bags of potatoes at a market. Each bag of potatoes weighed 5.75 pounds.
+2 text-plain Which of the following expressions can be used to find the total weight, in pounds, of the bags of potatoes Amanda bought?
+3 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ \\left( 4 \\times 5 \\right) + \\left( 0.7 + 0.05 \\right) $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ \\left( 4 \\times 5 \\right) + \\left( 4 \\times 7 \\right) + \\left( 4 \\times 0.5 \\right) $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ \\left( 4 \\times 50 \\right) + \\left( 4 \\times 7 \\right) + \\left( 4 \\times 0.5 \\right) $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ \\left( 4 \\times 5 \\right) + \\left( 4 \\times 0.7 \\right) + \\left( 4 \\times 0.05 \\left) $$'}]
+",5.NBT.7
+2018_Gr5_19,"1 number+text The 7 children in a family equally shared 4 pizzas. All the pizzas were the same size. Which fraction represents the amount of pizza in each child’s share?
+2 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ \\frac{4}{7} $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ \\frac{7}{4} $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ 1 \\frac{3}{7} $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ 1 \\frac{4}{7} $$'}]
+",5.NF.3
+2018_Gr5_20,"1 number+text There are 36 boxes of colored pencils in a supply closet. Each box has 144 colored pencils in it.
+2 text-plain What is the total number of colored pencils in the supply closet?
+3 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '1,296'}, {'element_id': 'B', 'element_type': 'number', 'element_value': '5,184'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '6,284'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '9,072'}]
+",5.NBT.5
+2018_Gr5_22,"1 text-plain This coordinate plane shows the location of the city hall.
+2 image-line_graph y2018_grade5_q22_img_1.png
+3 text-plain Which ordered pair represents the location on the coordinate plane of the city hall?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ \\left( 3, 4 \\right) $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ \\left( 4, 3 \\right) $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ \\left( 4, 0 \\right) $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ \\left( 0, 3 \\right) $$'}]
+",5.G.2
+2018_Gr5_25,"1 text-pre_question-notes This question has four parts.
+2 text-plain The floor of Sophia’s bathroom is in the shape of a rectangle. She covered the floor with square tiles, as shown.
+3 image-2d_geometry y2018_grade5_q25_img_1.png
+4 text-plain Part A
+5 text-plain What is the width, in feet, of the floor?
+6 text-plain Enter your answer in the space provided.
+7 text-plain Part B
+8 text-plain Write an equation that can be used to find s, the area in square feet of the floor.
+9 text-plain Enter your equation in the space provided.
+10 text-plain Part C
+11 text-plain Use your equation from Part B to find s, the area in square feet of the floor. Show or explain how you got your answer.
+12 text-plain Enter your answer and your work or explanation in the space provided.
+13 text-plain Part D
+14 text+math_expression Sophia bought a rug. The rug covers $$ \frac{2}{3} $$ of the floor. What is the area, in square feet, of the rug? Show or explain how you got your answer.
+15 text-plain Enter your answer and your work or explanation in the space provided.
+",5.NF.4
+2018_Gr5_26,"1 text-plain What is the value of this expression?
+2 math_expression $$ 6 \times \left( 11 − 8 \right) − 3 $$
+3 text-plain Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles.
+",5.OA.1
+2018_Gr5_27,"1 number+text Lina brought $10.00 to the fair.
+2 text-plain [{'element_id': '2_1', 'element_type': 'number+text', 'element_value': 'She spent $2.59 for cotton candy.'}, {'element_id': '2_2', 'element_type': 'number+text', 'element_value': 'She spent $3.49 for a toy.'}]
+3 text-plain How much money did Lina have left?
+4 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '$3.92'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '$4.02'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '$4.92'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '$5.02'}]
+",5.NBT.7
+2018_Gr5_31,"1 text-plain Which of the following statements is true?
+2 answer_options [{'element_id': 'A', 'element_type': 'text+math_expression', 'element_value': '$$ \\left( 25 \\times 10 \\right) − 15 $$ is 15 decreased by the product of 25 and 10.'}, {'element_id': 'B', 'element_type': 'text+math_expression', 'element_value': '$$ 3 + \\left( 19 − 10 \\right) $$ is 3 more than the sum of 19 and 10.'}, {'element_id': 'C', 'element_type': 'text+math_expression', 'element_value': '$$ 7 − \\left( 18 + 38 \\right) $$ is 7 less than the sum of 18 and 38.'}, {'element_id': 'D', 'element_type': 'text+math_expression', 'element_value': '$$ \\left( 24 \\div 6 \\right) \\times 5 $$ is 5 times the quotient of 24 and 6.'}]
+",5.OA.2
+2018_Gr5_33,"1 text-plain Which of the following is always true about an isosceles triangle?
+2 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': 'The sum of its angles is 100°.'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'It cannot contain a right angle.'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'Two of its sides must be congruent.'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'All three of its angles must be congruent.'}]
+",5.G.4
+2018_Gr5_36,"1 text-plain A food company packages flavor cubes used for making soup. The flavor cubes are packaged in a box that is in the shape of a rectangular prism.
+2 text-plain [{'element_id': '2_1', 'element_type': 'number+text', 'element_value': 'Each flavor cube has an edge length of 1 centimeter.'}, {'element_id': '2_2', 'element_type': 'number+text', 'element_value': 'Each box holds exactly 2 layers of flavor cubes with no gaps or spaces.'}, {'element_id': '2_3', 'element_type': 'number+text', 'element_value': 'Each layer in the box holds 9 flavor cubes.'}]
+3 text-plain What is the volume of one box of flavor cubes?
+4 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '12 cubic centimeters'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '13 cubic centimeters'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '18 cubic centimeters'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '19 cubic centimeters'}]
+",5.MD.3
+2018_Gr5_39,"1 text-plain Camila created some ordered pairs from corresponding terms of two different patterns. Then she plotted the ordered pairs on a graph, as shown.
+2 image-line_graph y2018_grade5_q39_img_1.png
+3 text-plain Which of the following describes the relationship between the corresponding terms of the two patterns?
+4 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'Each x-value is five times the corresponding y-value.'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'Each y-value is five times the corresponding x-value.'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'Each x-value is twelve more than the corresponding y-value.'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'Each y-value is twelve more than the corresponding x-value.'}]
+",5.OA.3
+2018_Gr5_40,"1 text+math_expression Phil spent $$ \frac{2}{5} $$ of an hour riding his bicycle and $$ \frac{1}{3} $$ of an hour practicing the piano. What is the total amount of time, in hours, Phil spent riding his bicycle and practicing the piano?
+2 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ \\frac{3}{8} $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ \\frac{3}{15} $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ \\frac{8}{15} $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ \\frac{11}{15} $$'}]
+",5.NF.2
+2018_Gr6_1,"1 number+text Bill’s flower garden has an area of 28 square feet. The rectangular garden is 7 feet long. What is the width of the garden?
+2 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '4 feet'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '8 feet'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '21 feet'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '35 feet'}]
+",6.G.1
+2018_Gr6_4,"1 number+text A freight train traveled 144 miles in 6 hours. At what rate, in miles per hour, did the train travel?
+2 text-plain Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles.
+",6.RP.2
+2018_Gr6_5,"1 text-plain A student has $10. She will save $5 each week. The student wrote the expression shown to represent the amount of money she will have after w weeks.
+2 math_expression $$ 5w + 10 $$
+3 text-plain Which of the following expressions is equivalent to the student’s expression for any value of w?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ 15w $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ 50w $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ 5 \\left( w + 2 \\right) $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ 5 \\left( w + 10 \\right) $$'}]
+",6.EE.3
+2018_Gr6_8,"1 text+math_expression What is the value of this expression when $$ g = 1.5 $$ ?
+2 math_expression $$ 5g^2 $$
+3 text-plain Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles.
+",6.EE.2
+2018_Gr6_9,"1 number+text A pumpkin patch has a width of 432 inches. What is the width of the pumpkin patch in yards?
+2 text-plain Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles.
+",6.RP.3
+2018_Gr6_10,"1 text-plain What is the value of this expression?
+2 math_expression $$ − \left( −8 \right) $$
+3 answer_options [{'element_id': 'A', 'element_type': 'number', 'element_value': '-8'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ - \\frac{1}{8} $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ \\frac{1}{8} $$'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '8'}]
+",6.NS.6
+2018_Gr6_11,"1 text-plain Ms. Smith and Mr. Lin are both mathematics teachers. These graphs show the amounts of money Ms. Smith and Mr. Lin charge for different numbers of hours of tutoring.
+2 image-chart Ms. Smith’s
+Tutoring Charges y2018_grade6_q11_img_1.png
+3 image-chart Mr. Lin’s
+Tutoring Charges y2018_grade6_q11_img_2.png
+4 number+text Based on the graphs, how much more does Ms. Smith charge for 6 hours of tutoring than Mr. Lin charges for 6 hours of tutoring?
+5 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '$50'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '$60'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '$180'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '$240'}]
+",6.EE.9
+2018_Gr6_12,"1 text-pre_question-notes This question has four parts.
+2 text-plain These circle graphs represent the number of sixth-grade and seventh-grade students on academic teams at two middle schools.
+3 image-chart South
+Middle School Students
+on Academic Teams y2018_grade6_q12_img_1.png
+4 image-chart Jefferson
+Middle School Students
+on Academic Teams y2018_grade6_q12_img_2.png
+5 text-plain Part A
+6 text-plain Based on the data in the circle graph for South Middle School, what percent of students on academic teams are sixth-grade students? Show or explain how you got your answer.
+7 text-plain Enter your answer and your work or explanation in the space provided.
+8 text-plain Part B
+9 text-plain Based on the data in the circle graph for South Middle School, what is the total number of sixth-grade students on academic teams? Show or explain how you got your answer.
+10 text-plain Enter your answer and your work or explanation in the space provided.
+11 text-plain Part C
+12 text-plain Based on the data in both circle graphs, which school has a greater number of sixth-grade students on academic teams? Show or explain how you got your answer.
+13 text-plain Enter your answer and your work or explanation in the space provided.
+14 text-plain Part D
+15 text-plain This circle graph represents the number of male and female seventh-grade students on academic teams at Jefferson Middle School.
+16 image-chart Jefferson Middle School
+Seventh-Grade Students
+on Academic Teams y2018_grade6_q12_img_3.png
+17 text-plain Based on the data in the circle graph, what is the total number of seventh-grade female students on academic teams at Jefferson Middle School? Show or explain how you got your answer.
+18 text-plain Enter your answer and your work or explanation in the space provided.
+",6.SP.4
+2018_Gr6_18,"1 text-plain Wendy plotted points J and K on a coordinate plane, as shown.
+2 image-line_graph y2018_grade6_q18_img_1.png
+3 text-plain Wendy will plot point L so that when connected, points J, K, and L will form a right triangle. Which of the following could be the location of point L?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ \\left( −7, 1 \\right) $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ \\left( −1, 7 \\right) $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ \\left( 2, 4 \\right) $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ \\left( 4, 2 \\right) $$'}]
+",6.G.3
+2018_Gr6_20,"1 number+text Victoria scored a total of 9 points in the first basketball game of the season. She scored 5 points per game in each of the other x basketball games she played that season.
+2 text-plain Which of the following expressions represents the total number of points Victoria scored in the basketball games for the whole season?
+3 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ 5x $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ 14x $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ 5 + 9x $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ 9 + 5x $$'}]
+",6.EE.6
+2018_Gr6_21,"1 number+text Ling earns $12 each time he shovels his neighbor’s driveway. He earned a total of $108 shoveling the driveway last winter. Which of the following equations could be used to find w, the number of times Ling shoveled his neighbor’s driveway last winter?
+2 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ 108w = 12 $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ 12w = 108 $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ w + 12 = 108 $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ 108 + w = 12 $$'}]
+",6.EE.7
+2018_Gr6_23,"1 text-plain Sophia mixed paint in a bucket. For every three cups of yellow paint she put in the bucket, she mixed in one cup of white paint.
+2 text-plain What is the ratio of yellow paint to white paint in Sophia’s mixture?
+3 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '3:1'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '1:3'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '3:4'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '4:3'}]
+",6.RP.1
+2018_Gr6_24,"1 number+text A figure is built out of 9 cubes, as shown.
+2 image-3d_geometry y2018_grade6_q24_img_1.png
+3 text+math_expression The edge length of each cube is $$ \frac{1}{2} $$ foot. What is the volume of the figure?
+4 answer_options [{'element_id': 'A', 'element_type': 'text+math_expression', 'element_value': '$$ 1 \\frac{1}{8} $$ cubic feet'}, {'element_id': 'B', 'element_type': 'text+math_expression', 'element_value': '$$ 2 \\frac{1}{4} $$ cubic feet'}, {'element_id': 'C', 'element_type': 'text+math_expression', 'element_value': '$$ 3 \\frac{1}{2} $$ cubic feet'}, {'element_id': 'D', 'element_type': 'text+math_expression', 'element_value': '$$ 4 \\frac{1}{2} $$ cubic feet'}]
+",6.G.2
+2018_Gr6_25,"1 text-pre_question-notes This question has three parts.
+2 text-plain At the grand opening of a store, the owner gave away stickers and T-shirts to some of the customers.
+3 text-plain [{'element_id': '3_1', 'element_type': 'number+text', 'element_value': 'A total of 180 customers visited the store at the grand opening.'}, {'element_id': '3_2', 'element_type': 'number+text', 'element_value': 'Every 10th customer received a free sticker.'}, {'element_id': '3_3', 'element_type': 'number+text', 'element_value': 'Every 25th customer received a free T-shirt.'}]
+4 text-plain Part A
+5 text-plain What is the total number of customers who received a free sticker? Show or explain how you got your answer.
+6 text-plain Enter your answer and your work or explanation in the space provided.
+7 text-plain Part B
+8 text-plain What is the total number of customers who received a free T-shirt? Show or explain how you got your answer.
+9 text-plain Enter your answer and your work or explanation in the space provided.
+10 text-plain Part C
+11 text-plain What is the total number of customers who received both a free sticker and a free T-shirt? Show or explain how you got your answer.
+12 text-plain Enter your answer and your work or explanation in the space provided.
+",6.NS.4
+2018_Gr6_26,"1 text-plain Consider this inequality.
+2 math_expression $$ 2x + 5.5 < 20 $$
+3 text-plain Select two values of x that would make the inequality true.
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ \\frac{9}{4} $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ \\frac{19}{2} $$'}, {'element_id': 'C', 'element_type': 'number', 'element_value': '5'}, {'element_id': 'D', 'element_type': 'number', 'element_value': '7.25'}, {'element_id': 'E', 'element_type': 'number', 'element_value': '8.5'}]
+",6.EE.5
+2018_Gr6_27,"1 text-plain Carmen’s living room floor has the shape and dimensions shown in this diagram.
+2 image-2d_geometry y2018_grade6_q27_img_1.png
+3 text-plain What is the area of Carmen’s living room floor?
+4 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '234 square feet'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '252 square feet'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '330 square feet'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '378 square feet'}]
+",6.G.1
+2018_Gr6_28,"1 number+text Ethan’s car can travel 30 miles per gallon of gasoline. Gasoline costs $4 per gallon, including tax. Ethan drove his car 180 miles on a trip.
+2 text-plain What was the total cost, in dollars, of the gasoline that the car used for Ethan’s trip?
+3 text-plain Enter your answer in the answer boxes at the top of the answer grid and completely fill the matching circles.
+",6.RP.3
+2018_Gr6_32,"1 text-plain Which of the following statements best describes the solution of this inequality?
+2 math_expression $$ x < 9 $$
+3 answer_options [{'element_id': 'A', 'element_type': 'text-plain', 'element_value': 'There is no solution.'}, {'element_id': 'B', 'element_type': 'text-plain', 'element_value': 'There is exactly one solution.'}, {'element_id': 'C', 'element_type': 'text-plain', 'element_value': 'There are exactly eight solutions.'}, {'element_id': 'D', 'element_type': 'text-plain', 'element_value': 'There are infinitely many solutions.'}]
+",6.EE.8
+2018_Gr6_33,"1 number+text Ms. Ashley planned to stay at a hotel that charges $88 per night for a room and $20 per night in fees and taxes. She used this expression to calculate the total cost of staying in the hotel for n nights.
+2 math_expression $$ 88n + 20n $$
+3 text-plain Which of the following expressions is equivalent to the expression that Ms. Ashley used?
+4 answer_options [{'element_id': 'A', 'element_type': 'math_expression', 'element_value': '$$ 108n $$'}, {'element_id': 'B', 'element_type': 'math_expression', 'element_value': '$$ 108n^2 $$'}, {'element_id': 'C', 'element_type': 'math_expression', 'element_value': '$$ 108 + n $$'}, {'element_id': 'D', 'element_type': 'math_expression', 'element_value': '$$ 108 + n^2 $$'}]
+",6.EE.4
+2018_Gr6_34,"1 number+text A bowl of punch is made by mixing 3 parts juice to 1 part soda. Which of the following statements about the punch is not true?
+2 answer_options [{'element_id': 'A', 'element_type': 'text+math_expression', 'element_value': 'Soda makes up $$ \\frac{1}{4} $$ of the punch.'}, {'element_id': 'B', 'element_type': 'text+math_expression', 'element_value': 'Juice makes up $$ \\frac{3}{4} $$ of the punch.'}, {'element_id': 'C', 'element_type': 'text+math_expression', 'element_value': 'The amount of soda in the punch is $$ \\frac{1}{2} $$ the amount of juice in the punch.'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': 'The amount of juice in the punch is 3 times the amount of soda in the punch.'}]
+",6.RP.1
+2018_Gr6_37,"1 number+text The scale on a map shows that 1 inch represents 18 miles. The distance on the map between Olivia’s town and her grandmother’s town is 4.5 inches.
+2 text-plain What is the actual distance between the two towns?
+3 answer_options [{'element_id': 'A', 'element_type': 'number+text', 'element_value': '4 miles'}, {'element_id': 'B', 'element_type': 'number+text', 'element_value': '22.5 miles'}, {'element_id': 'C', 'element_type': 'number+text', 'element_value': '72.5 miles'}, {'element_id': 'D', 'element_type': 'number+text', 'element_value': '81 miles'}]
+",6.RP.3

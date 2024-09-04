@@ -1,0 +1,700 @@
+{
+    "0": {
+        "Question": "Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?",
+        "Solution": "Natalia sold 48/2 = <<48/2=24>>24 clips in May.\\nNatalia sold 48+24 = <<48+24=72>>72 clips altogether in April and May.\\n#### 72",
+        "Source": "GSM8K-TRAIN",
+        "KCs applied": [
+            "3.OA.A.3",
+            "2.OA.A.1"
+        ],
+        "Grade applied": [
+            "3",
+            "2"
+        ],
+        "Grade predicted": 2,
+        "KCs predicted": [
+            "2.OA.A.1"
+        ],
+        "Full reply": "2.OA.A.1"
+    },
+    "1": {
+        "Question": "Weng earns $12 an hour for babysitting. Yesterday, she just did 50 minutes of babysitting. How much did she earn?",
+        "Solution": "Weng earns 12/60 = $<<12/60=0.2>>0.2 per minute.\\nWorking 50 minutes, she earned 0.2 x 50 = $<<0.2*50=10>>10.\\n#### 10",
+        "Source": "GSM8K-TRAIN",
+        "KCs applied": [
+            "4.MD.2",
+            "4.NF.6",
+            "4.NF.B.4.c"
+        ],
+        "Grade applied": [
+            "4",
+            "4",
+            "4"
+        ],
+        "Grade predicted": 4,
+        "KCs predicted": [
+            "4.NBT.B.5"
+        ],
+        "Full reply": "4.NBT.B.5"
+    },
+    "2": {
+        "Question": "Betty is saving money for a new wallet which costs $100. Betty has only half of the money she needs. Her parents decided to give her $15 for that purpose, and her grandparents twice as much as her parents. How much more money does Betty need to buy the wallet?",
+        "Solution": "In the beginning, Betty has only 100 / 2 = $<<100/2=50>>50.\\nBetty's grandparents gave her 15 * 2 = $<<15*2=30>>30.\\nThis means, Betty needs 100 - 50 - 30 - 15 = $<<100-50-30-15=5>>5 more.\\n#### 5",
+        "Source": "GSM8K-TRAIN",
+        "KCs applied": [
+            "3.OA.A.3",
+            "2.NBT.B.5"
+        ],
+        "Grade applied": [
+            "3",
+            "2"
+        ],
+        "Grade predicted": 4,
+        "KCs predicted": [
+            "4.OA.A.2"
+        ],
+        "Full reply": "4.OA.A.2"
+    },
+    "3": {
+        "Question": "Julie is reading a 120-page book. Yesterday, she was able to read 12 pages and today, she read twice as many pages as yesterday. If she wants to read half of the remaining pages tomorrow, how many pages should she read?",
+        "Solution": "Maila read 12 x 2 = <<12*2=24>>24 pages today.\\nSo she was able to read a total of 12 + 24 = <<12+24=36>>36 pages since yesterday.\\nThere are 120 - 36 = <<120-36=84>>84 pages left to be read.\\nSince she wants to read half of the remaining pages tomorrow, then she should read 84/2 = <<84/2=42>>42 pages.\\n#### 42",
+        "Source": "GSM8K-TRAIN",
+        "KCs applied": [
+            "3.OA.A.3",
+            "2.OA.A.1",
+            "3.NBT.A.2"
+        ],
+        "Grade applied": [
+            "3",
+            "2",
+            "3"
+        ],
+        "Grade predicted": 3,
+        "KCs predicted": [
+            "3.OA.A.1",
+            "3.OA.A.3",
+            "3.OA.A.4"
+        ],
+        "Full reply": "The relevant knowledge components required to answer the given question are:\n- 3.OA.A.1: Interpret products of whole numbers\n- 3.OA.A.3: Use multiplication and division within 100 to solve word problems\n- 3.OA.A.4: Determine the unknown whole number in a multiplication or division equation relating three whole numbers"
+    },
+    "4": {
+        "Question": "James writes a 3-page letter to 2 different friends twice a week.  How many pages does he write a year?",
+        "Solution": "He writes each friend 3*2=<<3*2=6>>6 pages a week\\nSo he writes 6*2=<<6*2=12>>12 pages every week\\nThat means he writes 12*52=<<12*52=624>>624 pages a year\\n#### 624",
+        "Source": "GSM8K-TRAIN",
+        "KCs applied": [
+            "3.OA.A.3",
+            "4.NBT.B.5"
+        ],
+        "Grade applied": [
+            "3",
+            "4"
+        ],
+        "Grade predicted": 3,
+        "KCs predicted": [
+            "3.OA.A.1"
+        ],
+        "Full reply": "3.OA.A.1"
+    },
+    "5": {
+        "Question": "Mark has a garden with flowers. He planted plants of three different colors in it. Ten of them are yellow, and there are 80% more of those in purple. There are only 25% as many green flowers as there are yellow and purple flowers. How many flowers does Mark have in his garden?",
+        "Solution": "There are 80/100 * 10 = <<80/100*10=8>>8 more purple flowers than yellow flowers.\\nSo in Mark's garden, there are 10 + 8 = <<10+8=18>>18 purple flowers.\\nPurple and yellow flowers sum up to 10 + 18 = <<10+18=28>>28 flowers.\\nThat means in Mark's garden there are 25/100 * 28 = <<25/100*28=7>>7 green flowers.\\nSo in total Mark has 28 + 7 = <<28+7=35>>35 plants in his garden.\\n#### 35",
+        "Source": "GSM8K-TRAIN",
+        "KCs applied": [
+            "1.OA.A.1",
+            "2.OA.A.1",
+            "6.RP.A.3.d"
+        ],
+        "Grade applied": [
+            "1",
+            "2",
+            "6"
+        ],
+        "Grade predicted": 4,
+        "KCs predicted": [
+            "4.OA.A.2",
+            "4.OA.A.3"
+        ],
+        "Full reply": "4.OA.A.2\n4.OA.A.3"
+    },
+    "6": {
+        "Question": "Albert is wondering how much pizza he can eat in one day. He buys 2 large pizzas and 2 small pizzas. A large pizza has 16 slices and a small pizza has 8 slices. If he eats it all, how many pieces does he eat that day?",
+        "Solution": "He eats 32 from the largest pizzas because 2 x 16 = <<2*16=32>>32\\nHe eats 16 from the small pizza because 2 x 8 = <<2*8=16>>16\\nHe eats 48 pieces because 32 + 16 = <<32+16=48>>48\\n#### 48",
+        "Source": "GSM8K-TRAIN",
+        "KCs applied": [
+            "3.OA.A.3",
+            "2.OA.A.1"
+        ],
+        "Grade applied": [
+            "3",
+            "2"
+        ],
+        "Grade predicted": 3,
+        "KCs predicted": [
+            "3.OA.A.1"
+        ],
+        "Full reply": "3.OA.A.1"
+    },
+    "7": {
+        "Question": "Ken created a care package to send to his brother, who was away at boarding school.  Ken placed a box on a scale, and then he poured into the box enough jelly beans to bring the weight to 2 pounds.  Then, he added enough brownies to cause the weight to triple.  Next, he added another 2 pounds of jelly beans.  And finally, he added enough gummy worms to double the weight once again.  What was the final weight of the box of goodies, in pounds?",
+        "Solution": "To the initial 2 pounds of jelly beans, he added enough brownies to cause the weight to triple, bringing the weight to 2*3=<<2*3=6>>6 pounds.\\nNext, he added another 2 pounds of jelly beans, bringing the weight to 6+2=<<6+2=8>>8 pounds.\\nAnd finally, he added enough gummy worms to double the weight once again, to a final weight of 8*2=<<8*2=16>>16 pounds.\\n#### 16",
+        "Source": "GSM8K-TRAIN",
+        "KCs applied": [
+            "3.OA.A.3",
+            "1.OA.A.1"
+        ],
+        "Grade applied": [
+            "3",
+            "1"
+        ],
+        "Grade predicted": 3,
+        "KCs predicted": [
+            "3.OA.A.1"
+        ],
+        "Full reply": "3.OA.A.1"
+    },
+    "8": {
+        "Question": "Alexis is applying for a new job and bought a new set of business clothes to wear to the interview. She went to a department store with a budget of $200 and spent $30 on a button-up shirt, $46 on suit pants, $38 on a suit coat, $11 on socks, and $18 on a belt. She also purchased a pair of shoes, but lost the receipt for them. She has $16 left from her budget. How much did Alexis pay for the shoes?",
+        "Solution": "Let S be the amount Alexis paid for the shoes.\\nShe spent S + 30 + 46 + 38 + 11 + 18 = S + <<+30+46+38+11+18=143>>143.\\nShe used all but $16 of her budget, so S + 143 = 200 - 16 = 184.\\nThus, Alexis paid S = 184 - 143 = $<<184-143=41>>41 for the shoes.\\n#### 41",
+        "Source": "GSM8K-TRAIN",
+        "KCs applied": [
+            "3.NBT.A.2"
+        ],
+        "Grade applied": [
+            "3"
+        ],
+        "Grade predicted": 4,
+        "KCs predicted": [
+            "4.OA.A.2"
+        ],
+        "Full reply": "4.OA.A.2"
+    },
+    "9": {
+        "Question": "Tina makes $18.00 an hour.  If she works more than 8 hours per shift, she is eligible for overtime, which is paid by your hourly wage + 1/2 your hourly wage.  If she works 10 hours every day for 5 days, how much money does she make?",
+        "Solution": "She works 8 hours a day for $18 per hour so she makes 8*18 = $<<8*18=144.00>>144.00 per 8-hour shift\\nShe works 10 hours a day and anything over 8 hours is eligible for overtime, so she gets 10-8 = <<10-8=2>>2 hours of overtime\\nOvertime is calculated as time and a half so and she makes $18/hour so her overtime pay is 18*.5 = $<<18*.5=9.00>>9.00\\nHer overtime pay is 18+9 = $<<18+9=27.00>>27.00\\nHer base pay is $144.00 per 8-hour shift and she works 5 days and makes 5 * $144 = $<<144*5=720.00>>720.00\\nHer overtime pay is $27.00 per hour and she works 2 hours of overtime per day and makes 27*2 = $<<27*2=54.00>>54.00 in overtime pay\\n2 hours of overtime pay for 5 days means she makes 54*5 = $270.00\\nIn 5 days her base pay is $720.00 and she makes $270.00 in overtime pay so she makes $720 + $270 = $<<720+270=990.00>>990.00\\n#### 990",
+        "Source": "GSM8K-TRAIN",
+        "KCs applied": [
+            "2.OA.A.1",
+            "4.NBT.B.5",
+            "2.NBT.B.7",
+            "4.NF.B.4.c",
+            "3.OA.A.3",
+            "1.OA.A.1"
+        ],
+        "Grade applied": [
+            "2",
+            "4",
+            "2",
+            "4",
+            "3",
+            "1"
+        ],
+        "Grade predicted": 5,
+        "KCs predicted": [
+            "5.NF.B.3",
+            "5.NF.B.6"
+        ],
+        "Full reply": "5.NF.B.3\n5.NF.B.6"
+    },
+    "10": {
+        "Question": "40% of the mosquitos in Jack's area are infected with malaria. 20% of the mosquitos are infected with Zika virus. Without a vaccine, the chances of getting infected with either virus after getting bitten by an infected mosquito are 50%. Jack is taking an experimental malaria vaccine that reduces the chances of getting infected after getting bitten by 50%. If Jack gets bitten by a random mosquito, what is the percentage chance he catches either Zika virus or malaria?",
+        "Solution": "First find Jack's chances of getting bitten by an infected mosquito: 40% + 20% = 60%\\nThe chance of being infected by a mosquito with after being bitten: 60% * 50% = 30%\\nThen find the chances of getting ill after receiving the vaccine: 30% * 50% = 15%\\n#### 15",
+        "Source": "GSM8K-TRAIN",
+        "KCs applied": [
+            "6.RP.A.3"
+        ],
+        "Grade applied": [
+            "6"
+        ],
+        "Grade predicted": 6,
+        "KCs predicted": [
+            "6.RP.A.1",
+            "6.RP.A.2",
+            "6.RP.A.3"
+        ],
+        "Full reply": "6.RP.A.1, 6.RP.A.2, 6.RP.A.3.a"
+    },
+    "11": {
+        "Question": "Alani earned $45 for 3 hours of baby-sitting. At the same rate, for how many hours would she need to baby-sit to earn $75?",
+        "Solution": "The rate is $45/3=$<<45/3=15>>15/hr.\\nShe would need to baby-sit for $75/$15=<<75/15=5>>5 hours.\\n#### 5",
+        "Source": "GSM8K-TRAIN",
+        "KCs applied": [
+            "3.OA.A.3"
+        ],
+        "Grade applied": [
+            "3"
+        ],
+        "Grade predicted": 4,
+        "KCs predicted": [
+            "4.OA.A.2"
+        ],
+        "Full reply": "4.OA.A.2"
+    },
+    "12": {
+        "Question": "A chair costs 1/7 of the cost of a table. If a table costs $140, how much will it cost to buy a table and 4 chairs?",
+        "Solution": "One chair costs $140 x 1/7 = $<<140*1/7=20>>20.\\nFour chairs cost $20 x 4 = $<<20*4=80>>80.\\nSo a table and 4 chairs cost $140 + $80 = $<<140+80=220>>220.\\n#### 220",
+        "Source": "GSM8K-TRAIN",
+        "KCs applied": [
+            "3.OA.A.3",
+            "4.NF.B.4.c",
+            "2.NBT.B.7"
+        ],
+        "Grade applied": [
+            "3",
+            "4",
+            "2"
+        ],
+        "Grade predicted": 5,
+        "KCs predicted": [
+            "5.NF.A.1",
+            "5.NF.A.2"
+        ],
+        "Full reply": "5.NF.A.1\n5.NF.A.2"
+    },
+    "13": {
+        "Question": "James buys 200 lotto tickets for 2 dollars each.  Of those tickets 20% are winners.  80% of the winners are for 5 dollars. 1 ticket is the grand prize of $5,000.  The other tickets win an average of $10.  How much did he profit?",
+        "Solution": "He spent 200*2=$<<200*2=400>>400\\nThere were 200*.2=<<200*.2=40>>40 tickets\\nOf those 40*.8=32 are 5 dollar winners\\nSo they win 32*5=$<<32*5=160>>160\\nHe has 40-32=<<40-32=8>>8 other winning tickets\\nOf those 8-1=<<8-1=7>>7 wins $10\\nSo they win 10*7=$<<10*7=70>>70\\nSo he won 5000+70+160-400=$<<5000+70+160-400=4830>>4830\\n#### 4830",
+        "Source": "GSM8K-TRAIN",
+        "KCs applied": [
+            "2.OA.A.1",
+            "4.NBT.B.5",
+            "4.NBT.B.4",
+            "3.OA.A.3",
+            "1.OA.A.1",
+            "6.RP.A.3"
+        ],
+        "Grade applied": [
+            "2",
+            "4",
+            "4",
+            "3",
+            "1",
+            "6"
+        ],
+        "Grade predicted": 6,
+        "KCs predicted": [
+            "6.RP.A.1",
+            "6.RP.A.2",
+            "6.NS.A.1"
+        ],
+        "Full reply": "6.RP.A.1, 6.RP.A.2, 6.NS.A.1"
+    },
+    "14": {
+        "Question": "Very early this morning, Elise left home in a cab headed for the hospital. Fortunately, the roads were clear, and the cab company only charged her a base price of $3, and $4 for every mile she traveled. If Elise paid a total of $23, how far is the hospital from her house?",
+        "Solution": "For the distance she traveled, Elise paid 23 - 3 = <<23-3=20>>20 dollars\\nSince the cost per mile is $4, the distance from Elise\\u2019s house to the hospital is 20/4 = <<20/4=5>>5 miles.\\n#### 5",
+        "Source": "GSM8K-TRAIN",
+        "KCs applied": [
+            "3.OA.A.3",
+            "2.OA.A.1"
+        ],
+        "Grade applied": [
+            "3",
+            "2"
+        ],
+        "Grade predicted": 4,
+        "KCs predicted": [
+            "4.OA.A.2"
+        ],
+        "Full reply": "4.OA.A.2"
+    },
+    "15": {
+        "Question": "There are 43 students and 1720 apples. Each student has 9 Skittles. If the apples are divided equally among the students,how many does each student get?",
+        "Solution": "1720/43=40",
+        "Source": "ASDiv",
+        "KCs applied": [
+            "5.NBT.B.6"
+        ],
+        "Grade applied": [
+            "5"
+        ],
+        "Grade predicted": 4,
+        "KCs predicted": [
+            "4.OA.A.2"
+        ],
+        "Full reply": "4.OA.A.2"
+    },
+    "16": {
+        "Question": "Rebecca wants to split a collection of eggs into groups of 2. Rebecca has 16 eggs and 3 marbles. How many groups will be created?",
+        "Solution": "16/2=8",
+        "Source": "ASDiv",
+        "KCs applied": [
+            "3.OA.A.3"
+        ],
+        "Grade applied": [
+            "3"
+        ],
+        "Grade predicted": 2,
+        "KCs predicted": [
+            "2.OA.A.1"
+        ],
+        "Full reply": "2.OA.A.1"
+    },
+    "17": {
+        "Question": "At the fair Kaleb bought 6 tickets. After riding the ferris wheel he had 3 tickets left. If each ticket cost 9 dollars, how much money did Kaleb spend riding the ferris wheel?",
+        "Solution": "(6-3)*9=27",
+        "Source": "ASDiv",
+        "KCs applied": [
+            "3.OA.A.3",
+            "K.OA.A.2"
+        ],
+        "Grade applied": [
+            "3",
+            "K"
+        ],
+        "Grade predicted": 1,
+        "KCs predicted": [
+            "1.OA.A.1"
+        ],
+        "Full reply": "1.OA.A.1"
+    },
+    "18": {
+        "Question": "Dave was working as a sacker at a grocery store where he made six dollars an hour. On Monday he worked six hours and on Tuesday he worked two hours. How much money did Dave make in those two days?",
+        "Solution": "(6+2)*6=48",
+        "Source": "ASDiv",
+        "KCs applied": [
+            "3.OA.A.3",
+            "K.OA.A.2"
+        ],
+        "Grade applied": [
+            "3",
+            "K"
+        ],
+        "Grade predicted": 1,
+        "KCs predicted": [
+            "1.OA.A.1"
+        ],
+        "Full reply": "1.OA.A.1"
+    },
+    "19": {
+        "Question": "The school cafeteria had 17 apples. If they used 2 to make lunch for the students and then bought 23 more, how many apples would they have?",
+        "Solution": "17-2+23=38",
+        "Source": "ASDiv",
+        "KCs applied": [
+            "2.NBT.B.5"
+        ],
+        "Grade applied": [
+            "2"
+        ],
+        "Grade predicted": 1,
+        "KCs predicted": [
+            "1.OA.A.1"
+        ],
+        "Full reply": "1.OA.A.1"
+    },
+    "20": {
+        "Question": "Daniel has 44 commemorative plates and 33 commemorative spoons. He wants to display them in groups throughout his house, each with the same combination of plates and spoons, with none left over. What is the greatest number of groups Daniel can display?",
+        "Solution": "GCD(44,33)=11",
+        "Source": "ASDiv",
+        "KCs applied": [
+            "6.NS.B.4"
+        ],
+        "Grade applied": [
+            "6"
+        ],
+        "Grade predicted": 4,
+        "KCs predicted": [
+            "4.OA.B.4"
+        ],
+        "Full reply": "4.OA.B.4"
+    },
+    "21": {
+        "Question": "A P.E. teacher needs to divide 14 male students and 7 female students into teams, each with the same combination of male students and female students and nobody left out. What is the greatest number of teams that can be formed?",
+        "Solution": "GCD(14,7)=7",
+        "Source": "ASDiv",
+        "KCs applied": [
+            "6.NS.B.4"
+        ],
+        "Grade applied": [
+            "6"
+        ],
+        "Grade predicted": 4,
+        "KCs predicted": [
+            "4.OA.A.2"
+        ],
+        "Full reply": "4.OA.A.2"
+    },
+    "22": {
+        "Question": "While sorting some buttons, Malia put 1 button in the first box, 3 buttons in the second box, 9 buttons in the third box, 27 buttons in the fourth box, and 81 buttons in the fifth box. If this pattern continues, how many buttons will Malia put in the sixth box?",
+        "Solution": "1, 3, 9, 27, 81, 243",
+        "Source": "ASDiv",
+        "KCs applied": [
+            "3.OA.D.9"
+        ],
+        "Grade applied": [
+            "3"
+        ],
+        "Grade predicted": 4,
+        "KCs predicted": [
+            "4.OA.A.1"
+        ],
+        "Full reply": "4.OA.A.1"
+    },
+    "23": {
+        "Question": "Ava and Shannon are baking pies for a bake sale. Ava baked 14 apple pies and 8 blueberry pies. Shannon baked 12 apple pies and 4 blueberry pies. Who baked a higher ratio of apple pies to blueberry pies?",
+        "Solution": "14/8(Ava) &lt; 12/4(Shannon)",
+        "Source": "ASDiv",
+        "KCs applied": [
+            "3.NF.A.3.c"
+        ],
+        "Grade applied": [
+            "3"
+        ],
+        "Grade predicted": 6,
+        "KCs predicted": [
+            "6.RP.A.1"
+        ],
+        "Full reply": "6.RP.A.1"
+    },
+    "24": {
+        "Question": "Ted and Fred measured their height. Their total height is 98 inches. Ted is 39 inches tall. How tall is Fred?",
+        "Solution": "98-39=59",
+        "Source": "ASDiv",
+        "KCs applied": [
+            "2.OA.A.1"
+        ],
+        "Grade applied": [
+            "2"
+        ],
+        "Grade predicted": 1,
+        "KCs predicted": [
+            "1.OA.A.1"
+        ],
+        "Full reply": "1.OA.A.1"
+    },
+    "25": {
+        "Question": "What is the value of $9^3 + 3(9^2) + 3(9) + 1$?",
+        "Solution": "The given expression is the expansion of $(9+1)^3$.  In general, the cube of $(x+y)^3$ is \\\\[(x+y)^3=1x^3+3x^2y+3xy^2+1y^3.\\\\]   The first and last terms in the given expression are cubes and the middle two terms both have coefficient 3, giving us a clue that this is a cube of a binomial and can be written in the form \\\\[(x+y)^3\\\\]In this case, $x=9$ and $y=1$, so our answer is\\\\[(9+1)^3\\\\ = 10^3 = \\\\boxed{1000}\\\\]",
+        "Source": "MATH Counting",
+        "KCs applied": [
+            "6.EE.A.1",
+            "6.EE.A.2.c",
+            "HS.A-APR.C.5"
+        ],
+        "Grade applied": [
+            "6",
+            "6",
+            "HS"
+        ],
+        "Grade predicted": 6,
+        "KCs predicted": [
+            "6.EE.A.1"
+        ],
+        "Full reply": "6.EE.A.1"
+    },
+    "26": {
+        "Question": "If two distinct members of the set $\\\\{ 3, 7, 21, 27, 35, 42, 51 \\\\}$ are randomly selected and multiplied, what is the probability that the product is a multiple of 63? Express your answer as a common fraction.",
+        "Solution": "In order to produce a multiple of 63, we must choose at least two factors of 3 and one factor of 7 among the prime factorizations of the two numbers we choose.  We count the number of ways in which we can do this by considering the four multiples of 7 in our list.  There are two which are not multiples of 3 (7 and 35) and two that are multiples of 3 but not 9 (21 and 42).  Each of 7 and 35 can be paired with 27 to give a multiple of 63, so that's two successes.  Each of 21 and 42 can be paired with any of 3, 27, or 51, which gives another $2\\\\cdot 3 = 6$ successes.  Finally, we can choose both 21 and 42, and we have a total of $2+6+1 = 9$ successes.\\n\\nSince there are $\\\\binom{7}{2}=21$ total ways to choose a pair of numbers from the list, the probability that a randomly chosen pair of numbers will have a product which is a multiple of 63 is $\\\\frac{9}{21}=\\\\boxed{\\\\frac{3}{7}}$.",
+        "Source": "MATH Counting",
+        "KCs applied": [
+            "HS.S-CP.B.9"
+        ],
+        "Grade applied": [
+            "HS"
+        ],
+        "Grade predicted": 6,
+        "KCs predicted": [
+            "6.NS.C.7"
+        ],
+        "Full reply": "6.NS.C.7.a"
+    },
+    "27": {
+        "Question": "If $A=2+i$, $O=-4$, $P=-i$, and $S=2+4i$, find $A-O+P+S$.",
+        "Solution": "Adding real parts and imaginary parts separately, we have $(2-(-4)+0+2)+(1+0-1+4)i=\\\\boxed{8+4i}$",
+        "Source": "MATH Algebra",
+        "KCs applied": [
+            "HS.N-CN.A.1"
+        ],
+        "Grade applied": [
+            "HS"
+        ],
+        "Grade predicted": 6,
+        "KCs predicted": [
+            "6.NS.C.5"
+        ],
+        "Full reply": "6.NS.C.5"
+    },
+    "28": {
+        "Question": "In the geometric sequence with a first term of $6$ and a second term of $-6$, what is the $205^{th}$ term?",
+        "Solution": "The common ratio of this sequence is $-1$.  The first few terms will be: $$6,-6,6,-6,...$$All even numbered terms have value $-6$, and all odd numbered terms have value $6$.  Since 205 is odd, its value will be $\\\\boxed{6}$",
+        "Source": "MATH Algebra",
+        "KCs applied": [
+            "3.OA.D.9"
+        ],
+        "Grade applied": [
+            "3"
+        ],
+        "Grade predicted": 6,
+        "KCs predicted": [
+            "6.EE.B.6"
+        ],
+        "Full reply": "6.EE.B.6"
+    },
+    "29": {
+        "Question": "Find the area in square feet of a square with a perimeter of 32ft",
+        "Solution": "If the perimeter of the square is $32$ feet, then the length of each side is $\\\\frac{32}{4}=8$ feet. That makes the area of the square $8^2=\\\\boxed{64}$ square feet",
+        "Source": "MATH Prealgebra",
+        "KCs applied": [
+            "3.G.A.1",
+            "3.MD.C.5.b",
+            "3.MD.D.8"
+        ],
+        "Grade applied": [
+            "3",
+            "3",
+            "3"
+        ],
+        "Grade predicted": 3,
+        "KCs predicted": [
+            "3.MD.D.8"
+        ],
+        "Full reply": "3.MD.D.8"
+    },
+    "30": {
+        "Question": "Find $r$ if $3(r-7) = 4(2-2r) + 4$",
+        "Solution": "Expanding both products gives \\\\[3r - 3\\\\cdot 7 = 4\\\\cdot 2 - 4\\\\cdot 2r + 4,\\\\] so $3r - 21 = 8 - 8r + 4$.  Simplifying the right-hand side gives $3r -21 = 12-8r$.  Adding $8r$ and 21 to both sides gives $11r = 33$, so $r=\\\\boxed{3}$",
+        "Source": "MATH Prealgebra",
+        "KCs applied": [
+            "7.EE.A.1"
+        ],
+        "Grade applied": [
+            "7"
+        ],
+        "Grade predicted": 6,
+        "KCs predicted": [
+            "6.EE.B.7"
+        ],
+        "Full reply": "6.EE.B.7"
+    },
+    "31": {
+        "Question": "Let $a$ and $b$ be nonzero real numbers such that\\n\\\\[(2 - 7i)(a + bi)\\\\]is pure imaginary.  Find $\\\\frac{a}{b}.$",
+        "Solution": "Expanding $(2 - 7i)(a + bi),$ we get\\n\\\\[2a - 7ai + 2bi - 7bi^2 = 2a - 7ai + 2bi + 7b.\\\\]Since this number is pure imaginary, the real part $2a + 7b$ is equal to 0.  Hence, $\\\\frac{a}{b} = \\\\boxed{-\\\\frac{7}{2}}.$",
+        "Source": "MATH Intermediate Algebra",
+        "KCs applied": [
+            "HS.N-CN.C.7",
+            "HS.A-CED.A.2"
+        ],
+        "Grade applied": [
+            "HS",
+            "HS"
+        ],
+        "Grade predicted": 6,
+        "KCs predicted": [
+            "6.EE.A.2"
+        ],
+        "Full reply": "6.EE.A.2.a"
+    },
+    "32": {
+        "Question": "What is the value of $\\\\log_{10}{4}+2\\\\log_{10}{5}+3\\\\log_{10}{2}+6\\\\log_{10}{5}+\\\\log_{10}{8}$?",
+        "Solution": "We use the two identities $a\\\\log_b{x}=\\\\log_b{x^a}$ and $\\\\log_b{x}+\\\\log_b{y}=\\\\log_b{xy}$. The given expression becomes \\\\begin{align*}\\n\\\\log_{10}{4}+2\\\\log_{10}{5}+3\\\\log_{10}{2}+6\\\\log_{10}{5}+\\\\log_{10}{8}&=\\\\log_{10}{2^2}+\\\\log_{10}{5^2}+\\\\log_{10}{2^3}+\\\\log_{10}{5^6}+\\\\log_{10}{2^3} \\\\\\\\\\n&=\\\\log_{10}{(2^2 \\\\cdot 5^2 \\\\cdot 2^3 \\\\cdot 5^6 \\\\cdot 2^3)}\\\\\\\\\\n&=\\\\log_{10}{(2^8 \\\\cdot 5^8)} \\\\\\\\\\n&=\\\\log_{10}{10^8} \\\\\\\\\\n&=\\\\boxed{8}.\\n\\\\end{align*}",
+        "Source": "MATH Intermediate Algebra",
+        "KCs applied": [
+            "HS.F-BF.B.5"
+        ],
+        "Grade applied": [
+            "HS"
+        ],
+        "Grade predicted": 6,
+        "KCs predicted": [
+            "6.EE.A.1"
+        ],
+        "Full reply": "6.EE.A.1"
+    },
+    "33": {
+        "Question": "Find the remainder when the sum \\\\[75+76+77+78+79+80+81+82\\\\]is divided by 16",
+        "Solution": "We notice that 16 divides $78+82$ as well as $79+81$ and also 80.  Therefore the sum is congruent to  \\\\[75+76+77\\\\pmod{16}.\\\\]Since these numbers are congruent to $-5$, $-4$, and $-3$ modulo 16, this can be computed as  \\\\[-5-4-3\\\\equiv-12\\\\pmod{16}.\\\\]Finally, since $-12\\\\equiv4\\\\pmod{16}$ the remainder we seek is $\\\\boxed{4}$",
+        "Source": "MATH Number Theory",
+        "KCs applied": [
+            "4.OA.A.3"
+        ],
+        "Grade applied": [
+            "4"
+        ],
+        "Grade predicted": 6,
+        "KCs predicted": [
+            "6.NS.B.2"
+        ],
+        "Full reply": "6.NS.B.2"
+    },
+    "34": {
+        "Question": "Abigail, Beatrice, and Carson combine their eggs to sell them at the market. If Abigail has 37 eggs, Beatrice has 49 eggs, and Carson has 14 eggs, and if eggs can only be sold in cartons of 12, how many eggs will be left over if all cartons are sold?",
+        "Solution": "The remainder when $37+49+14$ is divided by $12$ is the same as the remainder when the congruences of each number mod 12 are summed and then divided by 12. In other words, since we have \\\\begin{align*}\\n37 &\\\\equiv 1\\\\pmod{12}\\\\\\\\\\n49 &\\\\equiv 1\\\\pmod{12} \\\\\\\\\\n14 &\\\\equiv 2\\\\pmod{12}\\n\\\\end{align*}then therefore, $37+49+14 \\\\equiv1+1+2 \\\\equiv \\\\boxed{4}\\\\pmod{12}$",
+        "Source": "MATH Number Theory",
+        "KCs applied": [
+            "4.OA.A.3",
+            "2.OA.A.1"
+        ],
+        "Grade applied": [
+            "4",
+            "2"
+        ],
+        "Grade predicted": 4,
+        "KCs predicted": [
+            "4.OA.A.2"
+        ],
+        "Full reply": "4.OA.A.2"
+    },
+    "35": {
+        "Question": "Compute $\\\\arccos (\\\\cos 7).$  All functions are in radians.",
+        "Solution": "Since $\\\\cos (7 - 2 \\\\pi) = \\\\cos 7$ and $0 \\\\le 7 - 2 \\\\pi \\\\le \\\\pi,$ $\\\\arccos (\\\\cos 7) = \\\\boxed{7 - 2 \\\\pi}.$",
+        "Source": "MATH precalculus",
+        "KCs applied": [
+            "HS.F-TF.B.7"
+        ],
+        "Grade applied": [
+            "HS"
+        ],
+        "Grade predicted": 6,
+        "KCs predicted": [
+            "6.EE.A.1"
+        ],
+        "Full reply": "6.EE.A.1"
+    },
+    "36": {
+        "Question": "Simplify\\n\\\\[\\\\frac{\\\\sin 10^\\\\circ + \\\\sin 20^\\\\circ + \\\\sin 30^\\\\circ + \\\\sin 40^\\\\circ + \\\\sin 50^\\\\circ + \\\\sin 60^\\\\circ + \\\\sin 70^\\\\circ + \\\\sin 80^\\\\circ}{\\\\cos 5^\\\\circ \\\\cos 10^\\\\circ \\\\cos 20^\\\\circ}.\\\\]",
+        "Solution": "By sum-to-product,\\n\\\\begin{align*}\\n\\\\sin 10^\\\\circ + \\\\sin 80^\\\\circ &= 2 \\\\sin 45^\\\\circ \\\\cos 35^\\\\circ, \\\\\\\\\\n\\\\sin 20^\\\\circ + \\\\sin 70^\\\\circ &= 2 \\\\sin 45^\\\\circ \\\\cos 25^\\\\circ, \\\\\\\\\\n\\\\sin 30^\\\\circ + \\\\sin 60^\\\\circ &= 2 \\\\sin 45^\\\\circ \\\\cos 15^\\\\circ, \\\\\\\\\\n\\\\sin 40^\\\\circ + \\\\sin 50^\\\\circ &= 2 \\\\sin 45^\\\\circ \\\\cos 5^\\\\circ,\\n\\\\end{align*}so the given expression becomes\\n\\\\[\\\\frac{2 \\\\sin 45^\\\\circ (\\\\cos 35^\\\\circ + \\\\cos 25^\\\\circ + \\\\cos 15^\\\\circ + \\\\cos 5^\\\\circ)}{\\\\cos 5^\\\\circ \\\\cos 10^\\\\circ \\\\cos 20^\\\\circ}.\\\\]Similarly,\\n\\\\begin{align*}\\n\\\\cos 35^\\\\circ + \\\\cos 5^\\\\circ &= 2 \\\\cos 20^\\\\circ \\\\cos 15^\\\\circ, \\\\\\\\\\n\\\\cos 25^\\\\circ + \\\\cos 15^\\\\circ &= 2 \\\\cos 20^\\\\circ \\\\cos 5^\\\\circ,\\n\\\\end{align*}so the expression becomes\\n\\\\[\\\\frac{4 \\\\sin 45^\\\\circ \\\\cos 20^\\\\circ (\\\\cos 5^\\\\circ + \\\\cos 15^\\\\circ)}{\\\\cos 5^\\\\circ \\\\cos 10^\\\\circ \\\\cos 20^\\\\circ} = \\\\frac{4 \\\\sin 45^\\\\circ (\\\\cos 5^\\\\circ + \\\\cos 15^\\\\circ)}{\\\\cos 5^\\\\circ \\\\cos 10^\\\\circ}.\\\\]Finally, $\\\\cos 5^\\\\circ + \\\\cos 15^\\\\circ = 2 \\\\cos 10^\\\\circ \\\\cos 5^\\\\circ,$ so\\n\\\\[\\\\frac{4 \\\\sin 45^\\\\circ (\\\\cos 5^\\\\circ + \\\\cos 15^\\\\circ)}{\\\\cos 5^\\\\circ \\\\cos 10^\\\\circ} = 8 \\\\sin 45^\\\\circ = \\\\boxed{4 \\\\sqrt{2}}.\\\\]",
+        "Source": "MATH precalculus",
+        "KCs applied": [
+            "HS.F-TF.C.9"
+        ],
+        "Grade applied": [
+            "HS"
+        ],
+        "Grade predicted": 11,
+        "KCs predicted": [],
+        "Full reply": "Trigonometric Identities, Sum-to-Product Formula"
+    },
+    "37": {
+        "Question": "Square ABCD has its center at $(8,-8)$ and has an area of 4 square units. The top side of the square is horizontal. The square is then dilated with the dilation center at (0,0) and a scale factor of 2. What are the coordinates of the vertex of the image of square ABCD that is farthest from the origin? Give your answer as an ordered pair.\"",
+        "Solution": "With the center of dilation at the origin and a scale factor of 2, all the coordinates of square $ABCD$ are twice the coordinates of its preimage. The preimage has an area of 4 square units, so its side length is 2 units. Since the center of the preimage is at $(8, -8)$, the four vertices of the preimage are at $(7, -9), (7, -7), (9, -7)$ and $(9, -9)$. The point $(9, -9)$ is the farthest from the origin on the preimage, so the point farthest from the origin on the image of square $ABCD$ is $\\\\boxed{(18, -18)}.$",
+        "Source": "MATH Geometry",
+        "KCs applied": [
+            "8.G.A.3"
+        ],
+        "Grade applied": [
+            "8"
+        ],
+        "Grade predicted": 6,
+        "KCs predicted": [
+            "6.G.A.1",
+            "6.G.A.2"
+        ],
+        "Full reply": "6.G.A.1, 6.G.A.2"
+    },
+    "38": {
+        "Question": "In regular octagon $ABCDEFGH$, $M$ and $N$ are midpoints of $\\\\overline{BC}$ and $\\\\overline{FG}$ respectively.  Compute $[ABMO]/[EDCMO]$. ($[ABCD]$ denotes the area of polygon $ABCD$.) [asy]\\npair A,B,C,D,E,F,G,H;\\nF=(0,0); E=(2,0); D=(2+sqrt(2),sqrt(2)); C=(2+sqrt(2),2+sqrt(2));\\nB=(2,2+2sqrt(2)); A=(0,2+2*sqrt(2)); H=(-sqrt(2),2+sqrt(2)); G=(-sqrt(2),sqrt(2));\\ndraw(A--B--C--D--E--F--G--H--cycle);\\ndraw(A--E);\\npair M=(B+C)/2; pair N=(F+G)/2;\\ndraw(M--N);\\n\\nlabel(\\\"$A$\\\",A,N); label(\\\"$B$\\\",B,NE); label(\\\"$C$\\\",C,E); label(\\\"$D$\\\",D,E);\\n\\nlabel(\\\"$E$\\\",E,S); label(\\\"$F$\\\",F,S); label(\\\"$G$\\\",G,W); label(\\\"$H$\\\",H,W);\\nlabel(\\\"$M$\\\",M,NE); label(\\\"$N$\\\",N,SW);\\n\\nlabel(\\\"$O$\\\",(1,2.4),E);\\n\\n[/asy]",
+        "Solution": "We connect the midpoints of all opposite sides and we connect all opposite vertices: [asy]\\npair A,B,C,D,E,F,G,H;\\nF=(0,0); E=(2,0); D=(2+sqrt(2),sqrt(2)); C=(2+sqrt(2),2+sqrt(2));\\nB=(2,2+2sqrt(2)); A=(0,2+2*sqrt(2)); H=(-sqrt(2),2+sqrt(2)); G=(-sqrt(2),sqrt(2));\\ndraw(A--B--C--D--E--F--G--H--cycle);\\ndraw(A--E);\\npair M=(B+C)/2; pair N=(F+G)/2;\\ndraw(M--N);\\n\\nlabel(\\\"$A$\\\",A,N); label(\\\"$B$\\\",B,NE); label(\\\"$C$\\\",C,E); label(\\\"$D$\\\",D,E);\\n\\nlabel(\\\"$E$\\\",E,S); label(\\\"$F$\\\",F,S); label(\\\"$G$\\\",G,W); label(\\\"$H$\\\",H,W);\\nlabel(\\\"$M$\\\",M,NE); label(\\\"$N$\\\",N,SW);\\n\\nlabel(\\\"$O$\\\",(1,2.4),E);\\npair X=(C+D)/2; pair Y=(G+H)/2; pair Z=(E+F)/2; pair W=(A+B)/2;\\ndraw(Z--W,gray); draw(X--Y,gray); draw(B--F,gray); draw(C--G,gray); draw(D--H,gray); pair I=(D+E)/2; pair J=(A+H)/2; draw(I--J,gray);\\n[/asy]\\n\\nBecause of symmetry, these lines split the octagon into 16 congruent regions.  Quadrilateral $ABMO$ is made up of three of these regions and pentagon $EDCMO$ is made up of five of these regions.  Hence, $[ABMO]/[EDCMO] = \\\\boxed{\\\\frac{3}{5}}$.",
+        "Source": "MATH Geometry",
+        "KCs applied": [
+            "7.G.B.6",
+            "6.G.1"
+        ],
+        "Grade applied": [
+            "7",
+            "6"
+        ],
+        "Grade predicted": 6,
+        "KCs predicted": [
+            "6.G.A.1"
+        ],
+        "Full reply": "6.G.A.1"
+    }
+}
